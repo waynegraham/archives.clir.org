@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-
-{% for report in site.reports %}
-    <p><a href="{{ report.url | relative_url }}">{{ report.title }}</a> by {{ report.authors }}. {{ report.pub_date | date: '%B %Y' }}. {{ report.clir_id }}.</p>
+{% assign reports = site.reports | reverse %}
+{% for report in reports %}
+    <p><a href="{{ report.url | relative_url }}">{{ report.title }}</a> by {{ report.authors | join: '; ' }}. {{ report.pub_date | date: '%B %Y' }}. {{ report.clir_id }}.</p>
 {% endfor %}
 
