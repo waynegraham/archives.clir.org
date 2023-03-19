@@ -1,0 +1,43 @@
+@import 'navigation';
+@import 'footer';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+    background-image: url('/assets/images/mosaic-background.jpg');
+    min-height: 270px;
+
+    .header-box {
+        background-color: rgb(0,0,0);
+        border-left: 8px solid rgb(154,28,70);
+        width: 40%;
+    }
+}
+
+main {
+    a {
+        color: rgb(41,107,164);
+    }
+
+    p {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        line-height: 30.4px;
+        font-weight: 400;
+    }
+
+    strong {
+        font-weight: 700;
+    }
+
+    ul {
+        li {
+            line-height: 30.4px;
+            font-size: 18px;
+        }
+    }
+}

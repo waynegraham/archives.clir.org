@@ -1,0 +1,21 @@
+<div class="container">
+  <header class="p-3 mb-3">
+    <div class="container">
+      <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+        <a href="{{ '/' | relative_url }}" class="d-flex align-items-center mb-2 mb-lg-0 text-dark text-decoration-none">
+          <img height="40px" src="{{ '/assets/images/icon.png' | relative_url }}" alt="CLIR Logo">
+        </a>
+
+        <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+          <li><a href="{{ '/annual-reports/' | relative_url }}" class="nav-link px-2 link-secondary">Annual Reports</a></li>
+          <li><a href="{{ '/reports/' | relative_url }}" class="nav-link px-2 link-dark">Reports</a></li>
+          <li><a href="{{ '/archives/' | relative_url }}" class="nav-link px-2 link-dark">Archives</a></li>
+        </ul>
+
+        <form method="get" action="{{'/search/' | prepend: site.base_url }}" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+          <input class="form-control mr-sm-2" id="search-box" type="text" placeholder="Search" name="q" aria-label="Search">
+        </form>
+      </div>
+    </div>
+  </header>
+</div>

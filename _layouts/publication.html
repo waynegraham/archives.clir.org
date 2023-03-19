@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="container py-3 px-3">
+    {% assign thumbnail = page.id | replace '/reports/' , '' | append: '.png' %}
+    <img src="{{ thumbnail | prepend: '/assets/images' | relative_url }}" height="300" class="float-end" alt="{{ page.title}} Covert">
+    <p><strong>{{ page.title }}</strong></p>
+    <p>
+        {{ page.authors }} ({{ page.pub_date | date: '%m/%Y'}}, {{ page.pages }}pp.)
+        {% if page.isbn %} ISBN: {{ page.isbn }}.{% endif %} 
+        {{ page.clir_id }}.
+    </p>
+    <p>
+        <a href="https://doi.org/{{ page.doi }}">
+            <img src="https://zenodo.org/badge/DOI/{{ page.doi }}.svg" alt="DOI">
+        </a>
+    </p>
+    <p>
+        {{ page.description }}
+    </p>
+</div>
+
+<div class="container">
+    {{ content }}
+</div>
