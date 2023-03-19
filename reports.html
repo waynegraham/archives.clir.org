@@ -1,8 +1,24 @@
 ---
 layout: page
+title: CLIR Reports
 ---
-{% assign reports = site.reports | reverse %}
-{% for report in reports %}
-    <p><a href="{{ report.url | relative_url }}">{{ report.title }}</a> by {{ report.authors | join: '; ' }}. {{ report.pub_date | date: '%B %Y' }}. {{ report.clir_id }}.</p>
-{% endfor %}
+<p>
+    CLIR has published more than {{ site.reports.size }} reports on topics relating to preservation, digital libraries, economics of information, trends in information use, international developments, and the changing role of the library.
+</p>
 
+<p>
+    The full text of most of our publications is available, for free, on this site. Find the title you are interested in from the list below, click on it, and you will be taken to the report's abstract page where you can access the text electronically.
+</p>
+
+<p>
+    CLIR reports are made possible in part by support from our <a href="https://www.clir.org/about/current-sponsors-and-funders/" target="_blank">sponsoring institutions</a>. Sponsors receive complimentary copies of our print publications.
+</p>
+
+<p>This list is in chronological order with the most recent reports at the top.</p>
+
+<div class="py-5">
+    {%- assign reports = site.reports | reverse -%}
+    {% for report in reports %}
+    <p><a href="{{ report.url | relative_url }}">{{ report.title }}</a> by {{ report.authors | join: '; ' }}. {{ report.pub_date | date: '%B %Y' }}. {{ report.clir_id }}.</p>
+    {% endfor %}
+</div>
