@@ -9,7 +9,9 @@ layout: default
             <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" height="300" class="float-end" alt="{{ page.title}} Covert">
         </a>
     {% else %}
+        {% unless page.html_only == true %}
         <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" height="300" class="float-end" alt="{{ page.title}} Covert">
+        {% endunless %}
     {% endif %}
 
     <p>{{ page.clir_id }}. <strong>{{ page.title }}</strong></p>
