@@ -3,7 +3,7 @@ layout: default
 ---
 {%- assign thumbnail = page.clir_id | append: '.png' -%}
 {%- assign doi_link = page.doi | prepend: 'https://doi.org/' -%}
-<div class="container py-3 px-3">
+<div class="container py-5 px-3">
     {% if page.doi %}
         <a href="{{ doi_link }}" target="_blank">
             <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" height="300" class="float-end" alt="{{ page.title}} Covert">
@@ -38,6 +38,8 @@ layout: default
 
 </div>
 
-<div class="container">
+{% if page.content %}
+<div class="container border-top py-5">
     {{ content }}
 </div>
+{% endif %}
