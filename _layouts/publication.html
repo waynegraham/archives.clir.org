@@ -28,6 +28,12 @@ layout: default
     <p>
         {{ page.description }}
     </p>
+    {% if page.doi %}
+    <p>
+        <a target="_blank" class="btn btn-primary" href="{{ doi_link }}">View</a>
+    </p>
+    {% endif %}
+
 </div>
 
 <div class="container">
