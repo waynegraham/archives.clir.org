@@ -3,12 +3,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
 
 #header {
-    background-image: url('/assets/images/mosaic-background.jpg');
+    background-image: url('../images/mosaic-background.jpg');
     min-height: 270px;
 
     .header-box {
