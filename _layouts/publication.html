@@ -28,7 +28,7 @@ layout: default
     </p>
     {% endif %}
     <p>
-        {{ page.description }}
+        {{ page.description | markdownify }}
     </p>
     {% if page.doi %}
     <p>
