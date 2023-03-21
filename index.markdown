@@ -14,10 +14,10 @@ Blogs cover myriad topics of interest and stories from our communities:
 * **[Re: Thinking](https://www.clir.org/category/rethinking/)**, broad and encompassing posts encouraging deeper thinking and exploration
 * **[Year of CLIR](https://www.clir.org/pubs/resources/a-year-of-clir/)**, highlighting key activity from each year since its founding in 1956
 
-**[Reports](/reports)** are published throughout the year on topics relating to digital libraries, the economics of information, long-term access to information, and the future of the library and its leadership. 
+**[Reports]({% link reports.html %})** are published throughout the year on topics relating to digital libraries, the economics of information, long-term access to information, and the future of the library and its leadership. 
 
 **[CLIR Issues](https://www.clir.org/pubs/issues/)**, published bimonthly in a newsletter format, covers topics relevant to CLIR’s agenda.
 
-**[Annual Reports](annual-reports)**, summarizing CLIR’s activities and financial status for the previous fiscal year, is published each fall.
+**[Annual Reports]({% link annual-reports.md %})**, summarizing CLIR’s activities and financial status for the previous fiscal year, is published each fall.
 
-**[Archives](/archives/)** provide information about films, articles and presentations, a preservation tutorial, and discontinued publications.
+**[Archives]({% link archives.md %})** provide information about films, articles and presentations, a preservation tutorial, and discontinued publications.
