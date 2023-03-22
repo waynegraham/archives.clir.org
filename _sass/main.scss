@@ -3,6 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+$burgundy: rgb(154, 28, 70);
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -14,7 +15,7 @@ body {
 
     .header-box {
         background-color: rgb(0,0,0);
-        border-left: 8px solid rgb(154,28,70);
+        border-left: 8px solid $burgundy;
         width: 56%; // TODO: check how this is set
     }
 }
@@ -24,6 +25,8 @@ body {
     bottom: 20px;
     right: 20px;
     display: none;
+    background-color: $burgundy;
+    border-color: $burgundy;
 }
 
 .float-start { margin-right: 2rem; }
