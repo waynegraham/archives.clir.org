@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: CLIR Publications
 ---
 
 **[CLIR](https://www.clir.org){:target="_blank"}** publishes blogs posts, newsletters, reports, and other occasional items, driven by our research agenda and community interest. Thanks in part to the support of our **[sponsors](https://www.clir.org/about/current-sponsors-and-funders/){:target="_blank"}**, the full text of most of our publications is available to download, for free, on this website.

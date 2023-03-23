@@ -8,7 +8,6 @@ title: CLIR Articles
 
 The following is a list of significant papers, presentations, and articles that pertain to CLIR’s agenda.
 
-
 ## 2012
 
 * [Assessment 360: Mapping Undergraduates and the Library at the University of Connecticut](https://zenodo.org/record/7616115). By Susanna M. Cowan. March 2012.
@@ -93,7 +92,8 @@ December 16, 2009 **Webinar errors, only an agenda**
 
 
 ## 2003
-* CLIR Annual Sponsors’ Symposium 2003 March 28, 2003. **The files have disappeared over migrations** (see <https://web.archive.org/web/20150907073429/http://www.clir.org/pubs/resources/2003-sponsors-symposium/symp2003PPT.html> and <https://web.archive.org/web/20150907235738/http://www.clir.org/pubs/resources/2003-sponsors-symposium/mar03_users.html>)
+
+* CLIR Annual Sponsors’ Symposium 2003 March 28, 2003. **The files have disappeared over migrations** (see <https://web.archive.org/web/20150907073429/http://www.clir.org/pubs/resources/2003-sponsors-symposium/symp2003PPT.html> and <https://web.archive.org/web/*/http://www.clir.org/pubs/resources/2003-sponsors-symposium/sympslides2003/Horrigan_files/*>)
   * The Internet’s Impact on American Life
   * John Horrigan, Senior Research Specialist, Pew Internet and American Life
   * Dimensions and Use of Scholarly Information Resources: The Outsell Data
