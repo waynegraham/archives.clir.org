@@ -1,6 +1,6 @@
 # TODO:
 
-[] Move images for pub046 (Isoperms) to this repo and fix links
+
 
 ## Thumbnail conversion
 
@@ -16,4 +16,8 @@ task 'thumbnails' do
     end
 end
 ```
+
+# Issues
+
+AIC Brochure by Rebecca Graham. January 2000. - not a report, but listed there
 

@@ -28,8 +28,7 @@ body {
     border-color: $clir_burgundy;
 }
 
-.float-start { margin-right: 2rem; }
-.float-end { margin-left: 2rem; }
+.float-start, .float-end { margin: 1.6rem; }
 
 main {
     a {
