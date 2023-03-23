@@ -19,7 +19,7 @@ title: Annual Reports
                 {% assign path = '/assets/images/annual_reports/' %}
                 <div class="col">
                     <div class="card shadow-sm h-100">
-                        <img src="{{ report.thumbnail | prepend: path | relative_url }}" alt="{{ report.title }}">
+                        <img src="{{ report.thumbnail | prepend: path | relative_url }}" alt="{{ report.title }}" loading="lazy">
                         <div class="card-body bg-light">
                             <h5 class="card-title">{{ report.title }}</h5>
                             {% if report.zenodo %}
