@@ -12,7 +12,7 @@
           <li><a href="{{ '/archives/' | relative_url }}" class="nav-link px-2 link-dark">Archives</a></li>
         </ul>
 
-        <form method="get" action="{{'/search/' | prepend: site.base_url }}" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+        <form method="get" action="{{'/search/' | relative_url }}" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
           <input class="form-control mr-sm-2" id="search-box" type="text" placeholder="Search" name="q" aria-label="Search">
         </form>
       </div>
