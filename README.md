@@ -1,3 +1,8 @@
+# Search Index
+
+Run `npm run build` to regenerate the search index. 
+
+
 # TODO:
 
 

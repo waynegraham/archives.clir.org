@@ -1,4 +1,74 @@
 var store = {
+    "pub100": {
+        "clir_id": "pub100",
+        "title": "Building and Sustaining Digital Collections: Models for Libraries and Museums",
+        "authors": [
+            "Council on Library and Information Resources"
+        ],
+        "description": {
+            "s": "In February 2001 the Council on Library and Information Resources CLIR and the National Initiative for a Networked Cultural Heritage NINCH convened a meeting to discuss how museums and libraries are building digital collections and what business models are available to sustain them A group of museum and library senior executives met with business and legal experts technologists and funders to discuss the challenges that cultural institutions face when putting collections online and to identify models for sustainability that support the core missions without contravening the internal cultures of nonprofit entities Using examples of six enterprisesJSTOR HighWire Press The International Center for Photography and George Eastman House Questia Media Inc Art Museum Network and Fathomthe report illustrates the differing approaches being used to extend the reach of collections and services online",
+            "orig": "In February 2001 the Council on Library and Information Resources CLIR and the National Initiative for a Networked Cultural Heritage NINCH convened a meeting to discuss how museums and libraries are building digital collections and what business models are available to sustain them A group of museum and library senior executives met with business and legal experts technologists and funders to discuss the challenges that cultural institutions face when putting collections online and to identify models for sustainability that support the core missions without contravening the internal cultures of nonprofit entities Using examples of six enterprisesJSTOR HighWire Press The International Center for Photography and George Eastman House Questia Media Inc Art Museum Network and Fathomthe report illustrates the differing approaches being used to extend the reach of collections and services online",
+            "length": 901
+        },
+        "isbn": "1-887334-85-8",
+        "doi": "10.5281/zenodo.7775492",
+        "pub_date": "2001-08-01T00:00:00.000Z",
+        "pages": 29,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub100/"
+    },
+    "pub099": {
+        "clir_id": "pub99",
+        "title": "Selection and Presentation of Commercially Available Electronic Resources: Issues and Practices",
+        "authors": [
+            "Jewell, Timothy D."
+        ],
+        "description": {
+            "s": "Author Timothy D Jewell head of collection management services at the University of Washington provides an indepth look at how several research libraries select license present and support the use of commercial online materials Uncovering a variety of practices he identifies those that are proving to be most effective integrating commercial online materials into library collections He includes a decision tool that emphasizes and supports strategic planning and encourages careful consideration of how libraries functions and professional staff are organized He also supplies a reference tool citing working papers and operational guidelines that libraries rely on but rarely publish Finally the author frames an important and practical development agenda by encouraging libraries to collaborate in designing information systems capable of organizing the detailed and often dynamic information they need to maintain about their commercial holdings",
+            "orig": "Author Timothy D Jewell head of collection management services at the University of Washington provides an indepth look at how several research libraries select license present and support the use of commercial online materials Uncovering a variety of practices he identifies those that are proving to be most effective integrating commercial online materials into library collections He includes a decision tool that emphasizes and supports strategic planning and encourages careful consideration of how libraries functions and professional staff are organized He also supplies a reference tool citing working papers and operational guidelines that libraries rely on but rarely publish Finally the author frames an important and practical development agenda by encouraging libraries to collaborate in designing information systems capable of organizing the detailed and often dynamic information they need to maintain about their commercial holdings",
+            "length": 950
+        },
+        "isbn": "1-887334-84-X",
+        "doi": "10.5281/zenodo.7775473",
+        "pub_date": "2001-07-01T00:00:00.000Z",
+        "pages": 80,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub099/"
+    },
+    "pub098": {
+        "clir_id": "pub98",
+        "title": "Building Sustainable Collections of Free Third-Party Web Resources",
+        "authors": [
+            "Pitschmann, Louis A."
+        ],
+        "description": {
+            "s": "This report identifies and synthesizes existing practices used in developing collections of free thirdparty Internet resources that support higher education and research A review of these practices and the projects they support confirms that developing collections of free Web resources is a process that requires its own set of practices policies and organizational models Where possible the report recommends those practices policies and models that have proved to be particularly effective in terms of sustainability scalability costeffectiveness and applicability to their stated purpose The report outlines the similarities and differences between print and free Web resources and describes how the nature and complexity of free Web resources comply with or challenge traditional library practices and services pertaining to analog collections",
+            "orig": "This report identifies and synthesizes existing practices used in developing collections of free thirdparty Internet resources that support higher education and research A review of these practices and the projects they support confirms that developing collections of free Web resources is a process that requires its own set of practices policies and organizational models Where possible the report recommends those practices policies and models that have proved to be particularly effective in terms of sustainability scalability costeffectiveness and applicability to their stated purpose The report outlines the similarities and differences between print and free Web resources and describes how the nature and complexity of free Web resources comply with or challenge traditional library practices and services pertaining to analog collections",
+            "length": 848
+        },
+        "isbn": "1-887334-83-1",
+        "doi": "10.5281/zenodo.7775454",
+        "pub_date": "2001-06-01T00:00:00.000Z",
+        "pages": 51,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub098/"
+    },
+    "pub097": {
+        "clir_id": "pub97",
+        "title": "A Collaborative Approach to Collection Storage: The Five-College Library Depository",
+        "authors": "Bridegam, Willis E.",
+        "description": {
+            "s": "In this report Will Bridegam offers a valuable case study in the advantages and disadvantages of depository libraries their economics and the practical and political issues associated with their creation It considers the influence electronic publishing has had on the storage of paper publications It also describes a plan developed by Five Colleges Inc Amherst College Hampshire College Mount Holyoke College Smith College and the University of Massachusetts at Amherst that calls for deaccessioning duplicates within a jointly administered depository collection As director of the library at Amherst College the author played a key role in establishing the initial offsite storage facility as well as in broadening its service to the Five Colleges As libraries change in response to budgetary constraints as well as developments in information technology the Five College Library Depository model suggests new possibilities for collection management and ways for libraries to reframe their service missions The questions facing all academic libraries to what extent can we provide access to materials that we do not own and which materials must we preserve for future generations are examined in this report",
+            "orig": "In this report Will Bridegam offers a valuable case study in the advantages and disadvantages of depository libraries their economics and the practical and political issues associated with their creation It considers the influence electronic publishing has had on the storage of paper publications It also describes a plan developed by Five Colleges Inc Amherst College Hampshire College Mount Holyoke College Smith College and the University of Massachusetts at Amherst that calls for deaccessioning duplicates within a jointly administered depository collection As director of the library at Amherst College the author played a key role in establishing the initial offsite storage facility as well as in broadening its service to the Five Colleges As libraries change in response to budgetary constraints as well as developments in information technology the Five College Library Depository model suggests new possibilities for collection management and ways for libraries to reframe their service missions The questions facing all academic libraries to what extent can we provide access to materials that we do not own and which materials must we preserve for future generations are examined in this report",
+            "length": 1209
+        },
+        "isbn": "1-887334-81-5",
+        "doi": "10.5281/zenodo.7775411",
+        "pub_date": "2001-06-01T00:00:00.000Z",
+        "pages": 41,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub097/"
+    },
     "pub096": {
         "clir_id": "pub96",
         "title": "Folk Heritage Collections in Crisis",
