@@ -1,4 +1,225 @@
 var store = {
+    "pub111": {
+        "clir_id": "pub111",
+        "title": "The State of Preservation Programs in American College and Research Libraries: Building a Common Understanding and Action Agenda",
+        "authors": [
+            "Kenney, Anne R.",
+            "Stam, Deirdre C."
+        ],
+        "description": {
+            "s": "With funding from the Institute for Museum and Library Services the Council on Library and Information Resources ARL the University Libraries Group and the Regional Alliance for Preservation conducted a joint study in 2001 to examine the state of preservation programs in American academic libraries The study was conducted in two phases and relied on qualitative as well as quantitative data gathering In Phase I statistical information and other quantitative data relevant to preservation activity were collected in a survey of 116 libraries from the University Libraries Group major nonARL land grant institutions and leading liberal arts colleges in what is informally known as the Oberlin Group These data were compared with information that had been published in ARL Preservation Statistics for 20002001 Phase II focused on obtaining qualitative data to complement the statistical data Qualitative data were gathered by means of 20 site visits to institutions that represented the three surveyed groups plus the ARL Anne R Kenney then director of programs at CLIR served as project director Deirdre C Stam served as project consultant",
+            "orig": "With funding from the Institute for Museum and Library Services the Council on Library and Information Resources ARL the University Libraries Group and the Regional Alliance for Preservation conducted a joint study in 2001 to examine the state of preservation programs in American academic libraries The study was conducted in two phases and relied on qualitative as well as quantitative data gathering In Phase I statistical information and other quantitative data relevant to preservation activity were collected in a survey of 116 libraries from the University Libraries Group major nonARL land grant institutions and leading liberal arts colleges in what is informally known as the Oberlin Group These data were compared with information that had been published in ARL Preservation Statistics for 20002001 Phase II focused on obtaining qualitative data to complement the statistical data Qualitative data were gathered by means of 20 site visits to institutions that represented the three surveyed groups plus the ARL Anne R Kenney then director of programs at CLIR served as project director Deirdre C Stam served as project consultant",
+            "length": 1140
+        },
+        "isbn": "1-887334-96-3",
+        "doi": "10.5281/zenodo.7776019",
+        "pub_date": "2002-12-01T00:00:00.000Z",
+        "pages": 57,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub111/"
+    },
+    "pub110": {
+        "title": "Dimensions and Use of the Scholarly Information Environment: Introduction to a Data Set Assembled by the Digital Library Federation and Outsell, Inc.",
+        "authors": [
+            "Friedlander, Amy"
+        ],
+        "description": {
+            "s": "Users expectations of libraries are changing as they find and obtain more information directly from the Web To better understand how usage patterns are changing the Digital Library Federation DLF and Council on Library and Information Resources CLIR commissioned Outsell Inc to conduct a largescale study of undergraduates graduate students and faculty members from a wide range of academic institutions",
+            "orig": "Users expectations of libraries are changing as they find and obtain more information directly from the Web To better understand how usage patterns are changing the Digital Library Federation DLF and Council on Library and Information Resources CLIR commissioned Outsell Inc to conduct a largescale study of undergraduates graduate students and faculty members from a wide range of academic institutions",
+            "length": 403
+        },
+        "isbn": "1-887334-94-7",
+        "pub_date": "08/2002",
+        "pages": 897,
+        "content": " About the Authorabouttheauthor Prefacepreface Introductionintroduction Data Collectiondatacollection Distribution of Respondentsdistributionofrespondents Part 1 Faculty and Studentspart1facultyandstudents Part 2 Infrastructure Facilities and Servicespart2infrastructurefacilitiesandservices Part 3 Formatspart3formats PrintHardcopy Booksprinthardcopybooks PrintHardcopy Journalsprinthardcopyjournals Electronic Journals Ejournalselectronicjournalsejournals Observations and Implicationsobservationsandimplications FOOTNOTESfootnotes Referencesreferences Key to Tableskeytotables List of Tableslistoftables Appendix 1 Institutions in Study Sample based on Carnegie Classificationappendix1institutionsinstudysamplebasedoncarnegieclassification About the Author Amy Friedlander is special projects associate at the Council on Library and Information Resources She is primarily responsible for CLIRaposs work with the Library of Congress on its National Digital Information Infrastructure Preservation Program NDIIPP Before joining CLIR she was the founding editor of DLib Magazine and iMP The Magazine on Information Impacts She has published on the implications of higher education for the historical role of women and on the history of largescale technologybased infrastructures Preface We know from anecdotal evidence that usersapos expectations of libraries are changing as they find more information directly from the Web Anecdotal evidence though is hardly enough for developing persuasive plans for new library services The Digital Library Federation DLF and Council on Library and Information Resources CLIR commissioned Outsell Inc to conduct a largescale study of undergraduates graduate students and faculty members from academic institutions ranging from the small liberal arts college to the largest research university Our hope was that a picture of user behavior would emerge This report presents a summary of the findings and 158 selected data tables it should be viewed as an entry to a much larger data set The full set of 659 data tables provided by Outsell will be mounted on CLIRaposs or DLFaposs Web site We encourage readers to make use of these tables and ask that you share with us your analyses of the data In addition CLIR will deposit the raw data tapes with the InterUniversity Consortium for Political and Social Research ICPSR CLIR and DLF expect to commission additional work based on the data We welcome proposals from readers with an interest in performing more detailed studies Deanna B Marcum President CLIR Introduction Academic and research libraries face numerous challenges in managing their information resources in the digital age Like many other organizations the Digital Library Federationhttpswwwdigliborg DLF has become concerned about changing patterns of information use for teaching learning and research and about the implications of these patterns for libraries and library directors who require reliable information for strategic planning In collaboration with the Council on Library and Information Resourceshttpswwwclirorg CLIR and Outsell Inchttpswwwoutsellinccom the DLF has initiated a planning and research process to understand how library use is changing and to support future investigation and analysis The survey conducted by Outsell and described herein is only one of several activities under way or recently completed Related projects include A survey by DLF Distinguished Fellow Denise Troll Covey of methods applied by leading research libraries to assess the use and usability of online collections and services Troll Covey 2002httpswwwclirorgpubsreportspub105 A survey by former DLF Director Daniel Greenstein and Indiana University Dean of Libraries Suzanne Thorin of the policy organizational and financial environments in which leading research libraries are developing their digital libraries Greenstein and Thorin 2002httpswwwclirorgpubsreportspub109 A study by Charles McClure and colleagues into methods of assessing quality in digital reference services McClure et al 2002httpquartzsyreduquality Outsell developed the survey questionnaire with guidance from the DLF advisory group on user studies Interviews began in fall 2001 and continued over two and onehalf months The primary goal of the survey questionnaire was to collect data on the relevance of existing and possible future services as well as on student and faculty perceptions of the librarys value in the context of the scholarly information environment Other objectives included determining 1 what information resources are used to support research teaching and learning and 2 how those sources and services are located evaluated and used by faculty and students at different kinds of institutions of higher education and in different disciplines It is expected that the data will support evaluations of the librarys current and potential future roles as well as more detailed studies on the development and use of collections This report includes 158 of the 659 data tables provided by Outsell a few summary observations and a brief discussion of some possible implications of the findings In addition to publishing this report CLIR and DLF will post to the Web all 659 of the data tables and will deposit the raw data tapes with the InterUniversity Consortium for Political and Social Research ICPSRhttpswwwicpsrumicheduwebpages11 In this document the tables have been grouped in three categories 1 Faculty and Students 2 Infrastructure Facilities and Services and 3 Formats The information presented in the tables overlaps to some extent however the tables included in Faculty and Students primarily contain data about who participated and what they do Tables included in Infrastructure Facilities and Services contain data related to where faculty and students access information Finally tables grouped within Formats contain comparative data on the formats and media that faculty and students use for research teaching and coursework Data Collection ",
+        "url": "/archives.clir.org/reports/pub110/"
+    },
+    "pub109": {
+        "clir_id": "pub109",
+        "title": "The Digital Library: A Biography",
+        "authors": [
+            "Greenstein, Daniel",
+            "Thorin, Suzanne E."
+        ],
+        "description": {
+            "s": "Digital libraries once project based and largely autonomous efforts are maturing As individual programs have grown each has developed its own personality reflecting the circumstances of its creation and environment and its leadership This report from CLIR and the Digital Library Federation DLF draws on the results of a survey and case studies of DLF members to reveal how these influences have molded a range of organizational forms that we call the digital library The report is written by Daniel Greenstein and Suzanne Thorin Greenstein formerly the director of the DLF is now university librarian for systemwide library planning and scholarly information and director of the California Digital Library Thorin is the dean of university libraries at Indiana University Section one of the report examines three stages of digital library growth the young digital library the maturing digital library and the adult digital library Section two of the report presents case studies of digital library development at six institutions",
+            "orig": "Digital libraries once project based and largely autonomous efforts are maturing As individual programs have grown each has developed its own personality reflecting the circumstances of its creation and environment and its leadership This report from CLIR and the Digital Library Federation DLF draws on the results of a survey and case studies of DLF members to reveal how these influences have molded a range of organizational forms that we call the digital library The report is written by Daniel Greenstein and Suzanne Thorin Greenstein formerly the director of the DLF is now university librarian for systemwide library planning and scholarly information and director of the California Digital Library Thorin is the dean of university libraries at Indiana University Section one of the report examines three stages of digital library growth the young digital library the maturing digital library and the adult digital library Section two of the report presents case studies of digital library development at six institutions",
+            "length": 1029
+        },
+        "isbn": "1-887334-94-7",
+        "doi": "10.5281/zenodo.7775954",
+        "pub_date": "2002-08-01T00:00:00.000Z",
+        "pages": 78,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub109/"
+    },
+    "pub108": {
+        "clir_id": "pub108",
+        "title": "Diffuse Libraries: Emergent Roles for the Research Library in the Digital Age",
+        "authors": [
+            "Lougee, Wendy Pradt"
+        ],
+        "description": {
+            "s": "Research libraries are taking on a range of new roles in the digital age as they become more deeply engaged in the creation and dissemination of knowledge While some of these roles are extensions of traditional library activity others are largely new Wendy Lougee university librarian at the University of Minnesota explores some of these emerging functions in this report Lougee includes several examples of how some libraries and library organizations are forging new services in areas of collection development information access and user services she also touches briefly on the continued importance of library as place In addition she suggests where new roles might emerge In the section on information access for example she notes the potential for libraries to contribute to the development of the Semantic Web which aims to develop languages for expressing information in a form that machines can process and which therefore can be searched more accurately and efficiently She writes Designing the Semantic Web will require a mix of skills and librarians have the potential to contribute significantly to this effort She also notes that there is a potential role for the library in certifying the authenticity and provenance of content on the Semantic Web",
+            "orig": "Research libraries are taking on a range of new roles in the digital age as they become more deeply engaged in the creation and dissemination of knowledge While some of these roles are extensions of traditional library activity others are largely new Wendy Lougee university librarian at the University of Minnesota explores some of these emerging functions in this report Lougee includes several examples of how some libraries and library organizations are forging new services in areas of collection development information access and user services she also touches briefly on the continued importance of library as place In addition she suggests where new roles might emerge In the section on information access for example she notes the potential for libraries to contribute to the development of the Semantic Web which aims to develop languages for expressing information in a form that machines can process and which therefore can be searched more accurately and efficiently She writes Designing the Semantic Web will require a mix of skills and librarians have the potential to contribute significantly to this effort She also notes that there is a potential role for the library in certifying the authenticity and provenance of content on the Semantic Web",
+            "length": 1263
+        },
+        "isbn": "1-887334-93-9",
+        "doi": "10.5281/zenodo.7775941",
+        "pub_date": "2002-08-01T00:00:00.000Z",
+        "pages": 35,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub108/"
+    },
+    "pub107": {
+        "clir_id": "pub107",
+        "title": "The State of Digital Preservation: An International Perspective",
+        "authors": [
+            "Marcum, Deanna",
+            "Thibodeau, Kenneth",
+            "Hedstrom, Margaret",
+            "Bellinger, Meg",
+            "Campbell, Laura",
+            "van der Werf, Titia",
+            "Webb, Colin",
+            "Waters, Donald"
+        ],
+        "description": {
+            "s": "The State of Digital Preservation An International Perspective is the first in a series of international symposiums that are supported by a grant from Documentation Abstracts Inc DAI The institutes presented by CLIR will address key issues in information science relating to digital libraries economics of information or resources for scholarship This volume of conference proceedings is from the April 2002 symposium Included are the following essays Introduction The Changing Preservation Landscape Deanna Marcum Overview of Technological Approaches to Digital Preservation and Challenges in Coming Years Kenneth Thibodeau The Digital Preservation Research Agenda Margaret Hedstrom Understanding Digital Preservation A Report from OCLC Meg Bellinger Update on the National Digital Infrastructure Initiative Laura Campbell Experience of the National Library of the Netherlands Titia van der Werf Digital PreservationA ManyLayered Thing Experience at the National Library of Australia Colin Webb Good Archives Make Good Scholars Reflections on Recent Steps Toward the Archiving of Digital Information Donald Waters",
+            "orig": "The State of Digital Preservation An International Perspective is the first in a series of international symposiums that are supported by a grant from Documentation Abstracts Inc DAI The institutes presented by CLIR will address key issues in information science relating to digital libraries economics of information or resources for scholarship This volume of conference proceedings is from the April 2002 symposium Included are the following essays Introduction The Changing Preservation Landscape Deanna Marcum Overview of Technological Approaches to Digital Preservation and Challenges in Coming Years Kenneth Thibodeau The Digital Preservation Research Agenda Margaret Hedstrom Understanding Digital Preservation A Report from OCLC Meg Bellinger Update on the National Digital Infrastructure Initiative Laura Campbell Experience of the National Library of the Netherlands Titia van der Werf Digital PreservationA ManyLayered Thing Experience at the National Library of Australia Colin Webb Good Archives Make Good Scholars Reflections on Recent Steps Toward the Archiving of Digital Information Donald Waters",
+            "length": 1114
+        },
+        "isbn": "1-887334-92-0",
+        "doi": "10.5281/zenodo.7775922",
+        "pub_date": "2002-07-01T00:00:00.000Z",
+        "pages": 103,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub107/"
+    },
+    "pub106": {
+        "clir_id": "pub106",
+        "title": "Building a National Strategy for Preservation: Issues in Digital Media Archiving",
+        "authors": [
+            "Friedlander, Amy",
+            "Flecker, Dale",
+            "Romano, Frank",
+            "Lyman, Peter",
+            "Brylawski, Samuel",
+            "Ide, Mary",
+            "MacCarn, Dave",
+            "Shepard, Thom",
+            "Weisse, Leah",
+            "Wactlar, Howard D.",
+            "Christel, Michael G.",
+            "Marcum, Deanna",
+            "Campbell, Laura"
+        ],
+        "description": {
+            "s": "In December 2000 the US Congress appropriated funds to the Library of Congress LC to spearhead an effort to develop a national strategy for the preservation of digital information Understanding that the task cannot be accomplished by any one organization Congress wrote into the appropriations language a requirement that LC work with other federal scholarly and nonprofit organizations to discuss the problem and produce a plan The staff of the Library of Congress immediately scheduled a series of conversations with representatives from the technology business entertainment academic legal archival and library communities LC asked the Council on Library and Information Resources to commission background papers for these sessions and to summarize the meetings The resulting papers along with an integrative essay by Amy Friedlander are presented in this document",
+            "orig": "In December 2000 the US Congress appropriated funds to the Library of Congress LC to spearhead an effort to develop a national strategy for the preservation of digital information Understanding that the task cannot be accomplished by any one organization Congress wrote into the appropriations language a requirement that LC work with other federal scholarly and nonprofit organizations to discuss the problem and produce a plan The staff of the Library of Congress immediately scheduled a series of conversations with representatives from the technology business entertainment academic legal archival and library communities LC asked the Council on Library and Information Resources to commission background papers for these sessions and to summarize the meetings The resulting papers along with an integrative essay by Amy Friedlander are presented in this document",
+            "length": 867
+        },
+        "isbn": "1-887334-91-2",
+        "doi": "10.5281/zenodo.7775889",
+        "pub_date": "2002-04-01T00:00:00.000Z",
+        "pages": 102,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub106/"
+    },
+    "pub105": {
+        "clir_id": "pub105",
+        "title": "Usage and Usability Assessment: Library Practices and Concerns",
+        "authors": [
+            "Covey, Denise Troll"
+        ],
+        "description": {
+            "s": "This report offers a survey of the methods that are being deployed at leading digital libraries to assess the use and usability of their online collections and services Focusing on 24 Digital Library Federation member libraries the studys author Distinguished DLF Fellow Denise Troll Covey conducted numerous interviews with library professionals who are engaged in assessment The report describes the application strengths and weaknesses of assessment techniques that include surveys focus groups user protocols and transaction log analysis Coveys work is also an essential methodological guidebook For each method that she covers she is careful to supply a definition explain why and how libraries use the method what they do with the results and what problems they encounter The report includes an extensive bibliography on more detailed methodological information and descriptions of assessment instruments that have proved particularly effective",
+            "orig": "This report offers a survey of the methods that are being deployed at leading digital libraries to assess the use and usability of their online collections and services Focusing on 24 Digital Library Federation member libraries the studys author Distinguished DLF Fellow Denise Troll Covey conducted numerous interviews with library professionals who are engaged in assessment The report describes the application strengths and weaknesses of assessment techniques that include surveys focus groups user protocols and transaction log analysis Coveys work is also an essential methodological guidebook For each method that she covers she is careful to supply a definition explain why and how libraries use the method what they do with the results and what problems they encounter The report includes an extensive bibliography on more detailed methodological information and descriptions of assessment instruments that have proved particularly effective",
+            "length": 950
+        },
+        "isbn": "1-887334-89-0",
+        "doi": "10.5281/zenodo.7775875",
+        "pub_date": "2002-01-01T00:00:00.000Z",
+        "pages": 99,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub105/"
+    },
+    "pub104": {
+        "clir_id": "pub104",
+        "title": "Scholarly Work in the Humanities and the Evolving Information Environment",
+        "authors": [
+            "Brockman, William S.",
+            "Neumann, Laura",
+            "Palmer, Carole L.",
+            "Tidline, Tonyia J."
+        ],
+        "description": {
+            "s": "As the scholarly information environment changes so do the needs expectations and behaviors of users Assessing and responding to those changes is essential for the academic library so that it may continue in support of the scholarly mission The authors of this report have formally examined how humanities scholars conduct and collate their research The study was based on a small sample of scholars nonetheless the results are powerfully suggestive of ways in which academic libraries can adapt to and develop in a rapidly changing environment In particular the findings emphasize how important it is for libraries to chart their evolutionary course in close consultation with scholarly user communities This study results from the fruitful crossfertilization between the scholar concerned with aspects of information science and the librarian concerned with delivering operational information services",
+            "orig": "As the scholarly information environment changes so do the needs expectations and behaviors of users Assessing and responding to those changes is essential for the academic library so that it may continue in support of the scholarly mission The authors of this report have formally examined how humanities scholars conduct and collate their research The study was based on a small sample of scholars nonetheless the results are powerfully suggestive of ways in which academic libraries can adapt to and develop in a rapidly changing environment In particular the findings emphasize how important it is for libraries to chart their evolutionary course in close consultation with scholarly user communities This study results from the fruitful crossfertilization between the scholar concerned with aspects of information science and the librarian concerned with delivering operational information services",
+            "length": 903
+        },
+        "isbn": "1-887334-90-4",
+        "doi": "10.5281/zenodo.7775852",
+        "pub_date": "2001-12-01T00:00:00.000Z",
+        "pages": 46,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub104/"
+    },
+    "pub103": {
+        "clir_id": "pub103",
+        "title": "The Evidence in Hand: Report of the Task Force on the Artifact in Library Collections",
+        "authors": [
+            "Nichols, Stephen G.",
+            "Smith, Abby"
+        ],
+        "description": {
+            "s": "Although film and digital technology have made the intellectual content of artifacts far more accessible to researchers scholars have an abiding interest in consulting the original Maintaining original artifacts while also providing increased access to surrogates poses new challenges to university and library administrators who must make difficult choices about how to invest in information resources In 1999 CLIR convened a task force of scholars academic officers librarians and archivists to investigate the role of artifactsoriginal unreformatted materialsin library and archival collections and the value of those materials for scholarship and teaching The inquiry was sparked by a recognition of the growing tension between how much information is produced and how much can be acquired preserved and made accessible in meaningful ways The task force members were asked to articulate a framework for making or evaluating institutional policies for the retention of published materials and archival or unpublished materials in their original form The report deals in detail with the ways in which artifacts and their physical frailties affect their research valueoriginality faithfulness fixity and stabilityover time and with how libraries can minimize the risk of unacceptable loss of that value It investigates the specific issues around selected media such as paperbased printed matter moving image and recorded sound materials and objects that exist in digital form and points to two key strategiespreventive maintenance and use of surrogatescurrently in use in libraries that can be scaled up to deal with a problem of this magnitude Specific recommendations are provided for different media",
+            "orig": "Although film and digital technology have made the intellectual content of artifacts far more accessible to researchers scholars have an abiding interest in consulting the original Maintaining original artifacts while also providing increased access to surrogates poses new challenges to university and library administrators who must make difficult choices about how to invest in information resources In 1999 CLIR convened a task force of scholars academic officers librarians and archivists to investigate the role of artifactsoriginal unreformatted materialsin library and archival collections and the value of those materials for scholarship and teaching The inquiry was sparked by a recognition of the growing tension between how much information is produced and how much can be acquired preserved and made accessible in meaningful ways The task force members were asked to articulate a framework for making or evaluating institutional policies for the retention of published materials and archival or unpublished materials in their original form The report deals in detail with the ways in which artifacts and their physical frailties affect their research valueoriginality faithfulness fixity and stabilityover time and with how libraries can minimize the risk of unacceptable loss of that value It investigates the specific issues around selected media such as paperbased printed matter moving image and recorded sound materials and objects that exist in digital form and points to two key strategiespreventive maintenance and use of surrogatescurrently in use in libraries that can be scaled up to deal with a problem of this magnitude Specific recommendations are provided for different media",
+            "length": 1703
+        },
+        "isbn": "1-887334-88-2",
+        "doi": "10.5281/zenodo.7775838",
+        "pub_date": "2001-11-01T00:00:00.000Z",
+        "pages": 125,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub103/"
+    },
+    "pub102": {
+        "clir_id": "pub102",
+        "title": "Proceedings of the 2000 Sino-United States Symposium and Workshop on Library and Information Science Education in the Digital Age. November 5-10, 2000; Wuhan, China.",
+        "authors": [
+            "Perushek, D. E."
+        ],
+        "description": {
+            "s": "This report contains papers presented at the plenary sessions of the 2000 SinoUnited States Symposium and Workshop on Library and Information Science Education in the Digital Age held November 510 2000 in Wuhan China The question of how best to train professionals for library and information professions is being debated in many countries What should these professionals be prepared to do The very question raises a host of other questions about the future of the information infrastructure and how and where knowledge will be created kept and made available These papers written by leading Chinese and American educators provide a snapshot of the educators concerns at a time when the digital environment is bringing about rapid fundamental change in libraries As Diane Perushek notes in her introduction there is a high degree of commonality in the concerns expressed by participants from both countries despite the quite different paths that the library profession has followed in each",
+            "orig": "This report contains papers presented at the plenary sessions of the 2000 SinoUnited States Symposium and Workshop on Library and Information Science Education in the Digital Age held November 510 2000 in Wuhan China The question of how best to train professionals for library and information professions is being debated in many countries What should these professionals be prepared to do The very question raises a host of other questions about the future of the information infrastructure and how and where knowledge will be created kept and made available These papers written by leading Chinese and American educators provide a snapshot of the educators concerns at a time when the digital environment is bringing about rapid fundamental change in libraries As Diane Perushek notes in her introduction there is a high degree of commonality in the concerns expressed by participants from both countries despite the quite different paths that the library profession has followed in each",
+            "length": 989
+        },
+        "isbn": "1-887334-86-6",
+        "doi": "10.5281/zenodo.7775650",
+        "pub_date": "2001-09-01T00:00:00.000Z",
+        "pages": 41,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub102/"
+    },
+    "pub101": {
+        "clir_id": "pub101",
+        "title": "Strategies for Building Digitized Collections",
+        "authors": [
+            "Smith, Abby"
+        ],
+        "description": {
+            "s": "In this report Abby Smith synthesizes the nearly 10 years experience that libraries have had digitizing items from their rare special and general collections and making them available online The learning she uncovers is distilled in and extended by several case studies conducted in leading digital libraries with very different digitization programs Smith demonstrates that digitization programs work best where their role within a librarys collection development strategy is clearly understood and she identifies several roles that such programs can play Smith also asks a number of searching questions She muses about the extent to which digitally reformatted special and rare collections can actually support scholarly research Probing further she wonders whether leading research libraries in particular might more usefully focus on digitizing general as opposed to special and rare collections In this way they would make important holdings available in new ways while taking a first step in avoiding costs associated with their redundant management The report is consequently much more than a strategic guide for individual institutions it is a route map that points important directions for the library community as a whole",
+            "orig": "In this report Abby Smith synthesizes the nearly 10 years experience that libraries have had digitizing items from their rare special and general collections and making them available online The learning she uncovers is distilled in and extended by several case studies conducted in leading digital libraries with very different digitization programs Smith demonstrates that digitization programs work best where their role within a librarys collection development strategy is clearly understood and she identifies several roles that such programs can play Smith also asks a number of searching questions She muses about the extent to which digitally reformatted special and rare collections can actually support scholarly research Probing further she wonders whether leading research libraries in particular might more usefully focus on digitizing general as opposed to special and rare collections In this way they would make important holdings available in new ways while taking a first step in avoiding costs associated with their redundant management The report is consequently much more than a strategic guide for individual institutions it is a route map that points important directions for the library community as a whole",
+            "length": 1231
+        },
+        "isbn": "1-887334-87-4",
+        "doi": "10.5281/zenodo.7775638",
+        "pub_date": "2001-09-01T00:00:00.000Z",
+        "pages": 41,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub101/"
+    },
     "pub100": {
         "clir_id": "pub100",
         "title": "Building and Sustaining Digital Collections: Models for Libraries and Museums",

@@ -8,6 +8,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.img-thumbnail {
+    max-height: 300px;
+}
+
 #header {
     background-image: url('../images/mosaic-background.jpg');
     min-height: 270px;
