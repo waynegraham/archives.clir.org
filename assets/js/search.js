@@ -17,6 +17,8 @@ function displaySearchResults(results) {
 
     if(results.length) {
 
+        displaySearchCount(results.length)
+
         let appendString='';
 
         for(var i = 0; i < results.length; i++){
@@ -34,7 +36,10 @@ function displaySearchResults(results) {
     }
 }
 
-console.log('store', store);
+function displaySearchCount(results){
+    let searchCount = document.getElementById('search-count');
+    searchCount.innerHTML = '<p>' + results + ' results found.</p>';
+}
 
 if(query) {
     // set search box value
