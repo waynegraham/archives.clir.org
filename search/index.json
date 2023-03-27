@@ -1,0 +1,15 @@
+---
+---
+var reports = 
+[
+    {%- for report in site.reports -%}
+    {   id: {{ report.clir_id | replace: "/reports/", "" | jsonify }},
+        title: {{ report.title | jsonify }},
+        description: {{ report.description | jsonify }},
+        author: {{ report.authors | join: ', ' | jsonify }},
+        tags: {{ report.subjects | jsonify}},
+        url: {{ report.url | relative_url | jsonify }},
+        date: {{ report.pub_date | jsonify }}
+    }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+]
