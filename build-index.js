@@ -42,9 +42,10 @@ files.forEach((file) => {
 const builder = new lunr.Builder();
 builder.ref('id');
 builder.field('title', { boost: 10 });
-builder.field('author');
-builder.field('category', { boost: 5 });
-builder.field('content', { boost: 15 });
+builder.field('authors');
+builder.field('description', { boost: 15 });
+builder.field('content');
+builder.field('pub_date');
 builder.metadataWhitelist = ['position'];
 
 builder.pipeline.add(
@@ -63,8 +64,9 @@ for (var key in documents) { // Add the data to lunr
     builder.add({
         'id': key,
         'title': documents[key].title,
-        'author': documents[key].author,
-        'category': documents[key].category,
+        'authors': documents[key].authors,
+        'pub_date': documents[key].pub_date,
+        'description': documents[key].description,
         'content': documents[key].content
     });
 }
