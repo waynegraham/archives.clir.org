@@ -1,9 +1,106 @@
 var store = {
+    "pub121": {
+        "clir_id": "pub121",
+        "title": "Care and Handling of CDs and DVDs: A Guide for Librarians and Archivists",
+        "authors": [
+            "Byers, Fred R."
+        ],
+        "description": {
+            "s": "This report describes in nontechnical language the various types of CDs and DVDs now in use how they are made and how they work It then distills current industry knowledge about disc longevity conditions that affect life expectancy and how to care for optical media The guide is amply illustrated and includes a glossary and bibliography The guides author Fred R Byers is a technical staff member in the Convergent Information Systems Division of the Information Technology Laboratory at NIST The guide was written for use by librarians and archivists however it will be equally useful to any business or individual wishing to safeguard CD or DVD collections",
+            "orig": "This report describes in nontechnical language the various types of CDs and DVDs now in use how they are made and how they work It then distills current industry knowledge about disc longevity conditions that affect life expectancy and how to care for optical media The guide is amply illustrated and includes a glossary and bibliography The guides author Fred R Byers is a technical staff member in the Convergent Information Systems Division of the Information Technology Laboratory at NIST The guide was written for use by librarians and archivists however it will be equally useful to any business or individual wishing to safeguard CD or DVD collections",
+            "length": 658
+        },
+        "isbn": "1-932326-04-9",
+        "doi": null,
+        "pub_date": "10/2003",
+        "pages": 48,
+        "content": " National Institute of Standards and Technologynationalinstituteofstandardsandtechnology About the Authorabouttheauthor Acknowledgmentsacknowledgments 1 Introduction1introduction 11 Scope of This Guide11scopeofthisguide 12 Use of Terms Information Content and Data12useoftermsinformationcontentanddata 13 Comparative Stability of Optical Discs and Other Media13comparativestabilityofopticaldiscsandothermedia 14 CDs and DVDs Operation and Variety14cdsanddvdsoperationandvariety 2 Ensuring That Your Digital Content Remains Available2ensuringthatyourdigitalcontentremainsavailable 3 Disc Structure3discstructure 31 Polycarbonate Plastic Substrate Layer31polycarbonateplasticsubstratelayer 32 Data Layer32datalayer 321 Data Layer in ROM Discs321datalayerinromdiscs 322 Data Layer in R Discs322datalayerinrdiscs 323 Data Layer in RW and RAM discs323datalayerinrwandramdiscs 33 Metal Reflective Layer33metalreflectivelayer 331 Metal Layer in RW ROM and RAM Discs331metallayerinrwromandramdiscs 332 Metal Layer in R Discs332metallayerinrdiscs 333 Metal Layers in DoubleLayer DVDROM Discs333metallayersindoublelayerdvdromdiscs 34 Lacquer Metal Protective Layer CDs34lacquermetalprotectivelayercds 35 Optional Surface Layer35optionalsurfacelayer 4 How Long Can You Store CDs and DVDs and Use Them Again4howlongcanyoustorecdsanddvdsandusethemagain 41 CDROM DVDROM Discs audio video interactive games graphics computer applications41cdromdvdromdiscsaudiovideointeractivegamesgraphicscomputerapplications 42 CDR DVDR DVDR Discs42cdrdvdrdvdrdiscs 43 CDRW DVDRW DVDRW DVDRAM Discs43cdrwdvdrwdvdrwdvdramdiscs 5 Conditions That Affect CDs and DVDs5conditionsthataffectcdsanddvds 51 Environmental Conditions51environmentalconditions 511 Temperature and Relative Humidity511temperatureandrelativehumidity 512 Light Exposure512lightexposure 513 Moisture513moisture 514 Organic Solvents514organicsolvents 515 Magnetism Xrays Microwaves and Radiation515magnetismxraysmicrowavesandradiation 516 Individual Disc Storage516individualdiscstorage 52 SurfaceHandling Effects52surfacehandlingeffects 521 Scratches on the LaserReading Side of CDs and DVDs521scratchesonthelaserreadingsideofcdsanddvds 522 Scratches on the Label Side of CDs522scratchesonthelabelsideofcds 523 Scratches on the Label Side of SingleSided DVDs523scratchesonthelabelsideofsinglesideddvds 524 Fingerprints Smudges Dirt and Dust524fingerprintssmudgesdirtanddust 525 Marking525marking 526 Flexing526flexing 527 Application of Adhesive Labels527applicationofadhesivelabels 528 Disc Surface Printing528discsurfaceprinting 53 Wear from Disc Play53wearfromdiscplay 6 Cleaning6cleaning APPENDIX 1 COMMERCIALLY AVAILABLE CDDVD DISC TYPESappendix1commerciallyavailablecddvddisctypes APPENDIX 2 OPTICAL MEDIA DRIVE TYPES AND HOW THEY HANDLE DIFFERENT DISC TYPESappendix2opticalmediadrivetypesandhowtheyhandledifferentdisctypes Glossaryglossary Bibliographybibliography by Fred R Byers October 2003 Copublished by Council on Library and Information Resources and National Institute of Standards and Technology Copyright 2003 by the Council on Library and Information Resources and National Institute of Standards and Technology No part of this publication may be reproduced or transcribed in any form without permission of the publishers Requests for reproduction should be submitted to the Director of Communications at the Council on Library and Information Resources National Institute of Standards and Technology Founded in 1901 the National Institute of Standards and Technology is a nonregulatory federal agency within the Technology Administration of the US Department of Commerce Its mission is to develop and promote measurement standards and technology to enhance productivity facilitate trade and improve the quality of life The Information Technology Laboratory within the National Institute of Standards and Technology works with industry research and government organizations to make information technology more usable secure scalable and interoperable than it is today It develops the tests and test methods that developers and users of such technology need to objectively measure compare and improve their systems The Convergent Information Systems Division develops and promotes the exchange storage and manifestation of digital content via information technology standards measurements and technology that support the economy welfare and defense of the United States About the Author ",
+        "url": "/archives.clir.org/reports/pub121/"
+    },
+    "pub120": {
+        "clir_id": "pub120",
+        "title": "Use and Users of Electronic Library Resources: An Overview and Analysis of Recent Research Studies",
+        "authors": [
+            "Tenopir, Carol"
+        ],
+        "description": {
+            "s": "This CLIR report summarizes and analyzes more than 200 recent research publications that focus on the use of electronic library resources digital libraries and digital resources and were published between 1995 and 2003 Eight major ongoing studies each with multiple publications are identified as Tier 1 studies and are analyzed in detail while about 100 smallerscale studies are classified as Tier 2 studies and are examined together The goal of this report is to provide information that librarians can use to make important decisions about collections services and product design",
+            "orig": "This CLIR report summarizes and analyzes more than 200 recent research publications that focus on the use of electronic library resources digital libraries and digital resources and were published between 1995 and 2003 Eight major ongoing studies each with multiple publications are identified as Tier 1 studies and are analyzed in detail while about 100 smallerscale studies are classified as Tier 2 studies and are examined together The goal of this report is to provide information that librarians can use to make important decisions about collections services and product design",
+            "length": 582
+        },
+        "isbn": "1-932326-03-0",
+        "doi": "10.5281/zenodo.7779278",
+        "pub_date": "2003-08-01T00:00:00.000Z",
+        "pages": 72,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub120/"
+    },
+    "pub119": {
+        "clir_id": "pub119",
+        "title": "Emerging Visions for Access in the Twenty-first Century Library",
+        "authors": [
+            "Pitts, Lawrence H.",
+            "Martin, Robert S.",
+            "Thorhauge, Jens",
+            "Strong, Gary E.",
+            "Stanton, Robin",
+            "McRobbie, Michael",
+            "Eisen, Michael",
+            "Greenstein, Daniel"
+        ],
+        "description": {
+            "s": "CONFERENCE PROCEEDINGS DOCUMENTATION ABSTRACTS INC INSTITUTES FOR INFORMATION SCIENCE APRIL 2122 2003 Presented by the Council on Library and Information Resources and the California Digital Library Emerging Visions for Access in the Twentyfirst Century Library is the second in a series of international symposiums that are supported by a grant from Documentation Abstracts Inc DAI The institutes will address key issues in information science relating to digital libraries economics of information or resources for scholarship This volume of conference proceedings is from the April 2003 symposium Included are the following Welcoming Remarks Lawrence H Pitts Reaching across Library Boundaries Robert S Martin The Personal Library Integrating the Library in the Networking Society Jens Thorhauge Libraries Empower People to Participate in a Civil Society Gary E Strong Toward Supported Communities of Interest in Digital Environments Robin Stanton The Library and Education Integrating Information Landscapes Michael McRobbie The Open Access Movement in Scholarly Communication Michael Eisen Lessons in Deep Resource Sharing from the University of California Libraries Daniel Greenstein",
+            "orig": "CONFERENCE PROCEEDINGS DOCUMENTATION ABSTRACTS INC INSTITUTES FOR INFORMATION SCIENCE APRIL 2122 2003 Presented by the Council on Library and Information Resources and the California Digital Library Emerging Visions for Access in the Twentyfirst Century Library is the second in a series of international symposiums that are supported by a grant from Documentation Abstracts Inc DAI The institutes will address key issues in information science relating to digital libraries economics of information or resources for scholarship This volume of conference proceedings is from the April 2003 symposium Included are the following Welcoming Remarks Lawrence H Pitts Reaching across Library Boundaries Robert S Martin The Personal Library Integrating the Library in the Networking Society Jens Thorhauge Libraries Empower People to Participate in a Civil Society Gary E Strong Toward Supported Communities of Interest in Digital Environments Robin Stanton The Library and Education Integrating Information Landscapes Michael McRobbie The Open Access Movement in Scholarly Communication Michael Eisen Lessons in Deep Resource Sharing from the University of California Libraries Daniel Greenstein",
+            "length": 1189
+        },
+        "isbn": "1-932326-03-0",
+        "doi": "10.5281/zenodo.7779268",
+        "pub_date": "2003-08-01T00:00:00.000Z",
+        "pages": 84,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub119/"
+    },
+    "pub118": {
+        "clir_id": "pub118",
+        "title": "A Survey of Digital Cultural Heritage Initiatives and Their Sustainability Concerns",
+        "authors": [
+            "Zorich, Diane M."
+        ],
+        "description": {
+            "s": "In 2002 CLIR commissioned a survey of North Americanbased digital cultural heritage initiatives DCHIs The purpose of the survey was to identify the scope financing organizational structure and sustainability of DCHIs To gain a funders perspective on these initiatives the survey also included a few public and private funding organizations that support projects with a digital cultural heritage component The survey was a preliminary step in a larger effort aimed at developing recommendations for a coordinated strategy to sustain and strengthen digital cultural heritage initiatives and their byproducts Survey results and recommendations are in this report",
+            "orig": "In 2002 CLIR commissioned a survey of North Americanbased digital cultural heritage initiatives DCHIs The purpose of the survey was to identify the scope financing organizational structure and sustainability of DCHIs To gain a funders perspective on these initiatives the survey also included a few public and private funding organizations that support projects with a digital cultural heritage component The survey was a preliminary step in a larger effort aimed at developing recommendations for a coordinated strategy to sustain and strengthen digital cultural heritage initiatives and their byproducts Survey results and recommendations are in this report",
+            "length": 659
+        },
+        "isbn": "1-932326-02-2",
+        "doi": "10.5281/zenodo.7779250",
+        "pub_date": "2003-06-02T00:00:00.000Z",
+        "pages": 56,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub118/"
+    },
+    "pub117": {
+        "clir_id": "pub117",
+        "title": "Developing Print Repositories: Models for Shared Preservation and Access",
+        "authors": [
+            "Reilly, Bernard F., Jr."
+        ],
+        "description": {
+            "s": "CLIR commissioned the Center for Research Libraries CRL to investigate existing models of repositories organized along geographical lines for consortial use as well as models of some archival repositories This report is the result of that study Authors Bernard Reilly and Barbara DesRosiers looked broadly at existing shared repositories Their report includes information about both regional repositories and those that collect on behalf of an entire nation While carefully documenting the growth and achievements of such facilities Reilly and DesRosiers also point to the promises they hold for new collaborative solutions to problems that libraries share but are used to grappling with on their own",
+            "orig": "CLIR commissioned the Center for Research Libraries CRL to investigate existing models of repositories organized along geographical lines for consortial use as well as models of some archival repositories This report is the result of that study Authors Bernard Reilly and Barbara DesRosiers looked broadly at existing shared repositories Their report includes information about both regional repositories and those that collect on behalf of an entire nation While carefully documenting the growth and achievements of such facilities Reilly and DesRosiers also point to the promises they hold for new collaborative solutions to problems that libraries share but are used to grappling with on their own",
+            "length": 700
+        },
+        "isbn": "1-932326-01-4",
+        "doi": "10.5281/zenodo.7779236",
+        "pub_date": "2003-06-01T00:00:00.000Z",
+        "pages": 66,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub117/"
+    },
     "pub116": {
         "clir_id": "pub116",
         "title": "National Digital Preservation Initiatives: An Overview of Developments in Australia, France, the Netherlands, and the United Kingdom and of Related International Activity",
         "authors": [
-            "Commissioned for and sponsored by the National Digital Information Infrastructure and Preservation Program, Library of Congress"
+            "Beagrie, Neil"
         ],
         "description": {
             "s": "This report provides an overview of selected key national and multinational initiatives in digital preservation occurring outside North America It examines digital preservation initiatives in four countriesAustralia France the Netherlands and the United Kingdomas well as related multinational initiatives The initiatives were chosen in consultation with the US Library of Congress LC and the Council on Library and Information Resources CLIR because they were believed to be of particular relevance and interest to the US National Digital Information Infrastructure and Preservation Program NDIIPP This study aims to put these initiatives into their national and international context and to outline major developments It presents the key findings from the survey and details of the main initiatives in each country",
@@ -66,9 +163,9 @@ var store = {
             "Caballero, María Cristina"
         ],
         "description": {
-            "s": "This report describes Biblored the library network in Bogot Colombia that received the 2002 Bill Melinda Gates Foundation Access to Learning Award Biblored is a network of 19 libraries that attract about 200000 users per month and serve some of the poorest neighborhoods in Bogot The networks success in making information and information technology accessible to city residents and in developing services and programs geared toward users special needs and interests earned it the award which includes a onemillion dollar grant to expand services Drawing on extensive interviews of the networks users and planners journalist Mara Cristina Caballero tells the story of how the library network was born the challenges it has faced and the impact it has had on the lives of Bogot residents This report is availabe in both Englishhttpszenodoorgrecord7778167filespub113englishpdfdownload1 and Spanishhttpszenodoorgrecord7778167filespub113spanishpdfdownload1",
-            "orig": "This report describes Biblored the library network in Bogot Colombia that received the 2002 Bill Melinda Gates Foundation Access to Learning Award Biblored is a network of 19 libraries that attract about 200000 users per month and serve some of the poorest neighborhoods in Bogot The networks success in making information and information technology accessible to city residents and in developing services and programs geared toward users special needs and interests earned it the award which includes a onemillion dollar grant to expand services Drawing on extensive interviews of the networks users and planners journalist Mara Cristina Caballero tells the story of how the library network was born the challenges it has faced and the impact it has had on the lives of Bogot residents This report is availabe in both Englishhttpszenodoorgrecord7778167filespub113englishpdfdownload1 and Spanishhttpszenodoorgrecord7778167filespub113spanishpdfdownload1",
-            "length": 952
+            "s": "This report describes Biblored the library network in Bogot Colombia that received the 2002 Bill Melinda Gates Foundation Access to Learning Award Biblored is a network of 19 libraries that attract about 200000 users per month and serve some of the poorest neighborhoods in Bogot The networks success in making information and information technology accessible to city residents and in developing services and programs geared toward users special needs and interests earned it the award which includes a onemillion dollar grant to expand services Drawing on extensive interviews of the networks users and planners journalist Mara Cristina Caballero tells the story of how the library network was born the challenges it has faced and the impact it has had on the lives of Bogot residents This report is availabe in both Englishhttpszenodoorgrecord7778167filespub113englishpdfdownload1 and Spanishhttpszenodoorgrecord7778167filespub113spanishpdfdownload1n",
+            "orig": "This report describes Biblored the library network in Bogot Colombia that received the 2002 Bill Melinda Gates Foundation Access to Learning Award Biblored is a network of 19 libraries that attract about 200000 users per month and serve some of the poorest neighborhoods in Bogot The networks success in making information and information technology accessible to city residents and in developing services and programs geared toward users special needs and interests earned it the award which includes a onemillion dollar grant to expand services Drawing on extensive interviews of the networks users and planners journalist Mara Cristina Caballero tells the story of how the library network was born the challenges it has faced and the impact it has had on the lives of Bogot residents This report is availabe in both Englishhttpszenodoorgrecord7778167filespub113englishpdfdownload1 and Spanishhttpszenodoorgrecord7778167filespub113spanishpdfdownload1n",
+            "length": 953
         },
         "isbn": "1-887334-98-X",
         "doi": "10.5281/zenodo.7778167",
