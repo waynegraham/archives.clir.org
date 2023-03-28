@@ -4,7 +4,8 @@
   "description": "",
   "main": "build-index.js",
   "scripts": {
-    "build": "node build-index.js"
+    "build": "node build-index.js",
+    "compress": "terser assets/js/document-store.js -o assets/js/document-store.min.js -c -m && terser assets/js/search-index.js -o assets/js/search-index.min.js -c -m"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,7 @@
     "glob": "^9.3.2",
     "js-yaml": "^4.1.0",
     "lunr": "^2.3.9",
-    "string": "^3.3.3"
+    "string": "^3.3.3",
+    "terser": "^5.16.8"
   }
 }
