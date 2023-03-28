@@ -1,4 +1,64 @@
 var store = {
+    "pub116": {
+        "clir_id": "pub116",
+        "title": "National Digital Preservation Initiatives: An Overview of Developments in Australia, France, the Netherlands, and the United Kingdom and of Related International Activity",
+        "authors": [
+            "Commissioned for and sponsored by the National Digital Information Infrastructure and Preservation Program, Library of Congress"
+        ],
+        "description": {
+            "s": "This report provides an overview of selected key national and multinational initiatives in digital preservation occurring outside North America It examines digital preservation initiatives in four countriesAustralia France the Netherlands and the United Kingdomas well as related multinational initiatives The initiatives were chosen in consultation with the US Library of Congress LC and the Council on Library and Information Resources CLIR because they were believed to be of particular relevance and interest to the US National Digital Information Infrastructure and Preservation Program NDIIPP This study aims to put these initiatives into their national and international context and to outline major developments It presents the key findings from the survey and details of the main initiatives in each country",
+            "orig": "This report provides an overview of selected key national and multinational initiatives in digital preservation occurring outside North America It examines digital preservation initiatives in four countriesAustralia France the Netherlands and the United Kingdomas well as related multinational initiatives The initiatives were chosen in consultation with the US Library of Congress LC and the Council on Library and Information Resources CLIR because they were believed to be of particular relevance and interest to the US National Digital Information Infrastructure and Preservation Program NDIIPP This study aims to put these initiatives into their national and international context and to outline major developments It presents the key findings from the survey and details of the main initiatives in each country",
+            "length": 816
+        },
+        "isbn": "1-932326-00-6",
+        "doi": "10.5281/zenodo.7778421",
+        "pub_date": "2003-04-01T00:00:00.000Z",
+        "pages": 61,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub116/"
+    },
+    "pub115": {
+        "clir_id": "pub115",
+        "title": "Library Buildings and the Building of a Collaborative Research Collection at the Tri-College Library Consortium",
+        "authors": [
+            "Luther, Judy",
+            "Bills, Linda",
+            "McColl, Amy",
+            "Medeiros, Norm",
+            "Morrison, Amy",
+            "Pumroy, Eric",
+            "Seiden, Peggy"
+        ],
+        "description": {
+            "s": "This report is the product of a planning grant awarded by The Andrew W Mellon Foundation in 2001 to the TriCollege Library Consortium which comprises the libraries of Bryn Mawr Haverford and Swarthmore Colleges The grant proposal entitled Library Buildings and the Building of a Collaborative Research Collection at the TriColleges set out a research agenda designed to address two central questions The first question was a challenge How could the three libraries come to terms with space problems caused by evergrowing collections and increasing demands to accommodate media teaching and student study areas in an environment in which library building expansion was a remote possibility The second question was an opportunity Could the libraries take advantage of their history of cooperation and the powerful tool of a unified online catalog to create a single researchquality collection out of the combined holdings of three strong liberal arts colleges Working with a consultant a sevenmember Planning Group representing the three colleges and the consortium gathered data on the collections convened focus groups of faculty and students and engaged three publishing industry experts to assess the state of electronic publishing After analyzing the data the Planning Group studied alternatives for maximizing collection space and made recommendations for new models and strategies to be pursued by the TriColleges consortium",
+            "orig": "This report is the product of a planning grant awarded by The Andrew W Mellon Foundation in 2001 to the TriCollege Library Consortium which comprises the libraries of Bryn Mawr Haverford and Swarthmore Colleges The grant proposal entitled Library Buildings and the Building of a Collaborative Research Collection at the TriColleges set out a research agenda designed to address two central questions The first question was a challenge How could the three libraries come to terms with space problems caused by evergrowing collections and increasing demands to accommodate media teaching and student study areas in an environment in which library building expansion was a remote possibility The second question was an opportunity Could the libraries take advantage of their history of cooperation and the powerful tool of a unified online catalog to create a single researchquality collection out of the combined holdings of three strong liberal arts colleges Working with a consultant a sevenmember Planning Group representing the three colleges and the consortium gathered data on the collections convened focus groups of faculty and students and engaged three publishing industry experts to assess the state of electronic publishing After analyzing the data the Planning Group studied alternatives for maximizing collection space and made recommendations for new models and strategies to be pursued by the TriColleges consortium",
+            "length": 1429
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7778396",
+        "pub_date": "2003-04-01T00:00:00.000Z",
+        "pages": 45,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub115/"
+    },
+    "pub114": {
+        "clir_id": "pub114",
+        "title": "New-Model Scholarship: How Will It Survive?",
+        "authors": [
+            "Smith, Abby"
+        ],
+        "description": {
+            "s": "In 2002 with support from the Alfred P Sloan Foundation CLIR hosted a meeting of scholars librarians archivists technologists publishers and funders to discuss the preservation of digital scholarly resources The goal of the workshop was to identify the needs of various stakeholdersWeb site creators distributors and publishers of digital materials representatives of archives libraries and repositories that want to collect these sites and make them available end users and anyone in the chain of scholarly communication who might want to discover and use these works for their own purposesand to agree on common approaches to meeting those needs This report is informed by the lively discussions that took place at that conference and by two papers that were circulated in advance and which are included as Appendixes The author describes the scope of problems posed by preserving Webbased scholarly resources It focuses on newmodel scholarshipscholarship that is born digital and constitutes an important source for present and future research and teaching The newmodel scholarship is specifically the variety of Web sites and other desktop digital objects that faculty and graduate students are creating that fall somewhere short of published but are worthy of access into the future",
+            "orig": "In 2002 with support from the Alfred P Sloan Foundation CLIR hosted a meeting of scholars librarians archivists technologists publishers and funders to discuss the preservation of digital scholarly resources The goal of the workshop was to identify the needs of various stakeholdersWeb site creators distributors and publishers of digital materials representatives of archives libraries and repositories that want to collect these sites and make them available end users and anyone in the chain of scholarly communication who might want to discover and use these works for their own purposesand to agree on common approaches to meeting those needs This report is informed by the lively discussions that took place at that conference and by two papers that were circulated in advance and which are included as Appendixes The author describes the scope of problems posed by preserving Webbased scholarly resources It focuses on newmodel scholarshipscholarship that is born digital and constitutes an important source for present and future research and teaching The newmodel scholarship is specifically the variety of Web sites and other desktop digital objects that faculty and graduate students are creating that fall somewhere short of published but are worthy of access into the future",
+            "length": 1287
+        },
+        "isbn": "1-887334-99-8",
+        "doi": "10.5281/zenodo.7778368",
+        "pub_date": "2003-03-01T00:00:00.000Z",
+        "pages": 57,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub114/"
+    },
     "pub113": {
         "clir_id": "pub113",
         "title": "Biblored, Colombia’s Innovative Library Network",
