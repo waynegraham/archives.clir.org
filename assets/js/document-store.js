@@ -1,4 +1,108 @@
 var store = {
+    "pub130": {
+        "clir_id": "pub130",
+        "title": "EVERGREEN Bringing Information Resources to Rural China",
+        "authors": [
+            "Liu, Geoffrey Z."
+        ],
+        "description": {
+            "s": "The China Evergreen Rural Library Service CERLS received the 2004 Bill Melinda Gates Access to Learning Award for placing computers in rural public high schools in China as a way of responding to the need for information among students teachers and communities in remote areas where poverty and illiteracy are widespread ENGLISH LANGUAGE VERSIONhttpszenodoorgrecord7783296filespub130pdfdownload1 CHINESE LANGUAGE VERSIONhttpszenodoorgrecord7783296filespub130chpngdownload1 ",
+            "orig": "The China Evergreen Rural Library Service CERLS received the 2004 Bill Melinda Gates Access to Learning Award for placing computers in rural public high schools in China as a way of responding to the need for information among students teachers and communities in remote areas where poverty and illiteracy are widespread ENGLISH LANGUAGE VERSIONhttpszenodoorgrecord7783296filespub130pdfdownload1 CHINESE LANGUAGE VERSIONhttpszenodoorgrecord7783296filespub130chpngdownload1 ",
+            "length": 473
+        },
+        "isbn": "1-932326-19-7",
+        "doi": "10.5281/zenodo.7783296",
+        "pub_date": "2005-07-01T00:00:00.000Z",
+        "pages": 28,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub130/"
+    },
+    "pub129": {
+        "clir_id": "pub129",
+        "title": "Library as Place: Rethinking Roles, Rethinking Space",
+        "authors": [
+            "Freeman, Geoffrey T.",
+            "Bennett, Scott",
+            "Demas, Sam",
+            "Frischer, Bernard",
+            "Peterson, Christina A.",
+            "Oliver, Kathleen Burr"
+        ],
+        "description": {
+            "s": "This report contains a survey undertaken in 2003 by CLIR to study the state of audio recordings in academic libraries One purpose of the survey was to inform decision makers in those libraries as well as in funding agencies about the scale and extent of barriers to preservation and access Another purpose was to elicit information that would help the participating libraries assess their own readiness to preserve and provide access to their recordedsound collections We also hoped that survey findings would help library leaders and funders determine how best to allocate preservation funds and thereby help ensure access to historically important sound recordings Finally the survey was designed to raise awareness within the larger research and funding communities of the value of audio collections and to encourage institutions with important audio holdings to seek support for their collections",
+            "orig": "This report contains a survey undertaken in 2003 by CLIR to study the state of audio recordings in academic libraries One purpose of the survey was to inform decision makers in those libraries as well as in funding agencies about the scale and extent of barriers to preservation and access Another purpose was to elicit information that would help the participating libraries assess their own readiness to preserve and provide access to their recordedsound collections We also hoped that survey findings would help library leaders and funders determine how best to allocate preservation funds and thereby help ensure access to historically important sound recordings Finally the survey was designed to raise awareness within the larger research and funding communities of the value of audio collections and to encourage institutions with important audio holdings to seek support for their collections",
+            "length": 900
+        },
+        "isbn": "1-932326-13-8",
+        "doi": "10.5281/zenodo.7783279",
+        "pub_date": "2005-02-01T00:00:00.000Z",
+        "pages": 89,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub129/"
+    },
+    "pub128": {
+        "clir_id": "pub128",
+        "title": "Survey of the State of Audio Collections in Academic Libraries",
+        "authors": [
+            "Smith, Abby",
+            "Allen, David Randal",
+            "Allen, Karen"
+        ],
+        "description": {
+            "s": "This report contains a survey undertaken in 2003 by CLIR to study the state of audio recordings in academic libraries One purpose of the survey was to inform decision makers in those libraries as well as in funding agencies about the scale and extent of barriers to preservation and access Another purpose was to elicit information that would help the participating libraries assess their own readiness to preserve and provide access to their recordedsound collections We also hoped that survey findings would help library leaders and funders determine how best to allocate preservation funds and thereby help ensure access to historically important sound recordings Finally the survey was designed to raise awareness within the larger research and funding communities of the value of audio collections and to encourage institutions with important audio holdings to seek support for their collections",
+            "orig": "This report contains a survey undertaken in 2003 by CLIR to study the state of audio recordings in academic libraries One purpose of the survey was to inform decision makers in those libraries as well as in funding agencies about the scale and extent of barriers to preservation and access Another purpose was to elicit information that would help the participating libraries assess their own readiness to preserve and provide access to their recordedsound collections We also hoped that survey findings would help library leaders and funders determine how best to allocate preservation funds and thereby help ensure access to historically important sound recordings Finally the survey was designed to raise awareness within the larger research and funding communities of the value of audio collections and to encourage institutions with important audio holdings to seek support for their collections",
+            "length": 900
+        },
+        "isbn": "1-932326-11-1",
+        "doi": "10.5281/zenodo.7783275",
+        "pub_date": "2004-06-01T00:00:00.000Z",
+        "pages": 65,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub128/"
+    },
+    "pub127": {
+        "clir_id": "pub127",
+        "title": "The Nonsubscription Side of Periodicals: Changes in Library Operations and Costs between Print and Electronic Formats",
+        "authors": [
+            "Schonfeld, Roger C.",
+            "King, Donald W.",
+            "Okerson, Ann",
+            "Fenton, Eileen Gifford"
+        ],
+        "description": {
+            "s": "Many academic and research libraries are in the midst of what may ultimately be a major transition for various parts of their collectionsa shift from print to electronic format Libraries that had long subscribed only to print versions of journals are in increasing numbers licensing electronic versions to replace the print What effects will this transition have on library operations and on nonsubscription expenditures To answer this question the authors collected new data on staff activities and costs from 11 US academic libraries They then performed a lifecycle analysis to study the longerterm cost implications of the transition",
+            "orig": "Many academic and research libraries are in the midst of what may ultimately be a major transition for various parts of their collectionsa shift from print to electronic format Libraries that had long subscribed only to print versions of journals are in increasing numbers licensing electronic versions to replace the print What effects will this transition have on library operations and on nonsubscription expenditures To answer this question the authors collected new data on staff activities and costs from 11 US academic libraries They then performed a lifecycle analysis to study the longerterm cost implications of the transition",
+            "length": 636
+        },
+        "isbn": "1-932326-10-3",
+        "doi": "10.5281/zenodo.7781368",
+        "pub_date": "2004-06-01T00:00:00.000Z",
+        "pages": 66,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub127/"
+    },
+    "pub126": {
+        "clir_id": "pub126",
+        "title": "Access in the Future Tense",
+        "authors": [
+            "Greenstein, Daniel",
+            "Ivey, Bill",
+            "Kenney, Anne R.",
+            "Lavoie, Brian",
+            "Smith, Abby"
+        ],
+        "description": {
+            "s": "CLIR organized a conference in May 2003 to examine the key factors shaping the information environment in which libraries operate and how these factors will affect stewardship of the cultural and intellectual resources vital to education and research Scholars library directors university administrators publishers collectors and representatives from the legal and preservation communities came together to explore the challenges posed by the shifting information landscape and to propose directions that can be taken by all in research and education who have an interest in the wellbeing of research and cultural heritage collections To frame the discussion CLIR asked four experts to address key features of the changing landscape Their papers are presented here prefaced by a brief overview of the information landscape and followed by a concluding essay on the implications of their findings By publishing this report CLIR hopes to broaden understanding of how creators publishers distributors and information seekers can work more actively with libraries and archives to ensure the usability and accessibility of recorded information into the future",
+            "orig": "CLIR organized a conference in May 2003 to examine the key factors shaping the information environment in which libraries operate and how these factors will affect stewardship of the cultural and intellectual resources vital to education and research Scholars library directors university administrators publishers collectors and representatives from the legal and preservation communities came together to explore the challenges posed by the shifting information landscape and to propose directions that can be taken by all in research and education who have an interest in the wellbeing of research and cultural heritage collections To frame the discussion CLIR asked four experts to address key features of the changing landscape Their papers are presented here prefaced by a brief overview of the information landscape and followed by a concluding essay on the implications of their findings By publishing this report CLIR hopes to broaden understanding of how creators publishers distributors and information seekers can work more actively with libraries and archives to ensure the usability and accessibility of recorded information into the future",
+            "length": 1154
+        },
+        "isbn": "1-932326-09-X",
+        "doi": "10.5281/zenodo.7781345",
+        "pub_date": "2004-04-01T00:00:00.000Z",
+        "pages": 82,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub126/"
+    },
     "pub125": {
         "clir_id": "pub125",
         "title": "E-Powering the People: South Africa’s Smart Cape Access Project",
