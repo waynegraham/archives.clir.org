@@ -1,4 +1,193 @@
 var store = {
+    "pub140": {
+        "clir_id": "pub140",
+        "title": "Census of Institutional Repositories in the United States",
+        "authors": [
+            "Markey, Karen",
+            "Rieh, Soo Young",
+            "St. Jean, Beth",
+            "Kim, Jihyun",
+            "Yakel, Elizabeth"
+        ],
+        "description": {
+            "s": "In this report the authors describe results of a nationwide census of institutional repositories in US academic institutions The census is one of several activities of the MIRACLE Project an IMLSfunded research program based at the University of Michigan A considerable portion of the scholarly record is born digital and some scholarship is produced in digital formats that have no physical inthehand counterparts The proliferation of digital scholarship raises serious and pressing issues about how to organize access and preserve it in perpetuity The response of academic institutions has been to build and deploy institutional repositories IRs to manage the digital scholarship their learning communities produce",
+            "orig": "In this report the authors describe results of a nationwide census of institutional repositories in US academic institutions The census is one of several activities of the MIRACLE Project an IMLSfunded research program based at the University of Michigan A considerable portion of the scholarly record is born digital and some scholarship is produced in digital formats that have no physical inthehand counterparts The proliferation of digital scholarship raises serious and pressing issues about how to organize access and preserve it in perpetuity The response of academic institutions has been to build and deploy institutional repositories IRs to manage the digital scholarship their learning communities produce",
+            "length": 716
+        },
+        "isbn": "1-932326-28-4",
+        "doi": "10.5281/zenodo.7785448",
+        "pub_date": "2007-02-01T00:00:00.000Z",
+        "pages": 167,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub140/"
+    },
+    "pub139": {
+        "clir_id": "pub139",
+        "title": "Library Workflow Redesign: Six Case Studies",
+        "authors": [
+            "Mitchell, Marilyn"
+        ],
+        "description": {
+            "s": "The proliferation of electronic information and tools has changed the way that readers and researchers do their work It has also changed the way library staff members provide materials and services Several years ago a group of liberal arts college librarians realizing the need to streamline processes to serve changing needs asked CLIR to help With support from The Andrew W Mellon Foundation CLIR offered workflow redesign support to teams from six institutions that are part of consortia This volume documents their work These institutions were pioneers Now the issue of workflow redesign appears to be on the minds not only of librarians in small institutions but also of many librarians in research libraries We hope that this publication can be the beginning of describing changing work patterns and that it can be followed by additional publications both in print and through the CLIR Web site on imaginative ways of providing good services in a shifting environment",
+            "orig": "The proliferation of electronic information and tools has changed the way that readers and researchers do their work It has also changed the way library staff members provide materials and services Several years ago a group of liberal arts college librarians realizing the need to streamline processes to serve changing needs asked CLIR to help With support from The Andrew W Mellon Foundation CLIR offered workflow redesign support to teams from six institutions that are part of consortia This volume documents their work These institutions were pioneers Now the issue of workflow redesign appears to be on the minds not only of librarians in small institutions but also of many librarians in research libraries We hope that this publication can be the beginning of describing changing work patterns and that it can be followed by additional publications both in print and through the CLIR Web site on imaginative ways of providing good services in a shifting environment",
+            "length": 973
+        },
+        "isbn": "1-932326-27-7",
+        "doi": "10.5281/zenodo.7785423",
+        "pub_date": "2006-09-02T00:00:00.000Z",
+        "pages": 81,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub139/"
+    },
+    "pub138": {
+        "clir_id": "pub138",
+        "title": "E-Journal Archiving Metes and Bounds: A Survey of the Landscape",
+        "authors": [
+            "Kenney, Anne R.",
+            "Entlich, Richard",
+            "Hirtle, Peter B.",
+            "McGovern, Nancy Y.",
+            "Buckley, Ellie L."
+        ],
+        "description": {
+            "s": "This report summarizes a review of 12 ejournal archiving programs from the perspective of concerns expressed by directors of academic libraries in North America It uses a methodology comparable to the art of surveying land by metes and bounds in the era before precise measures and calibrated instruments were available It argues that current license arrangements are inadequate to protect a librarys longterm interest in electronic journals that individual libraries cannot address the preservation needs of ejournals on their own that much scholarly eliterature is not covered by archiving arrangements and that while ejournal archiving programs are becoming available no comprehensive solution has emerged and large parts of eliterature go unprotected",
+            "orig": "This report summarizes a review of 12 ejournal archiving programs from the perspective of concerns expressed by directors of academic libraries in North America It uses a methodology comparable to the art of surveying land by metes and bounds in the era before precise measures and calibrated instruments were available It argues that current license arrangements are inadequate to protect a librarys longterm interest in electronic journals that individual libraries cannot address the preservation needs of ejournals on their own that much scholarly eliterature is not covered by archiving arrangements and that while ejournal archiving programs are becoming available no comprehensive solution has emerged and large parts of eliterature go unprotected",
+            "length": 754
+        },
+        "isbn": "1-932326-26-X",
+        "doi": "10.5281/zenodo.7785380",
+        "pub_date": "2006-09-01T00:00:00.000Z",
+        "pages": 120,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub138/"
+    },
+    "pub137": {
+        "clir_id": "pub137",
+        "title": "Capturing Analog Sound for Digital Preservation: Report of a Roundtable Discussion of Best Practices for Transferring Analog Discs and Tapes",
+        "authors": [
+            "Mahmud, Arshad"
+        ],
+        "description": {
+            "s": "This report investigates procedures to reformat sound on analog carriers to digital media or files It summarizes discussions and recommendations emerging from a meeting of leading audio preservation engineers held January 2930 2004 to assess the present state of standards and best practices for capturing sound from analog discs and tapes This report is one of several studies that CLIR is undertaking on behalf of the Library of Congress and the National Recording Preservation Board",
+            "orig": "This report investigates procedures to reformat sound on analog carriers to digital media or files It summarizes discussions and recommendations emerging from a meeting of leading audio preservation engineers held January 2930 2004 to assess the present state of standards and best practices for capturing sound from analog discs and tapes This report is one of several studies that CLIR is undertaking on behalf of the Library of Congress and the National Recording Preservation Board",
+            "length": 485
+        },
+        "isbn": "1-932326-25-1",
+        "doi": "10.5281/zenodo.7785361",
+        "pub_date": "2006-03-01T00:00:00.000Z",
+        "pages": 37,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub137/"
+    },
+    "pub136": {
+        "clir_id": "pub136",
+        "title": "Shidhulai Swanirvar Sangstha: Bringing Information Technology to Rural Bangladesh by Boat",
+        "authors": [
+            "Mahmud, Arshad"
+        ],
+        "description": {
+            "s": "The 2005 recipient of the Bill Melinda Gates Foundation Access to Learning Award overcame the challenge that the ecosystem of Bangladesh poses and found a way to deliver information technology to residents of some of that countrys floodprone areas With specially designed indigenous boats Shidhulai Swanirvar Sangstha is using cellular technology and solar power to provide Internet access and online training to thousands of rural residents Shidhulai is the name of a village in the Natore district of Bangladesh and the term swanirvar sangstha means selfreliant organization This report is a case study of of how Shidhulai Swanirvar Sangstha approached formidable obstacles and documents the overall success of the project",
+            "orig": "The 2005 recipient of the Bill Melinda Gates Foundation Access to Learning Award overcame the challenge that the ecosystem of Bangladesh poses and found a way to deliver information technology to residents of some of that countrys floodprone areas With specially designed indigenous boats Shidhulai Swanirvar Sangstha is using cellular technology and solar power to provide Internet access and online training to thousands of rural residents Shidhulai is the name of a village in the Natore district of Bangladesh and the term swanirvar sangstha means selfreliant organization This report is a case study of of how Shidhulai Swanirvar Sangstha approached formidable obstacles and documents the overall success of the project",
+            "length": 724
+        },
+        "isbn": "1-932326-24-3",
+        "doi": "10.5281/zenodo.7785342",
+        "pub_date": "2006-02-01T00:00:00.000Z",
+        "pages": 22,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub136/"
+    },
+    "pub135": {
+        "clir_id": "pub135",
+        "title": "Copyright Issues Relevant to Digital Preservation and Dissemination of Pre-1972 Commercial Sound Recordings by Libraries and Archives",
+        "authors": [
+            "Besek, June M."
+        ],
+        "description": {
+            "s": "This report addresses the question of what libraries and archives are legally empowered to do to preserve and make accessible for research their holdings of pre1972 commercial recordings the large aural legacy that is not protected by federal copyright As the first indepth analysis by a nationally known expert in copyright law this report will also be a timely and authoritative aid to the many librarians and archivists who face decisions daily about how to establish priorities for sound preservation This report is one of several studies that CLIR is undertaking on behalf of the Library of Congress and the National Recording Preservation Board",
+            "orig": "This report addresses the question of what libraries and archives are legally empowered to do to preserve and make accessible for research their holdings of pre1972 commercial recordings the large aural legacy that is not protected by federal copyright As the first indepth analysis by a nationally known expert in copyright law this report will also be a timely and authoritative aid to the many librarians and archivists who face decisions daily about how to establish priorities for sound preservation This report is one of several studies that CLIR is undertaking on behalf of the Library of Congress and the National Recording Preservation Board",
+            "length": 650
+        },
+        "isbn": "1-932326-23-5",
+        "doi": "10.5281/zenodo.7785313",
+        "pub_date": "2005-12-01T00:00:00.000Z",
+        "pages": 54,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub135/"
+    },
+    "pub134": {
+        "clir_id": "pub134",
+        "title": "Acquiring Copyright Permission to Digitize and Provide Open Access to Books",
+        "authors": [
+            "Covey, Denise Troll"
+        ],
+        "description": {
+            "s": "What are the stumbling blocks to digitization Is copyright law a major barrier Is it easier to negotiate with some types of publishers than with others To what extent does the age of the material influence permission decisions This report by Denise Troll Covey principal librarian for special projects at Carnegie Mellon University responds to many of these questions It begins with a brief cogent overview of US copyright laws licensing practices and technological developments in publishing that serve as the backdrop for the current environment It then recounts in detail three efforts undertaken at CarnegieMellon University to secure copyright permission to digitize and provide open access to books with scholarly content",
+            "orig": "What are the stumbling blocks to digitization Is copyright law a major barrier Is it easier to negotiate with some types of publishers than with others To what extent does the age of the material influence permission decisions This report by Denise Troll Covey principal librarian for special projects at Carnegie Mellon University responds to many of these questions It begins with a brief cogent overview of US copyright laws licensing practices and technological developments in publishing that serve as the backdrop for the current environment It then recounts in detail three efforts undertaken at CarnegieMellon University to secure copyright permission to digitize and provide open access to books with scholarly content",
+            "length": 727
+        },
+        "isbn": "1-932326-22-7",
+        "doi": "10.5281/zenodo.7785283",
+        "pub_date": "2005-10-01T00:00:00.000Z",
+        "pages": 63,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub134/"
+    },
+    "pub133": {
+        "clir_id": "pub133",
+        "title": "Survey of Reissues of U.S. Recordings",
+        "authors": [
+            "Brooks, Tim"
+        ],
+        "description": {
+            "s": "The purpose of this study was to determine the legal accessibility of sound recordings published in the United States The survey was designed to quantify the degree to which rights holders of historical sound recordings have made available either directly or through licensees past recordings that they control This report is one of several studies that CLIR is undertaking on behalf of the Library of Congress and the National Recording Preservation Board",
+            "orig": "The purpose of this study was to determine the legal accessibility of sound recordings published in the United States The survey was designed to quantify the degree to which rights holders of historical sound recordings have made available either directly or through licensees past recordings that they control This report is one of several studies that CLIR is undertaking on behalf of the Library of Congress and the National Recording Preservation Board",
+            "length": 456
+        },
+        "isbn": "1-932326-21-9",
+        "doi": "10.5281/zenodo.7785238",
+        "pub_date": "2005-08-01T00:00:00.000Z",
+        "pages": 30,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub133/"
+    },
+    "pub132": {
+        "clir_id": "pub132",
+        "title": "A Kaleidoscope of Digital American Literature",
+        "authors": [
+            "Brogan, Martha L.",
+            "Rentfrow, Daphnée"
+        ],
+        "description": {
+            "s": "This report will be useful to anyone interested in the current state of online American literature resources Its purpose is twofold to offer a sampling of the types of digital resources currently available or under development in support of American literature and to identify the prevailing concerns of specialists in the field as expressed during interviews conducted between July 2004 and May 2005 Part two of the report consolidates the results of these interviews with an exploration of resources currently available Part three examines six categories of digital work in progress 1 qualitycontrolled subject gateways 2 author studies 3 public domain ebook collections and alternative publishing models 4 proprietary reference resources and fulltext primary source collections 5 collections by design and 6 teaching applications This survey is informed by a selective review of the recent literature",
+            "orig": "This report will be useful to anyone interested in the current state of online American literature resources Its purpose is twofold to offer a sampling of the types of digital resources currently available or under development in support of American literature and to identify the prevailing concerns of specialists in the field as expressed during interviews conducted between July 2004 and May 2005 Part two of the report consolidates the results of these interviews with an exploration of resources currently available Part three examines six categories of digital work in progress 1 qualitycontrolled subject gateways 2 author studies 3 public domain ebook collections and alternative publishing models 4 proprietary reference resources and fulltext primary source collections 5 collections by design and 6 teaching applications This survey is informed by a selective review of the recent literature",
+            "length": 903
+        },
+        "isbn": "1-932326-17-0",
+        "doi": "10.5281/zenodo.7785216",
+        "pub_date": "2005-09-01T00:00:00.000Z",
+        "pages": 176,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub132/"
+    },
+    "pub131": {
+        "clir_id": "pub131",
+        "title": "Århus Public Libraries: Embracing Diversity, Empowering Citizens in Denmark",
+        "authors": [
+            "Jackson, Jack"
+        ],
+        "description": {
+            "s": "The rhus Public Libraries in Denmark received the 2004 Bill Melinda Gates Access to Learning Award This report focuses on the progress the Libraries have made in reaching out to immigrant and refugee communities with library services based on the latest in information technology",
+            "orig": "The rhus Public Libraries in Denmark received the 2004 Bill Melinda Gates Access to Learning Award This report focuses on the progress the Libraries have made in reaching out to immigrant and refugee communities with library services based on the latest in information technology",
+            "length": 279
+        },
+        "isbn": "1-932326-20-8",
+        "doi": "10.5281/zenodo.7785188",
+        "pub_date": "2005-07-01T00:00:00.000Z",
+        "pages": 40,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub131/"
+    },
     "pub130": {
         "clir_id": "pub130",
         "title": "EVERGREEN Bringing Information Resources to Rural China",
