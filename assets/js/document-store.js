@@ -1,4 +1,103 @@
 var store = {
+    "pub145": {
+        "clir_id": "pub145",
+        "title": "Working Together or Apart: Promoting the Next Generation of Digital Scholarship",
+        "authors": [
+            "Smith, Kathlin, Ed.",
+            "Leney, Brian Ed."
+        ],
+        "description": {
+            "s": "As part of its ongoing programs in digital scholarship and the cyberinfrastructure to support teaching learning and research the Council on Library and Information Resources CLIR in cooperation with the National Endowment for the Humanities NEH held a symposium on September 15 2008 in which a group of some 30 leading scholars was invited to articulate the research challenges that will use the new media to advance the analysis and interpretations of text images and other sources of interest to the humanities and social sciences and in so doing pose interesting problems for ongoing computational research White papers were commissioned to help frame the issues This report contains the final versions of those papers as well as an account of the days discussion and a summary of a report by Diane Zorich on digital humanities centers",
+            "orig": "As part of its ongoing programs in digital scholarship and the cyberinfrastructure to support teaching learning and research the Council on Library and Information Resources CLIR in cooperation with the National Endowment for the Humanities NEH held a symposium on September 15 2008 in which a group of some 30 leading scholars was invited to articulate the research challenges that will use the new media to advance the analysis and interpretations of text images and other sources of interest to the humanities and social sciences and in so doing pose interesting problems for ongoing computational research White papers were commissioned to help frame the issues This report contains the final versions of those papers as well as an account of the days discussion and a summary of a report by Diane Zorich on digital humanities centers",
+            "length": 838
+        },
+        "isbn": "1-9323-2633-8",
+        "doi": "10.5281/zenodo.7796401",
+        "pub_date": "2009-03-01T00:00:00.000Z",
+        "pages": 88,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub145/"
+    },
+    "pub144": {
+        "clir_id": "pub144",
+        "title": "Copyright and Related Issues Relevant to Digital Preservation and Dissemination of Unpublished Pre-1972 Sound Recordings by Libraries and Archives",
+        "authors": [
+            "Besek, June M."
+        ],
+        "description": {
+            "s": "This report addresses the question of what libraries and archives are legally empowered to do to preserve and make accessible for research their holdings of unpublished pre1972 sound recordings The reports author June M Besek is executive director of the Kernochan Center for Law Media and the Arts at Columbia Law School Unpublished sound recordings are those created for private use or even for broadcast but that have not been distributed to the public in copies with the right holders consent Examples include tapes of live musical performances or of interviews conducted as part of field research or news gathering Such recordings may find their way into library and archive collections through donations or purchase Some may be the only record of a particular performance or event and therefore may have considerable cultural and historical significance The rights for use of unpublished recordings are distinct from those for use of commercial sound recordings which are made with the authorization of rights holders and are intended for reproduction and sale to the public Using examples of specific types of sound recordings the Besek study 1 describes the different bodies of law that protect pre1972 sound recordings 2 explains the difficulty in defining the precise contours of the law and 3 provides guidance for libraries evaluating their activities with respect to unpublished pre1972 sound recordings",
+            "orig": "This report addresses the question of what libraries and archives are legally empowered to do to preserve and make accessible for research their holdings of unpublished pre1972 sound recordings The reports author June M Besek is executive director of the Kernochan Center for Law Media and the Arts at Columbia Law School Unpublished sound recordings are those created for private use or even for broadcast but that have not been distributed to the public in copies with the right holders consent Examples include tapes of live musical performances or of interviews conducted as part of field research or news gathering Such recordings may find their way into library and archive collections through donations or purchase Some may be the only record of a particular performance or event and therefore may have considerable cultural and historical significance The rights for use of unpublished recordings are distinct from those for use of commercial sound recordings which are made with the authorization of rights holders and are intended for reproduction and sale to the public Using examples of specific types of sound recordings the Besek study 1 describes the different bodies of law that protect pre1972 sound recordings 2 explains the difficulty in defining the precise contours of the law and 3 provides guidance for libraries evaluating their activities with respect to unpublished pre1972 sound recordings",
+            "length": 1416
+        },
+        "isbn": "1-9323-2632-1",
+        "doi": "10.5281/zenodo.7796397",
+        "pub_date": "2009-03-01T00:00:00.000Z",
+        "pages": 93,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub144/"
+    },
+    "pub143": {
+        "clir_id": "pub143",
+        "title": "A Survey of Digital Humanities Centers in the United States",
+        "authors": [
+            "Zorich, Diane M."
+        ],
+        "description": {
+            "s": "In preparation for the 2008 Scholarly Communications Institute SCI 6 focused on humanities research centers the Council on Library and Information Resources CLIR commissioned a survey of digital humanities centers DHCs The immediate goals of the survey were to identify the extent of these centers and to explore their financing organizational structure products services and sustainability The longerterm goal was to provide SCI 6 participants with a greater understanding of existing centers to inform their discussions about regional and national centers Digital humanities centers Ms Zorich writes are entities where new media and technologies are used for humanitiesbased research teaching and intellectual engagement and experimentation The goals of the center are to further humanities scholarship create new forms of knowledge and explore technologys impact on humanitiesbased disciplines",
+            "orig": "In preparation for the 2008 Scholarly Communications Institute SCI 6 focused on humanities research centers the Council on Library and Information Resources CLIR commissioned a survey of digital humanities centers DHCs The immediate goals of the survey were to identify the extent of these centers and to explore their financing organizational structure products services and sustainability The longerterm goal was to provide SCI 6 participants with a greater understanding of existing centers to inform their discussions about regional and national centers Digital humanities centers Ms Zorich writes are entities where new media and technologies are used for humanitiesbased research teaching and intellectual engagement and experimentation The goals of the center are to further humanities scholarship create new forms of knowledge and explore technologys impact on humanitiesbased disciplines",
+            "length": 896
+        },
+        "isbn": "1-9323-2631-4",
+        "doi": "10.5281/zenodo.7796385",
+        "pub_date": "2008-11-01T00:00:00.000Z",
+        "pages": 78,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub143/"
+    },
+    "pub142": {
+        "clir_id": "pub142",
+        "title": "No Brief Candle: Reconceiving Research Libraries for the 21st Century",
+        "authors": [
+            "Henry, Charles",
+            "Smith, Abby",
+            "Courant, Paul N.",
+            "Nichols, Stephen G.",
+            "Wittenberg, Kate",
+            "Luce, Richard E.",
+            "Dillon, Andrew",
+            "Rentfrow, Daphnée",
+            "Zia, Lee L."
+        ],
+        "description": {
+            "s": "How should we be rethinking the research library in a swiftly changing information landscape In February 2008 CLIR convened 25 leading librarians publishers faculty members and information technology specialists to consider this question Participants discussed the challenges and opportunities that libraries are likely to face in the next five to ten years and how changes in scholarly communication will affect the future library Essays by eight of the participantsPaul Courant Andrew Dillon Rick Luce Stephen Nichols Daphne Rentfrow Abby Smith Kate Wittenberg and Lee Ziawere circulated to participants in advance and provided background for the conversation This report contains these background essays as well as a summary of the meeting Arabic Version Part 1 onlyhttpszenodoorgrecord7796368filespub142Arabicpart1pdfdownload1 Chinese Version Part 1 onlyhttpszenodoorgrecord7796368filespub142Chinesepart1pdfdownload1 ",
+            "orig": "How should we be rethinking the research library in a swiftly changing information landscape In February 2008 CLIR convened 25 leading librarians publishers faculty members and information technology specialists to consider this question Participants discussed the challenges and opportunities that libraries are likely to face in the next five to ten years and how changes in scholarly communication will affect the future library Essays by eight of the participantsPaul Courant Andrew Dillon Rick Luce Stephen Nichols Daphne Rentfrow Abby Smith Kate Wittenberg and Lee Ziawere circulated to participants in advance and provided background for the conversation This report contains these background essays as well as a summary of the meeting Arabic Version Part 1 onlyhttpszenodoorgrecord7796368filespub142Arabicpart1pdfdownload1 Chinese Version Part 1 onlyhttpszenodoorgrecord7796368filespub142Chinesepart1pdfdownload1 ",
+            "length": 921
+        },
+        "isbn": "1-932326-30-7",
+        "doi": "10.5281/zenodo.7796368",
+        "pub_date": "2008-08-02T00:00:00.000Z",
+        "pages": 74,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub142/"
+    },
+    "pub141": {
+        "clir_id": "pub141",
+        "title": "Preservation in the Age of Large-Scale Digitization: A White Paper",
+        "authors": [
+            "Riege, Oya Y."
+        ],
+        "description": {
+            "s": "The digitization of millions of books under programs such as Google Book Search and Microsoft Live Search Books is dramatically expanding our ability to search and find information The aim of these largescale projectsto make content accessibleis interwoven with the question of how one keeps that content whether digital or print fit for use over time This report by Oya Y Rieger examines largescale digital initiatives LSDIs to identify issues that will influence the availability and usability over time of the digital books these projects create Ms Rieger is interim assistant university librarian for digital library and information technologies at the Cornell University Library The paper describes four largescale projectsGoogle Book Search Microsoft Live Search Books Open Content Alliance and the Million Book Projectand their digitization strategies It then discusses a range of issues affecting the stewardship of the digital collections they create selection quality in content creation technical infrastructure and organizational infrastructure The paper also attempts to foresee the likely impacts of largescale digitization on book collections",
+            "orig": "The digitization of millions of books under programs such as Google Book Search and Microsoft Live Search Books is dramatically expanding our ability to search and find information The aim of these largescale projectsto make content accessibleis interwoven with the question of how one keeps that content whether digital or print fit for use over time This report by Oya Y Rieger examines largescale digital initiatives LSDIs to identify issues that will influence the availability and usability over time of the digital books these projects create Ms Rieger is interim assistant university librarian for digital library and information technologies at the Cornell University Library The paper describes four largescale projectsGoogle Book Search Microsoft Live Search Books Open Content Alliance and the Million Book Projectand their digitization strategies It then discusses a range of issues affecting the stewardship of the digital collections they create selection quality in content creation technical infrastructure and organizational infrastructure The paper also attempts to foresee the likely impacts of largescale digitization on book collections",
+            "length": 1157
+        },
+        "isbn": "1-932326-29-1",
+        "doi": "10.5281/zenodo.7796363",
+        "pub_date": "2008-02-01T00:00:00.000Z",
+        "pages": 52,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub141/"
+    },
     "pub140": {
         "clir_id": "pub140",
         "title": "Census of Institutional Repositories in the United States",
