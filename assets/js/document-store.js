@@ -1,4 +1,77 @@
 var store = {
+    "pub155": {
+        "clir_id": "pub155",
+        "title": "Participatory Design in Academic Libraries: Methods, Findings, and Implementations",
+        "authors": [
+            "Foster, Nancy Fried"
+        ],
+        "description": {
+            "s": "Participatory design is an approach to building spaces services and tools where the people who will use them participate centrally in coming up with concepts and then designing the actual products The papers in this volume written by librarians and IT professionals from 12 colleges and universities report on user research and participatory design projects All of the authors attended workshops and then dove fearlessly into projects with as little as two days of training The authors wanted to learn how their students or faculty members do their academic work Their reports share new methods of approaching enduring questions and offer a number of useful and interesting findings They make a good case for participatory design of academic libraries Participatory Design in Academic Libraries Methods Findings and Implementations by Council on Library and Information Resources is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS",
+            "orig": "Participatory design is an approach to building spaces services and tools where the people who will use them participate centrally in coming up with concepts and then designing the actual products The papers in this volume written by librarians and IT professionals from 12 colleges and universities report on user research and participatory design projects All of the authors attended workshops and then dove fearlessly into projects with as little as two days of training The authors wanted to learn how their students or faculty members do their academic work Their reports share new methods of approaching enduring questions and offer a number of useful and interesting findings They make a good case for participatory design of academic libraries Participatory Design in Academic Libraries Methods Findings and Implementations by Council on Library and Information Resources is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS",
+            "length": 1018
+        },
+        "isbn": "978-1-932326-48-2",
+        "doi": "10.5281/zenodo.7799833",
+        "pub_date": "2014-02-01T00:00:00.000Z",
+        "pages": 114,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub155/"
+    },
+    "pub154": {
+        "clir_id": "pub154",
+        "title": "The Problem of Data",
+        "authors": [
+            "Jahnke, Lori",
+            "Asher, Andrew"
+        ],
+        "description": {
+            "s": "Jahnke and Asher explore workflows and methodologies at a variety of academic data curation sites and Keralis delves into the academic milieu of library and information schools that offer instruction in data curation Their conclusions point to the urgent need for a reliable and increasingly sophisticated professional cohort to support dataintensive research in our colleges universities and research centers The Problem of Data by Lori Jahnke Andrew Asher and Spencer D C Keralis with an introduction by Charles Henry is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30",
+            "orig": "Jahnke and Asher explore workflows and methodologies at a variety of academic data curation sites and Keralis delves into the academic milieu of library and information schools that offer instruction in data curation Their conclusions point to the urgent need for a reliable and increasingly sophisticated professional cohort to support dataintensive research in our colleges universities and research centers The Problem of Data by Lori Jahnke Andrew Asher and Spencer D C Keralis with an introduction by Charles Henry is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30",
+            "length": 650
+        },
+        "isbn": "978-1-932326-42-0",
+        "doi": "10.5281/zenodo.7799821",
+        "pub_date": "2012-08-01T00:00:00.000Z",
+        "pages": 43,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub154/"
+    },
+    "pub153": {
+        "clir_id": "pub153",
+        "title": "Core Infrastructure Considerations for Large Digital Libraries",
+        "authors": [
+            "Henry, Geneva"
+        ],
+        "description": {
+            "s": "This study examines the core infrastructure elements of systems that manage large quantities of digital materials that one would think of as a digital library An examination of the infrastructures of a few make it possible to understand the diverse approaches each has taken to manage digital content This study focuses on large noncommercial digital libraries Published in collaboration with CLIRs Digital Library Federation program Core Infrastructure Considerations for Large Digital Libraries by Geneva Henry is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30",
+            "orig": "This study examines the core infrastructure elements of systems that manage large quantities of digital materials that one would think of as a digital library An examination of the infrastructures of a few make it possible to understand the diverse approaches each has taken to manage digital content This study focuses on large noncommercial digital libraries Published in collaboration with CLIRs Digital Library Federation program Core Infrastructure Considerations for Large Digital Libraries by Geneva Henry is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30",
+            "length": 643
+        },
+        "isbn": "978-1-932326-41-3",
+        "doi": "10.5281/zenodo.7799802",
+        "pub_date": "2012-07-01T00:00:00.000Z",
+        "pages": 19,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub153/"
+    },
+    "pub152": {
+        "clir_id": "pub152",
+        "title": "Linked Data for Libraries, Museums, and Archives: Survey and Workshop Report",
+        "authors": [
+            "Council on Library and Information Resources"
+        ],
+        "description": {
+            "s": "In June 2011 Stanford University hosted a group of librarians and technologists to examine issues and challenges surrounding the use of linked data for library applications This report summarizes the activities and discussions that took place during the workshop describes what came out of the workshop outlines next steps identified by the participants and provides contextual and background information including preliminary reports and biographies of workshop participants The workshop report was produced and edited by the participants and staff at Stanford University Libraries As background for workshop participants CLIR commissioned Jerry Persons technology analyst at Knowledge Motifs and Chief Information Architect emeritus at Stanford to produce a survey of the linkeddata landscape and the projects and individuals associated with it The survey focuses on the practical aspects of understanding and applying linked data practices and technologies to the metadata and content of libraries museums and archives There are numerous links in the report and the survey that lead readers to many other sources and examples regarding the use of linked data methods The workshop and survey were supported by a grant from The Andrew W Mellon Foundation by CLIR and by the Stanford University Libraries and Academic Information Resources",
+            "orig": "In June 2011 Stanford University hosted a group of librarians and technologists to examine issues and challenges surrounding the use of linked data for library applications This report summarizes the activities and discussions that took place during the workshop describes what came out of the workshop outlines next steps identified by the participants and provides contextual and background information including preliminary reports and biographies of workshop participants The workshop report was produced and edited by the participants and staff at Stanford University Libraries As background for workshop participants CLIR commissioned Jerry Persons technology analyst at Knowledge Motifs and Chief Information Architect emeritus at Stanford to produce a survey of the linkeddata landscape and the projects and individuals associated with it The survey focuses on the practical aspects of understanding and applying linked data practices and technologies to the metadata and content of libraries museums and archives There are numerous links in the report and the survey that lead readers to many other sources and examples regarding the use of linked data methods The workshop and survey were supported by a grant from The Andrew W Mellon Foundation by CLIR and by the Stanford University Libraries and Academic Information Resources",
+            "length": 1339
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7799795",
+        "pub_date": "2011-11-01T00:00:00.000Z",
+        "pages": 80,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub152/"
+    },
     "pub151": {
         "clir_id": "pub151",
         "title": "One Culture. Computationally Intensive Research in the Humanities and Social Sciences",
