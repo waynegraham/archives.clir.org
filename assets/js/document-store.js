@@ -1,4 +1,117 @@
 var store = {
+    "pub160": {
+        "clir_id": "pub160",
+        "title": "Research Data Management Principles, Practices, and Prospects",
+        "authors": [
+            "Asher, Andrew",
+            "Deards, Kiyomi",
+            "Esteva, Maria",
+            "Halbert, Martin",
+            "Jahnke, Lori",
+            "Jordan, Chris",
+            "Keralis, Spencer D. C.",
+            "Kulasekaran, Sivakumar (Siva)",
+            "Moen, William E.",
+            "Stark, Shannon",
+            "Urban, Tomislav",
+            "Walling, David"
+        ],
+        "description": {
+            "s": "This report examines how research institutions are responding to data management requirements of the National Science Foundation National Institutes of Health and other federal agencies It also considers what role if any academic libraries and the library and information science profession should have in supporting researchers data management needs University of North Texas UNT Library Director Martin Halbert opens the report with an overview of the DataRes Projecthttpswebarchiveorgweb20180727060448httpsdatamanagementuntedudatares a twoyear investigation of data management practices conducted at UNT with colleagues Spencer D C Keralis Shannon Stark and William E Moen His introduction is followed by a series of papers that were presented at the DataRes Symposiumhttpswebarchiveorgweb20170310004819httpdatamanagementuntedusymposium that UNT organized in December 2012 The volume includes a copy of The Denton Declaration An Open Data Manifesto105281zenodo7802224 written in May 2012 by a group of technologists and librarians scholars and researchers university administrators and other stakeholders who gathered at UNT to discuss and articulate best practices and emerging trends in research data management",
+            "orig": "This report examines how research institutions are responding to data management requirements of the National Science Foundation National Institutes of Health and other federal agencies It also considers what role if any academic libraries and the library and information science profession should have in supporting researchers data management needs University of North Texas UNT Library Director Martin Halbert opens the report with an overview of the DataRes Projecthttpswebarchiveorgweb20180727060448httpsdatamanagementuntedudatares a twoyear investigation of data management practices conducted at UNT with colleagues Spencer D C Keralis Shannon Stark and William E Moen His introduction is followed by a series of papers that were presented at the DataRes Symposiumhttpswebarchiveorgweb20170310004819httpdatamanagementuntedusymposium that UNT organized in December 2012 The volume includes a copy of The Denton Declaration An Open Data Manifesto105281zenodo7802224 written in May 2012 by a group of technologists and librarians scholars and researchers university administrators and other stakeholders who gathered at UNT to discuss and articulate best practices and emerging trends in research data management",
+            "length": 1216
+        },
+        "isbn": "978-1-932326-47-5",
+        "doi": "10.5281/zenodo.7802240",
+        "pub_date": "2013-11-02T00:00:00.000Z",
+        "pages": 99,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub160/"
+    },
+    "pub159": {
+        "clir_id": "pub159",
+        "title": "Born Digital: Guidance for Donors, Dealers, and Archival Repositories",
+        "authors": [
+            "Redwine,  Gabriela",
+            "Barnard, Megan",
+            "Donovan, Kate",
+            "Farr, Erika",
+            "Forstrom, Michael",
+            "Hansen, Will",
+            "Leighton John, Jeremy",
+            "Kuhl, Nancy",
+            "Shaw, Seth",
+            "Thomas, Susan"
+        ],
+        "description": {
+            "s": "This report offers recommendations to help ensure the physical and intellectual wellbeing of borndigital materials transferred from donors to archival repositories The report surveys the primary issues and concerns related to borndigital acquisitions and is intended for a broad audience with varying levels of interest and expertise including donors dealers and repository staff Read Japanese translation courtesy Seigakuin Universityhttpszenodoorgrecord7802189filesCLIRpub159japdfdownload1 Born Digital Guidance for Donors Dealers and Archival Repositories by Council on Library and Information Resources is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS ",
+            "orig": "This report offers recommendations to help ensure the physical and intellectual wellbeing of borndigital materials transferred from donors to archival repositories The report surveys the primary issues and concerns related to borndigital acquisitions and is intended for a broad audience with varying levels of interest and expertise including donors dealers and repository staff Read Japanese translation courtesy Seigakuin Universityhttpszenodoorgrecord7802189filesCLIRpub159japdfdownload1 Born Digital Guidance for Donors Dealers and Archival Repositories by Council on Library and Information Resources is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS ",
+            "length": 746
+        },
+        "isbn": "978-1-932326-46-8",
+        "doi": "10.5281/zenodo.7802189",
+        "pub_date": "2013-11-01T00:00:00.000Z",
+        "pages": 28,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub159/"
+    },
+    "pub158": {
+        "clir_id": "pub158",
+        "title": "The Survival of American Silent Feature Films: 1912–1929",
+        "authors": [
+            "Pierce, David"
+        ],
+        "description": {
+            "s": "Commissioned for and sponsored by the National Film Preservation Board Library of Congress The era of the American silent feature film lasted from 1912 until 1929 During that time filmmakers established the language of cinema and the motion pictures they created reached a height of artistic sophistication These films with their recognizable stars and high production values spread American culture around the world Silent feature films disappeared from sight soon after the coming of sound and many vanished from existence This report focuses on those titles that have managed to survive to the present day and represents the first comprehensive survey of the survival of American silent feature films Mr Pierces findings tell us that only 14 of the feature films produced in the United States during the period 19121929 survive in the format in which they were originally produced and distributed ie as complete works on 35mm film Another 11 survive in fulllength foreign versions or on film formats of lesser image quality such as 16mm and other smaller gauge formats Mr Pierce has also created a valuable database of location information on the archival film holdings identified in the course of his research See wwwlocgovfilmhttpwwwlocgovfilm The Survival of American Silent Feature Films19121929 by Council on Library and Information Resources and The Library of Congress is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS",
+            "orig": "Commissioned for and sponsored by the National Film Preservation Board Library of Congress The era of the American silent feature film lasted from 1912 until 1929 During that time filmmakers established the language of cinema and the motion pictures they created reached a height of artistic sophistication These films with their recognizable stars and high production values spread American culture around the world Silent feature films disappeared from sight soon after the coming of sound and many vanished from existence This report focuses on those titles that have managed to survive to the present day and represents the first comprehensive survey of the survival of American silent feature films Mr Pierces findings tell us that only 14 of the feature films produced in the United States during the period 19121929 survive in the format in which they were originally produced and distributed ie as complete works on 35mm film Another 11 survive in fulllength foreign versions or on film formats of lesser image quality such as 16mm and other smaller gauge formats Mr Pierce has also created a valuable database of location information on the archival film holdings identified in the course of his research See wwwlocgovfilmhttpwwwlocgovfilm The Survival of American Silent Feature Films19121929 by Council on Library and Information Resources and The Library of Congress is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS",
+            "length": 1517
+        },
+        "isbn": "978-1-932326-39-0",
+        "doi": "10.5281/zenodo.7802174",
+        "pub_date": "2013-09-01T00:00:00.000Z",
+        "pages": 63,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub158/"
+    },
+    "pub157": {
+        "clir_id": "pub157",
+        "title": "Images of Works of Art in Museum Collections: The Experience of Open Access",
+        "authors": [
+            "Kelly, Kristin"
+        ],
+        "description": {
+            "s": "This report describes the current approaches of 11 art museums in the United States and the United Kingdom to the use of images of works of art that are in their collections and are in the public domain Each approach is slightly different By presenting the thought processes and methods used in these institutions this report aims to inform the decision making of other museums that are considering open access to images in their collections The following museums are included in this study British Museum London Indianapolis Museum of Art Indianapolis J Paul Getty Museum Los Angeles Los Angeles County Museum of Art Los Angeles Metropolitan Museum of Art New York Morgan Library and Museum New York National Gallery of Art Washington DC Victoria and Albert Museum London Walters Art Museum Baltimore Yale Center for British Art New Haven Yale University Art Gallery New Haven Images of Works of Art in Museum Collections The Experiences of Open Access by Council on Library and Information Resources is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS ",
+            "orig": "This report describes the current approaches of 11 art museums in the United States and the United Kingdom to the use of images of works of art that are in their collections and are in the public domain Each approach is slightly different By presenting the thought processes and methods used in these institutions this report aims to inform the decision making of other museums that are considering open access to images in their collections The following museums are included in this study British Museum London Indianapolis Museum of Art Indianapolis J Paul Getty Museum Los Angeles Los Angeles County Museum of Art Los Angeles Metropolitan Museum of Art New York Morgan Library and Museum New York National Gallery of Art Washington DC Victoria and Albert Museum London Walters Art Museum Baltimore Yale Center for British Art New Haven Yale University Art Gallery New Haven Images of Works of Art in Museum Collections The Experiences of Open Access by Council on Library and Information Resources is licensed under a Creative Commons AttributionNonCommercialShareAlike 30 Unported Licensehttpscreativecommonsorglicensesbyncsa30deedenUS ",
+            "length": 1141
+        },
+        "isbn": "978-1-932326-45-1",
+        "doi": "10.5281/zenodo.7802162",
+        "pub_date": "2013-06-01T00:00:00.000Z",
+        "pages": 35,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub157/"
+    },
+    "pub156": {
+        "clir_id": "pub156",
+        "title": "The Library of Congress National Recording Preservation Plan",
+        "authors": [
+            "Nelson-Strauss, Brenda",
+            "Gevinson, Alan",
+            "Brylawski, Sam",
+            "Loughney, Patrick"
+        ],
+        "description": {
+            "s": "Sponsored by the National Recording Preservation Board Library of Congress This plan was written by Brenda NelsonStrauss Alan Gevinson and Sam Brylawski under the direction of Patrick Loughney The National Recording Preservation Plan has been devised to provide a blueprint to implement a comprehensive national sound recording preservation program as mandated in the National Recording Preservation Act of 2000 Congress specified that the program established by the Librarian of Congress under this legislation shall increase accessibility of sound recordings for educational purposes Preserved recordings can benefit the public only if they are made available for listening Technological institutional and legal impediments to broadened access create daunting challenges for the national preservation effort This plan identifies the audio fields most important preservation and access problems and offers recommendations for surmounting them",
+            "orig": "Sponsored by the National Recording Preservation Board Library of Congress This plan was written by Brenda NelsonStrauss Alan Gevinson and Sam Brylawski under the direction of Patrick Loughney The National Recording Preservation Plan has been devised to provide a blueprint to implement a comprehensive national sound recording preservation program as mandated in the National Recording Preservation Act of 2000 Congress specified that the program established by the Librarian of Congress under this legislation shall increase accessibility of sound recordings for educational purposes Preserved recordings can benefit the public only if they are made available for listening Technological institutional and legal impediments to broadened access create daunting challenges for the national preservation effort This plan identifies the audio fields most important preservation and access problems and offers recommendations for surmounting them",
+            "length": 943
+        },
+        "isbn": "978-1-932326-44-4",
+        "doi": "10.5281/zenodo.7802153",
+        "pub_date": "2012-12-01T00:00:00.000Z",
+        "pages": 78,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub156/"
+    },
     "pub155": {
         "clir_id": "pub155",
         "title": "Participatory Design in Academic Libraries: Methods, Findings, and Implementations",
@@ -12,7 +125,7 @@ var store = {
         },
         "isbn": "978-1-932326-48-2",
         "doi": "10.5281/zenodo.7799833",
-        "pub_date": "2014-02-01T00:00:00.000Z",
+        "pub_date": "2012-10-01T00:00:00.000Z",
         "pages": 114,
         "content": " ",
         "url": "/archives.clir.org/reports/pub155/"
