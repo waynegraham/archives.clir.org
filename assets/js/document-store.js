@@ -1,4 +1,227 @@
 var store = {
+    "pub170": {
+        "clir_id": "pub170",
+        "title": "Terra Cognita: Graduate Students in the Archives, A Retrospective on the CLIR Mellon Fellowships for Dissertation Research in Original Sources",
+        "authors": [
+            "Ferraiolo, Nicole",
+            "Jahnke, Lori M.",
+            "Watson, Amanda",
+            "Shore, Elliott",
+            "Kashanipour, R. A.",
+            "Thomas III, William G.",
+            "Suarez, S.J., Michael F.",
+            "Henry, Charles"
+        ],
+        "description": {
+            "s": "Terra Cognita surveys the current landscape of archival research and the experiences of emerging scholars seeking to navigate it Drawing on data from CLIRs Mellon Fellowships for Dissertation Research in Original Sources the report takes an indepth look at how the conditions and practices of original source research have changed in recent decades and what communities invested in cultural heritage research can do to better support new scholarship in this evolving context Part one of the report presents an assessment of the fellowship program based on data that fellows submitted in their final reports to CLIR between 2003 and 2015 In part two program mentors Elliott Shore and Ryan Kashanipour share observations based on their work with the fellows Part three presents broader perspectives on original source research prompted by discussions at a meeting hosted by CLIR in January 2016 The volume closes with an afterword by Charles Henry that contemplates the intellectual and contextual challenges of conducting original source research today Throughout the volume are brief reflections by past fellows about their research experiences and how the fellowship has influenced their careers",
+            "orig": "Terra Cognita surveys the current landscape of archival research and the experiences of emerging scholars seeking to navigate it Drawing on data from CLIRs Mellon Fellowships for Dissertation Research in Original Sources the report takes an indepth look at how the conditions and practices of original source research have changed in recent decades and what communities invested in cultural heritage research can do to better support new scholarship in this evolving context Part one of the report presents an assessment of the fellowship program based on data that fellows submitted in their final reports to CLIR between 2003 and 2015 In part two program mentors Elliott Shore and Ryan Kashanipour share observations based on their work with the fellows Part three presents broader perspectives on original source research prompted by discussions at a meeting hosted by CLIR in January 2016 The volume closes with an afterword by Charles Henry that contemplates the intellectual and contextual challenges of conducting original source research today Throughout the volume are brief reflections by past fellows about their research experiences and how the fellowship has influenced their careers",
+            "length": 1196
+        },
+        "isbn": "978-1-932326-55-0",
+        "doi": "10.5281/zenodo.7805579",
+        "pub_date": "2016-05-01T00:00:00.000Z",
+        "pages": 66,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub170/"
+    },
+    "pub169": {
+        "clir_id": "pub169",
+        "title": "Innovation, Collaboration and Models",
+        "authors": [
+            "Oestreicher, Cheryl ed."
+        ],
+        "description": {
+            "s": "This volume documents the capstone event to the sevenyear Cataloging Hidden Special Collections and Archives programhttpswwwclirorghiddencollections funded by The Andrew W Mellon Foundation The twoday symposium and unconference brought together more than 180 participants including many past and current grant recipients In the proceedings more than 20 symposium presenters examine interinstitutional collaboration student and faculty involvement cataloging arrangement and description audiovisual collections science collections and outreach",
+            "orig": "This volume documents the capstone event to the sevenyear Cataloging Hidden Special Collections and Archives programhttpswwwclirorghiddencollections funded by The Andrew W Mellon Foundation The twoday symposium and unconference brought together more than 180 participants including many past and current grant recipients In the proceedings more than 20 symposium presenters examine interinstitutional collaboration student and faculty involvement cataloging arrangement and description audiovisual collections science collections and outreach",
+            "length": 542
+        },
+        "isbn": "978-1-932326-54-3",
+        "doi": "10.5281/zenodo.7805513",
+        "pub_date": "2015-11-01T00:00:00.000Z",
+        "pages": 217,
+        "content": " Keynote Address ltdiv classquotratio ratio16x9quotgt ltiframe srcquothttpswwwyoutubecomembedfr08CToy2Equot titlequotYouTube video playerquot frameborderquot0quot allowquotaccelerometer autoplay clipboardwrite encryptedmedia gyroscope pictureinpicture websharequot allowfullscreengtltiframegt ltdivgt Concluding Remarks ltdiv classquotratio ratio16x9quotgt ltiframe widthquot560quot heightquot315quot srcquothttpswwwyoutubecomembedYecaHMYQel0quot titlequotYouTube video playerquot frameborderquot0quot allowquotaccelerometer autoplay clipboardwrite encryptedmedia gyroscope pictureinpicture websharequot allowfullscreengtltiframegt ltdivgt Materials Presentation Abstractshttpswwwclirorghiddencollections2015symposiumunconferencesymposiumabstractstargetquotblankquot Postershttpswwwclirorghiddencollections2015symposiumunconferencepostertargetquotblankquot",
+        "url": "/archives.clir.org/reports/pub169/"
+    },
+    "pub168": {
+        "clir_id": "pub168",
+        "title": "Building Expertise to Support Digital Scholarship: A Global Perspective",
+        "authors": [
+            "Lewis, Vivian",
+            "Spiro, Lisa",
+            "Wang, Xuemao",
+            "Cawthorne, Jon E."
+        ],
+        "description": {
+            "s": "This report sheds light on the expertise required to support a robust and sustainable digital scholarship DS program It focuses first on defining and describing the key domain knowledge skills competencies and mindsets at some of the worlds most prominent digital scholarship programs It then identifies the main strategies used to build this expertise both formally and informally The work is set in a global context examining leading digital scholarship organizations in China India Taiwan the United Kingdom Germany Mexico Canada and the United States The report provides recommendations to help those currently involved in or considering embarking on a digital scholarship program",
+            "orig": "This report sheds light on the expertise required to support a robust and sustainable digital scholarship DS program It focuses first on defining and describing the key domain knowledge skills competencies and mindsets at some of the worlds most prominent digital scholarship programs It then identifies the main strategies used to build this expertise both formally and informally The work is set in a global context examining leading digital scholarship organizations in China India Taiwan the United Kingdom Germany Mexico Canada and the United States The report provides recommendations to help those currently involved in or considering embarking on a digital scholarship program",
+            "length": 684
+        },
+        "isbn": "978-1-932326-51-2",
+        "doi": "10.5281/zenodo.7805495",
+        "pub_date": "2015-10-01T00:00:00.000Z",
+        "pages": 50,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub168/"
+    },
+    "pub167": {
+        "clir_id": "pub167",
+        "title": "The Process of Discovery: The CLIR Postdoctoral Fellowship Program and the Future of the Academy",
+        "authors": [
+            "Henry, Charles",
+            "Waraksa, Elizabeth A.",
+            "Williford, Christa",
+            "Coats, Lauren",
+            "Shore, Elliott",
+            "Maclachlan, John C.",
+            "Parrott, Jennifer M.",
+            "Rose-Steel, Tamsyn",
+            "Kouper, Inna",
+            "Rawson, Katie",
+            "Chen, Amy",
+            "Pickle, Sarah",
+            "Waldroup, Heather",
+            "Flores, Jodi Reeves",
+            "Brodeur, Jason J.",
+            "Daniels, Morgan G.",
+            "Nicholls, Natsuko",
+            "Turnator, Ece",
+            "Sayre, Meridith Beck",
+            "Brunner, Marta",
+            "Croxall, Brian",
+            "McGinn, Emily"
+        ],
+        "description": {
+            "s": "This volume celebrates the first decade of CLIRs Postdoctoral Fellowship Programhttpswwwclirorgfellowshipspostdoc by bringing together 20 past and present CLIR postdoctoral fellows to share their thoughts on their experiences and more broadly on the direction of academia Each essay is a look into the working conditions associated with creating a new profession of expertise and responsibilities in response to emerging forms of scholarly communication and pedagogy",
+            "orig": "This volume celebrates the first decade of CLIRs Postdoctoral Fellowship Programhttpswwwclirorgfellowshipspostdoc by bringing together 20 past and present CLIR postdoctoral fellows to share their thoughts on their experiences and more broadly on the direction of academia Each essay is a look into the working conditions associated with creating a new profession of expertise and responsibilities in response to emerging forms of scholarly communication and pedagogy",
+            "length": 466
+        },
+        "isbn": "978-1-932326-52-9",
+        "doi": "10.5281/zenodo.7805460",
+        "pub_date": "2015-07-02T00:00:00.000Z",
+        "pages": 142,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub167/"
+    },
+    "pub166": {
+        "clir_id": "pub166",
+        "title": "The Once and Future Publishing Library",
+        "authors": [
+            "Okerson, Ann",
+            "Holzman, Alex"
+        ],
+        "description": {
+            "s": "The report explores the revitalization of library publishing and its possible future and examines elements that influence the success and sustainability of library publishing initiatives The authors trace the history of library publishing and factors that have transformed the publishing landscape and describe several significant librarypress collaborations forged over the past two decades Authors include results of a survey they conducted to better understand how current library publishing initiatives are supported financially They conclude with a series of observations about the range of publishing initiatives in American academic libraries The report was funded by a grant from The Goodall Family Charitable Foundation",
+            "orig": "The report explores the revitalization of library publishing and its possible future and examines elements that influence the success and sustainability of library publishing initiatives The authors trace the history of library publishing and factors that have transformed the publishing landscape and describe several significant librarypress collaborations forged over the past two decades Authors include results of a survey they conducted to better understand how current library publishing initiatives are supported financially They conclude with a series of observations about the range of publishing initiatives in American academic libraries The report was funded by a grant from The Goodall Family Charitable Foundation",
+            "length": 728
+        },
+        "isbn": "978-1-932326-50-5",
+        "doi": "10.5281/zenodo.7803648",
+        "pub_date": "2015-07-01T00:00:00.000Z",
+        "pages": 65,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub166/"
+    },
+    "pub165": {
+        "title": "Getting Found: SEO Cookbook",
+        "authors": [
+            "Brylawski, Sam",
+            "Lerman, Maya",
+            "Pike, Robin",
+            "Smith, Kathlin"
+        ],
+        "description": {
+            "s": "At a time when Internet search engines have become the default discovery layer for most users libraries need to report that their websites and digital repositories are discoverable through those search engines as well The Getting Found GF Cookbook provides a stepbystep video guide to help libraries measure and monitor the search engine optimization SEO performance of their digital repositories The Cookbook includes everything necessary to implement a preconfigured Google Analytics dashboard that continuously monitors SEO performance metrics relevant to digital repositories The Cookbook was supported by a grant from the Institute of Museum and Library Services",
+            "orig": "At a time when Internet search engines have become the default discovery layer for most users libraries need to report that their websites and digital repositories are discoverable through those search engines as well The Getting Found GF Cookbook provides a stepbystep video guide to help libraries measure and monitor the search engine optimization SEO performance of their digital repositories The Cookbook includes everything necessary to implement a preconfigured Google Analytics dashboard that continuously monitors SEO performance metrics relevant to digital repositories The Cookbook was supported by a grant from the Institute of Museum and Library Services",
+            "length": 667
+        },
+        "isbn": null,
+        "pub_date": "05/2015",
+        "pages": null,
+        "content": " aposassetsimagesreportspub165gettingfoundlogojpgapos relativeurl classquotfloatendquot Phase I Institutionalizing SEOphaseiinstitutionalizingseo Justifying the Need Videojustifyingtheneedvideo Strategic Planning Videostrategicplanningvideo Phase II Prep Workphaseiiprepwork Prepping for InventoryVideopreppingforinventoryvideo Phase III Accurate Measurementphaseiiiaccuratemeasurement Creating an Institutional Google Account Videocreatinganinstitutionalgoogleaccountvideo Deeper Divedeeperdive Serving the Getting Found SEO Dashboard Videoservingthegettingfoundseodashboardvideo Case Study Montana State University Library Strategic Planningcasestudymontanastateuniversitylibrarystrategicplanning Introductionintroduction Aligning with University Goalsaligningwithuniversitygoals Office of the Provostofficeoftheprovost Librarylibrary Recommended Referencesrecommendedreferences At a time when Internet search engines have become the default discovery layer for most users libraries need to report that their websites and digital repositories are discoverable through those search engines as well The Getting Found GF Cookbook provides a stepbystep video guide to help libraries measure and monitor the search engine optimization SEO performance of their digital repositories The Cookbook includes everything necessary to implement a preconfigured Google Analytics dashboard that continuously monitors SEO performance metrics relevant to digital repositories The Cookbook was supported by a grant from the Institute of Museum and Library Services Phase I Institutionalizing SEO Justifying the Need VideohttpswwwyoutubecomwatchvtOLiCCC5M Strategic Planning Videohttpswwwyoutubecomwatchv8q5rgwuuZD8 Review Case Study MSU Library Strategic Planningcasestudymontanastateuniversitylibrarystrategicplanning Read Recommended Referencesrecommendedreferences Phase II Prep Work Prepping for InventoryVideohttpswwwyoutubecomwatchvzhoUtPi8gM Identify Stakeholder Roles and Conduct Survey of Web Propertieshttpswwwclirorgpubsreportspub165stakeholder Use Web Metrics and Analytichttpswwwclirorgwpcontentuploadssites6GF03WebMetricsAnalyticsSurveyoptpdfsSurvey Template Review Analytics Stakeholdershttpswwwclirorgwpcontentuploadssites6copyofseo2GF14pngGraphic Overview Phase III Accurate Measurement ",
+        "url": "/archives.clir.org/reports/pub165/"
+    },
+    "pub164": {
+        "clir_id": "pub164",
+        "title": "ARSC Guide to Audio Preservation",
+        "authors": [
+            "Brylawski, Sam",
+            "Lerman, Maya",
+            "Pike, Robin",
+            "Smith, Kathlin"
+        ],
+        "description": {
+            "s": "Commissioned for and sponsored by the National Recording Preservation Board of the Library of Congress Copublished by the Association for Recorded Sound Collections the Council on Library and Information Resources and The Library of Congress The ARSC Guide to Audio Preservation is a practical introduction to caring for and preserving audio collections It is aimed at individuals and institutions that have recorded sound collections but lack the expertise in one or more areas to preserve them Our audio legacy is at serious risk because of media deterioration technological obsolescence and often lack of accessibility This legacy is remarkable in its diversity ranging from wax cylinders of extinct Native American languages to tapes of local radio broadcasts naturalists and ethnographers field recordings small independent record company releases and much more Saving this irreplaceable treasure demands the joint effort of libraries archives museums local history repositories corporations and individuals But for many institutions the question is Where to begin This guide addresses that question Nine chapters contributed by a range of experts cover audio conservation and preservation recorded sound formats and their associated risks appraisal related copyright issues and disaster preparedness The guide also offers advice on making informed decisions about digitization as well as strategies for managing digital content An appendix to the guide focuses on fair use and sound recordings",
+            "orig": "Commissioned for and sponsored by the National Recording Preservation Board of the Library of Congress Copublished by the Association for Recorded Sound Collections the Council on Library and Information Resources and The Library of Congress The ARSC Guide to Audio Preservation is a practical introduction to caring for and preserving audio collections It is aimed at individuals and institutions that have recorded sound collections but lack the expertise in one or more areas to preserve them Our audio legacy is at serious risk because of media deterioration technological obsolescence and often lack of accessibility This legacy is remarkable in its diversity ranging from wax cylinders of extinct Native American languages to tapes of local radio broadcasts naturalists and ethnographers field recordings small independent record company releases and much more Saving this irreplaceable treasure demands the joint effort of libraries archives museums local history repositories corporations and individuals But for many institutions the question is Where to begin This guide addresses that question Nine chapters contributed by a range of experts cover audio conservation and preservation recorded sound formats and their associated risks appraisal related copyright issues and disaster preparedness The guide also offers advice on making informed decisions about digitization as well as strategies for managing digital content An appendix to the guide focuses on fair use and sound recordings",
+            "length": 1499
+        },
+        "isbn": "978-1-932326-50-5",
+        "doi": "10.5281/zenodo.7803609",
+        "pub_date": "2015-05-01T00:00:00.000Z",
+        "pages": 240,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub164/"
+    },
+    "pub163": {
+        "clir_id": "pub163",
+        "title": "The Center of Excellence Model for Information Services",
+        "authors": [
+            "Kirchner, Joy",
+            "Diaz, José",
+            "Henry, Geneva",
+            "Fliss, Susan",
+            "Culshaw, John",
+            "Gendron, Heather",
+            "Cawthorne, Jon E."
+        ],
+        "description": {
+            "s": "In 2013 The Andrew W Mellon Foundation awarded a group of librarians from ARLs Research Library Leadership Fellows program a planning grant to examine the center of excellence CoE model for information services Used in a variety of industries CoEs are designed to attract the most talented researchers in a particular field enhance collaboration and improve access to the resources needed for their research The planning grant was awarded to determine whether the CoE model could serve as a means to provide the new services required for the effective use of digital information This report describes the teams approach to examining the feasibility of CoEs in the library setting The team conducted preliminary investigations of more than 100 centers which they narrowed to 35 for indepth research Interviews were conducted with staff at 19 centers and 7 funding organizations In their conclusion the team advises developing networks of expertise or expert networks instead of CoEs and provides a series of recommendations for building such networks",
+            "orig": "In 2013 The Andrew W Mellon Foundation awarded a group of librarians from ARLs Research Library Leadership Fellows program a planning grant to examine the center of excellence CoE model for information services Used in a variety of industries CoEs are designed to attract the most talented researchers in a particular field enhance collaboration and improve access to the resources needed for their research The planning grant was awarded to determine whether the CoE model could serve as a means to provide the new services required for the effective use of digital information This report describes the teams approach to examining the feasibility of CoEs in the library setting The team conducted preliminary investigations of more than 100 centers which they narrowed to 35 for indepth research Interviews were conducted with staff at 19 centers and 7 funding organizations In their conclusion the team advises developing networks of expertise or expert networks instead of CoEs and provides a series of recommendations for building such networks",
+            "length": 1049
+        },
+        "isbn": "978-1-932326-49-9",
+        "doi": "10.5281/zenodo.7803577",
+        "pub_date": "2015-02-01T00:00:00.000Z",
+        "pages": 25,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub163/"
+    },
+    "pub162": {
+        "clir_id": "pub162",
+        "title": "The Changing Landscape of Library and Information Services: What Presidents, Provosts, and Finance Officers Need to Know",
+        "authors": [
+            "Holmgren, Richard",
+            "Spencer, Gene"
+        ],
+        "description": {
+            "s": "Rapidly evolving digital technologies and services are profoundly influencing the financial model supporting many colleges and universities Institutions that rely solely on traditional solutions to address the growing challenges to the higher education business model are unlikely to thrive Colleges and universities must identify and seize new opportunities in light of new financial challenges In December 2013 CLIR sponsored a workshop that explored the ways in which library and information technology services LITS organizations and academic institutions will need to evolve Workshop participantsmembers of CLIRs Chief Information Officers CIOs group responsible for integrated library and information technology services organizationsidentified changes they would be likely to face in the next decade and what strategies they should adopt to prepare themselves for this future CIOs Richard Holmgren of Allegheny College and Gene Spencer of Ursinus College draw on the workshop discussions to summarize the key challenges and opportunities facing LITS organizations Developments of the past decadefrom the ubiquity of cell phones to the growth of virtual server infrastructure and the maturation of opensource software support modelshave created new opportunities for LITS organizations to improve student outcomes increase revenue and manage costs The authors discuss these opportunities and identify the core competencies that LITS organizations will need to support positive institutional change in the decade ahead",
+            "orig": "Rapidly evolving digital technologies and services are profoundly influencing the financial model supporting many colleges and universities Institutions that rely solely on traditional solutions to address the growing challenges to the higher education business model are unlikely to thrive Colleges and universities must identify and seize new opportunities in light of new financial challenges In December 2013 CLIR sponsored a workshop that explored the ways in which library and information technology services LITS organizations and academic institutions will need to evolve Workshop participantsmembers of CLIRs Chief Information Officers CIOs group responsible for integrated library and information technology services organizationsidentified changes they would be likely to face in the next decade and what strategies they should adopt to prepare themselves for this future CIOs Richard Holmgren of Allegheny College and Gene Spencer of Ursinus College draw on the workshop discussions to summarize the key challenges and opportunities facing LITS organizations Developments of the past decadefrom the ubiquity of cell phones to the growth of virtual server infrastructure and the maturation of opensource software support modelshave created new opportunities for LITS organizations to improve student outcomes increase revenue and manage costs The authors discuss these opportunities and identify the core competencies that LITS organizations will need to support positive institutional change in the decade ahead",
+            "length": 1523
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7803557",
+        "pub_date": "2014-09-01T00:00:00.000Z",
+        "pages": 12,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub162/"
+    },
+    "pub161": {
+        "clir_id": "pub161",
+        "title": "Participatory Design in Academic Libraries: New Reports and Findings",
+        "authors": [
+            "Foster, Nancy Fried"
+        ],
+        "description": {
+            "s": "This report looks at how staff at eight academic institutions gained new insight about how students and faculty use their libraries and how the staff are using these findings to improve library technologies space and services Participatory design is a relatively recent approach to understanding library user behavior It is based on techniques used in anthropological and ethnographic observation The reports editor anthropologist Nancy Fried Fosterhttpssrithakaorgpeoplenancyfriedfoster led several participatory design workshops for CLIR from 2007 to 2013 The report is based on a series of presentations at the second CLIR Seminar on Participatory Design of Academic Libraries held at the University of Rochesters River Campus June 57 2013 Chapters focus on projects at the University of Colorado Boulder Colby College University of Connecticut Columbia University Rush University Medical Center Purdue University Northwestern University and the University of Rochester David Lindahl of the University of MissouriKansas City provided the keynote It is the second of two volumes published by CLIR that focus on participatory design The first Participatory Design in Academic Libraries Methods Findings and Implementationshttpsdoiorg105281zenodo7799833 was published in October 2012",
+            "orig": "This report looks at how staff at eight academic institutions gained new insight about how students and faculty use their libraries and how the staff are using these findings to improve library technologies space and services Participatory design is a relatively recent approach to understanding library user behavior It is based on techniques used in anthropological and ethnographic observation The reports editor anthropologist Nancy Fried Fosterhttpssrithakaorgpeoplenancyfriedfoster led several participatory design workshops for CLIR from 2007 to 2013 The report is based on a series of presentations at the second CLIR Seminar on Participatory Design of Academic Libraries held at the University of Rochesters River Campus June 57 2013 Chapters focus on projects at the University of Colorado Boulder Colby College University of Connecticut Columbia University Rush University Medical Center Purdue University Northwestern University and the University of Rochester David Lindahl of the University of MissouriKansas City provided the keynote It is the second of two volumes published by CLIR that focus on participatory design The first Participatory Design in Academic Libraries Methods Findings and Implementationshttpsdoiorg105281zenodo7799833 was published in October 2012",
+            "length": 1283
+        },
+        "isbn": "978-1-932326-48-2",
+        "doi": "10.5281/zenodo.7803548",
+        "pub_date": "2014-02-01T00:00:00.000Z",
+        "pages": 110,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub161/"
+    },
     "pub160": {
         "clir_id": "pub160",
         "title": "Research Data Management Principles, Practices, and Prospects",

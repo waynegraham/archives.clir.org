@@ -31,7 +31,7 @@ layout: default
         {{ page.description | markdownify }}
     </p>
     {% if page.license %}
-    <p class="border-top my-4">
+    <p class="border-top border-bottom py-4 my-4">
         <strong>{{ page.title }}</strong> is licensed under {% include licence_map.html %}.
     </p>
     {% endif %}
@@ -44,7 +44,7 @@ layout: default
 </div>
 
 {% if page.content %}
-<div class="container border-top py-5 my-5">
+<div class="container border-top pt-5 mt-5">
     {{ content }}
 </div>
 {% endif %}
