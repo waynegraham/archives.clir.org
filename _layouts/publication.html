@@ -16,7 +16,8 @@ layout: default
 
     <p>{{ page.clir_id }}. <strong>{{ page.title }}</strong></p>
     <p>
-        {{ page.authors | join: '; '}} ({{ page.pub_date | date: '%m/%Y'}}, {{ page.pages }}pp.)
+        {{ page.authors | join: '; '}} ({{ page.pub_date | date: '%m/%Y'}}
+        {%- if page.pages %}, {{ page.pages }}pp.{% endif -%})
         {% if page.isbn %} ISBN: {{ page.isbn }}.{% endif %} 
         
     </p>

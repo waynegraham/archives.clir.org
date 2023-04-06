@@ -1,4 +1,269 @@
 var store = {
+    "pub183": {
+        "clir_id": "pub183",
+        "title": "Evaluating Equity and Inclusion in Cultural Heritage Grantmaking: CLIR’s Amplifying Unheard Voices Program",
+        "authors": [
+            "Johnston, Jesse A.",
+            "Punzalan, Ricardo L."
+        ],
+        "description": {
+            "s": "This report summarizes a yearlong program assessment of Amplifying Unheard Voices a major revision of CLIRs Digitizing Hidden Collections grant program The revision sought to expand the reach and appeal of the program to a broader range of institutions including independent and community organizations and to emphasize the digitization of historical materials that tell the stories of groups underrepresented in the digital historical record Significant changes were made to the application structure new applicant support resources were created eligibility was expanded to Canada and new thematic emphases and program values were added The assessment was based on a series of qualitative datagathering activities that included stakeholder groups and staff Through surveys and interviews of applicants inquirers proposal reviewers and staff the authors provide a holistic view of the program offer a series of recommendations and identify areas for further attention",
+            "orig": "This report summarizes a yearlong program assessment of Amplifying Unheard Voices a major revision of CLIRs Digitizing Hidden Collections grant program The revision sought to expand the reach and appeal of the program to a broader range of institutions including independent and community organizations and to emphasize the digitization of historical materials that tell the stories of groups underrepresented in the digital historical record Significant changes were made to the application structure new applicant support resources were created eligibility was expanded to Canada and new thematic emphases and program values were added The assessment was based on a series of qualitative datagathering activities that included stakeholder groups and staff Through surveys and interviews of applicants inquirers proposal reviewers and staff the authors provide a holistic view of the program offer a series of recommendations and identify areas for further attention",
+            "length": 967
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7806124",
+        "pub_date": "2023-03-01T00:00:00.000Z",
+        "pages": 84,
+        "content": " More Information httpswwwclirorghiddencollectionshttpswwwclirorghiddencollections Project announcementhttpswwwclirorg202105clirannouncesappointmentofdigitizinghiddencollectionsprogramassessors Supplementary Materials Interview Protocols Summaryhttpszenodoorgrecord7806124filespub183SummaryInterviewProtocolsdocxdownload1 NonApplicant Survey Instrument and Summary of Responseshttpszenodoorgrecord7806124filespub183SummaryNonApplicantSurveydocxdownload1 Withdrawn Applicant Survey Instrumenthttpszenodoorgrecord7806124filespub183SummaryWithdrawnApplicantSurveydocxdownload1 Withdrawn Applicant Summary of Responseshttpszenodoorgrecord7806124filespub183DigitizingHiddenSpecialCollectionsandArchivesAmplifyingUnheardVoicesWithdrawnApplicantSurveyMay2022REDACTEDxlsxdownload1",
+        "url": "/archives.clir.org/reports/pub183/"
+    },
+    "pub182": {
+        "clir_id": "pub182",
+        "title": "Supporting Software Preservation Services in Research and Memory Organizations",
+        "authors": [
+            "Benner, Jessica G.",
+            "Erickson, Seth",
+            "Hagenmaier, Wendy",
+            "Lassere, Monique",
+            "Williford, Christa",
+            "Work, Lauren"
+        ],
+        "description": {
+            "s": "This white paper from the Software Preservation Networks ResearchinPractice Working Group presents findings from a survey and interviewbased study of software preservation service providers including archivists librarians preservation specialists technologists and other information professionals Supporting Software Preservation Services in Research and Memory Organizations identifies concepts skill sets barriers and future directions related to software preservation work Although definitions of software can vary across preservation contexts the study found that there appears to be wide support for interorganizational collaboration in software preservation The report includes 13 recommendations for broadening representation in the field defining the field networking and community building informal and formal learning and implementing shared infrastructures and model practices All products of this study are shared in Zenodo under open licenses that permit adaptation and reuse at httpsdoiorg105281zenodo7086618 CLIRs participation in this project and the publication of this report were made possible with support from the Alfred P Sloan Foundationhttpssloanorgs Digital Technology programhttpssloanorgprogramsdigitaltechnology",
+            "orig": "This white paper from the Software Preservation Networks ResearchinPractice Working Group presents findings from a survey and interviewbased study of software preservation service providers including archivists librarians preservation specialists technologists and other information professionals Supporting Software Preservation Services in Research and Memory Organizations identifies concepts skill sets barriers and future directions related to software preservation work Although definitions of software can vary across preservation contexts the study found that there appears to be wide support for interorganizational collaboration in software preservation The report includes 13 recommendations for broadening representation in the field defining the field networking and community building informal and formal learning and implementing shared infrastructures and model practices All products of this study are shared in Zenodo under open licenses that permit adaptation and reuse at httpsdoiorg105281zenodo7086618 CLIRs participation in this project and the publication of this report were made possible with support from the Alfred P Sloan Foundationhttpssloanorgs Digital Technology programhttpssloanorgprogramsdigitaltechnology",
+            "length": 1239
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7086618",
+        "pub_date": "2022-11-01T00:00:00.000Z",
+        "pages": 60,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub182/"
+    },
+    "pub181": {
+        "clir_id": "pub181",
+        "title": "Accelerated Aging of Polyester-Based Legacy Audio Magnetic Tape Stock",
+        "authors": [
+            "Davis, Andrew R.",
+            "France, Fenella G.",
+            "Shetzline, Jamie",
+            "Alyea, Peter",
+            "Katayama, Kazutoshi",
+            "Kurihashi, Yuichi",
+            "Doshita, Hiroaki",
+            "Gadomski, Rich"
+        ],
+        "description": {
+            "s": "This study reports on new research into the longevity of polyesterbased magnetic audio tapes Openreel test tapes produced 10 to 20 years ago were subjected to a variety of accelerated temperature and relative humidity ranges chosen to best predict and assess potential conditions for storage in institutions with and without controlled environmental options Changes to the tapes physical magnetic and chemical properties were measured to assess their impact on the tapes usability The results indicated that under standard room temperature conditions the tapes tested may remain usable for as long as 100 years more than doubling previous estimates a finding that could have significant implications for preservation planning of audiovisual collections",
+            "orig": "This study reports on new research into the longevity of polyesterbased magnetic audio tapes Openreel test tapes produced 10 to 20 years ago were subjected to a variety of accelerated temperature and relative humidity ranges chosen to best predict and assess potential conditions for storage in institutions with and without controlled environmental options Changes to the tapes physical magnetic and chemical properties were measured to assess their impact on the tapes usability The results indicated that under standard room temperature conditions the tapes tested may remain usable for as long as 100 years more than doubling previous estimates a finding that could have significant implications for preservation planning of audiovisual collections",
+            "length": 752
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7806067",
+        "pub_date": "2022-02-01T00:00:00.000Z",
+        "pages": 37,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub181/"
+    },
+    "pub180": {
+        "clir_id": "pub180",
+        "title": "Creating Access to HBCU Library Alliance Archives: Needs, Capacity, and Technical Planning",
+        "authors": [
+            "Freeman, Sharon Ferguson"
+        ],
+        "description": {
+            "s": "This study explores the common barriers and shared visions for creating access to archival collections held by libraries at Historically Black Colleges and Universities HBCUs One of few reports that document the needs of HBCU libraries as they relate to archives and special collections it is based on a series of online focus groups that author Sharon Ferguson Freeman facilitated with HBCU library directors and deans in 2021 The study provides insight into the significance of special and archival collections for HBCU libraries and their communities the management and capacity of archives and special collections and these libraries values priorities needs and aspirations The findings also reveal information related to the impact of the COVID19 pandemic on HBCUs and broader topics of significance that were not anticipated when the project began In parallel with Freemans research Portia D Hopkins and Synatra A Smith conducted a series of interviews with staff working at five HBCUs investigating their libraries unique priorities resources and work processes Smith and Hopkins prepared an internal report with a detailed set of strategic and technical recommendations for the HBCU Library Alliance An executive summary of their findings is appended to the report and available separately as a separate downloadhttpszenodoorgrecord7806042filespub173addendumpdfdownload1 This twopart study grew out of a partnershiphttpswwwclirorg201907clirandhbculibraryallianceformnationalpartnership formalized in 2019 between the HBCU Library Alliance and CLIR and a 2020 Mellon Foundation grant for a study to inform a sustainable shared infrastructure for creating access to HBCU Library Alliance members archival collections",
+            "orig": "This study explores the common barriers and shared visions for creating access to archival collections held by libraries at Historically Black Colleges and Universities HBCUs One of few reports that document the needs of HBCU libraries as they relate to archives and special collections it is based on a series of online focus groups that author Sharon Ferguson Freeman facilitated with HBCU library directors and deans in 2021 The study provides insight into the significance of special and archival collections for HBCU libraries and their communities the management and capacity of archives and special collections and these libraries values priorities needs and aspirations The findings also reveal information related to the impact of the COVID19 pandemic on HBCUs and broader topics of significance that were not anticipated when the project began In parallel with Freemans research Portia D Hopkins and Synatra A Smith conducted a series of interviews with staff working at five HBCUs investigating their libraries unique priorities resources and work processes Smith and Hopkins prepared an internal report with a detailed set of strategic and technical recommendations for the HBCU Library Alliance An executive summary of their findings is appended to the report and available separately as a separate downloadhttpszenodoorgrecord7806042filespub173addendumpdfdownload1 This twopart study grew out of a partnershiphttpswwwclirorg201907clirandhbculibraryallianceformnationalpartnership formalized in 2019 between the HBCU Library Alliance and CLIR and a 2020 Mellon Foundation grant for a study to inform a sustainable shared infrastructure for creating access to HBCU Library Alliance members archival collections",
+            "length": 1722
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7806042",
+        "pub_date": "2022-03-01T00:00:00.000Z",
+        "pages": 72,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub180/"
+    },
+    "pub179": {
+        "clir_id": "pub179",
+        "title": "Curated Futures Project: A Third Library is Possible",
+        "authors": [
+            "Day, Faithe",
+            "Smith, Synatra",
+            "Eyre, Jodi Reeves",
+            "MacLachlan, John",
+            "Williford, Christa"
+        ],
+        "description": {
+            "s": "The Curated Futures Projecthttpsfuturesclirorg is a guide for professionals in galleries libraries archives and museums to navigate beyond discussions of decolonizing collecting institutions to begin taking practical steps to enact change Organized and edited by CLIR Postdoctoral Fellowshttpspostdocclirorg and alumni Faithe Day Synatra Smith Jodi Reeves Eyre John MacLachlan and Christa Williford the project is the first in a series of collaborations that respond to the theme A Third Library is Possible The theme draws from the possibilities of the third university a notion developed by la paperson in the book A Third University is Possiblehttpswwwupressumnedubookdivisionbooksathirduniversityispossible Contributors to five collaborative projects use a variety of mediums including podcasts gaming and mapping visualizations to speculate about aligning academic libraries with social impact The projects include Geographies of Engaged Digital Scholarship Remaking Space and Place in the Academic Libraryhttpsfuturesclirorgspaceandplace by Rachel Starry Marta Brunner Matthew Sisk and Sean Tennant FLAMEFuture Libraries Archives and Museums in Excavationa Podcast Serieshttpsfuturesclirorgflame by Jennifer Grayburn Petrouchka Mose Ece Turnator and Laura Wilson GameBased Design for Inclusive and Accessible Digital Exhibitshttpsfuturesclirorggamebaseddesign by Rebecca Y Bayeck Smiti Nathan and Alex WermerColan Visualizing Scholarship as Social Changehttpsfuturesclirorgscholarshipforsocialchange by Justin Schell The Third Library and the Commonshttpsfuturesclirorgthethirdlibrarythecommons by Annie Johnson Carrie Johnston and Aditya Ranganath The Curated Futures Project is the third installment of the CLIR Collaborative Writing Project previous publications were The Process of Discoveryhttpsdoiorg105281zenodo7805460 and A Splendid Torchhttpsdoiorg105281zenodo7805875 Unlike the earlier works the current projects authors began their work knowing that inperson engagement would be impossible",
+            "orig": "The Curated Futures Projecthttpsfuturesclirorg is a guide for professionals in galleries libraries archives and museums to navigate beyond discussions of decolonizing collecting institutions to begin taking practical steps to enact change Organized and edited by CLIR Postdoctoral Fellowshttpspostdocclirorg and alumni Faithe Day Synatra Smith Jodi Reeves Eyre John MacLachlan and Christa Williford the project is the first in a series of collaborations that respond to the theme A Third Library is Possible The theme draws from the possibilities of the third university a notion developed by la paperson in the book A Third University is Possiblehttpswwwupressumnedubookdivisionbooksathirduniversityispossible Contributors to five collaborative projects use a variety of mediums including podcasts gaming and mapping visualizations to speculate about aligning academic libraries with social impact The projects include Geographies of Engaged Digital Scholarship Remaking Space and Place in the Academic Libraryhttpsfuturesclirorgspaceandplace by Rachel Starry Marta Brunner Matthew Sisk and Sean Tennant FLAMEFuture Libraries Archives and Museums in Excavationa Podcast Serieshttpsfuturesclirorgflame by Jennifer Grayburn Petrouchka Mose Ece Turnator and Laura Wilson GameBased Design for Inclusive and Accessible Digital Exhibitshttpsfuturesclirorggamebaseddesign by Rebecca Y Bayeck Smiti Nathan and Alex WermerColan Visualizing Scholarship as Social Changehttpsfuturesclirorgscholarshipforsocialchange by Justin Schell The Third Library and the Commonshttpsfuturesclirorgthethirdlibrarythecommons by Annie Johnson Carrie Johnston and Aditya Ranganath The Curated Futures Project is the third installment of the CLIR Collaborative Writing Project previous publications were The Process of Discoveryhttpsdoiorg105281zenodo7805460 and A Splendid Torchhttpsdoiorg105281zenodo7805875 Unlike the earlier works the current projects authors began their work knowing that inperson engagement would be impossible",
+            "length": 2006
+        },
+        "isbn": null,
+        "doi": null,
+        "pub_date": "2022-02-01T00:00:00.000Z",
+        "content": "",
+        "url": "/archives.clir.org/reports/pub179/"
+    },
+    "pub178": {
+        "clir_id": "pub178",
+        "title": "Capacity Assessment of Latin American and Caribbean Partners: Report of Symposium and Recommendations",
+        "authors": [
+            "St. Hubert, Hadassah",
+            "Isasi, Jennifer",
+            "Fuller Medina, Nicté",
+            "Montañez, Margie"
+        ],
+        "description": {
+            "s": "In April 2020 the authors CLIR fellows in the second cohort of Data Curation for Latin American and Caribbean Studies virtually convened Capacity Assessment of Latin American and Caribbean Partners A Symposium about Open Access Technological Needs and Institutional Sustainability The symposium provided a forum for stakeholders from institutions in Latin America and the Caribbean to share strategies for digital archiving and cultural preservation and to identify common areas of need The goal of the symposium was for the stakeholders to formulate a set of questions for funders libraries archives and others based in the United States Canada and European nations to consider when evaluating grant proposals for digital projects or when considering postcustodial archival work with institutions in Latin America and the Caribbean The authors sought to develop recommendations and equitable practices to enhance cultural engagement through collection development that fully acknowledges Latin American and Caribbean organizations as equal partners with a voice in decision making for projects and grant funding",
+            "orig": "In April 2020 the authors CLIR fellows in the second cohort of Data Curation for Latin American and Caribbean Studies virtually convened Capacity Assessment of Latin American and Caribbean Partners A Symposium about Open Access Technological Needs and Institutional Sustainability The symposium provided a forum for stakeholders from institutions in Latin America and the Caribbean to share strategies for digital archiving and cultural preservation and to identify common areas of need The goal of the symposium was for the stakeholders to formulate a set of questions for funders libraries archives and others based in the United States Canada and European nations to consider when evaluating grant proposals for digital projects or when considering postcustodial archival work with institutions in Latin America and the Caribbean The authors sought to develop recommendations and equitable practices to enhance cultural engagement through collection development that fully acknowledges Latin American and Caribbean organizations as equal partners with a voice in decision making for projects and grant funding",
+            "length": 1112
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7805971",
+        "pub_date": "2021-02-01T00:00:00.000Z",
+        "pages": 17,
+        "content": " Language Specific Versions Englishhttpszenodoorgrecord7805971filespub178enpngdownload1 Franaishttpszenodoorgrecord7805971filespub178frpdfdownload1 Kreyl ayisyenhttpszenodoorgrecord7805971filespub178htpdfdownload1 Portugushttpszenodoorgrecord7805971filespub178ptpdfdownload1 Espaolhttpszenodoorgrecord7805971filespub178enpngdownload1",
+        "url": "/archives.clir.org/reports/pub178/"
+    },
+    "pub177": {
+        "clir_id": "pub177",
+        "title": "The Foundations of Discovery: A Report on the Assessment of the Impacts of the Cataloging Hidden Collections Program, 2008–2019",
+        "authors": [
+            "Banks, Joy M."
+        ],
+        "description": {
+            "s": "From 2008 to 2014 CLIR administered the Cataloging Hidden Special Collections and Archives program which granted funds to catalog hidden collections of high scholarly value Generously supported by The Andrew W Mellon Foundation the program awarded more than 274 million to academic cultural heritage and other collecting institutions To assess the programs impact CLIR conducted a comprehensive analysis of final reports from all 128 projects funded through the program This report describes the methods and findings of the analysis including cataloging outputs as well as impact on hiring policies and procedures communication tools and research and outreach The report and program were made possible through grants from The Andrew W Mellon Foundation",
+            "orig": "From 2008 to 2014 CLIR administered the Cataloging Hidden Special Collections and Archives program which granted funds to catalog hidden collections of high scholarly value Generously supported by The Andrew W Mellon Foundation the program awarded more than 274 million to academic cultural heritage and other collecting institutions To assess the programs impact CLIR conducted a comprehensive analysis of final reports from all 128 projects funded through the program This report describes the methods and findings of the analysis including cataloging outputs as well as impact on hiring policies and procedures communication tools and research and outreach The report and program were made possible through grants from The Andrew W Mellon Foundation",
+            "length": 752
+        },
+        "isbn": null,
+        "pub_date": "2019-09-01T00:00:00.000Z",
+        "pages": 38,
+        "content": " What to do with external documents ",
+        "url": "/archives.clir.org/reports/pub177/"
+    },
+    "pub176": {
+        "clir_id": "pub176",
+        "title": "3D/VR in the Academic Library: Emerging Practices and Trends",
+        "authors": [
+            "Grayburn, Jennifer, Ed.",
+            "Lischer-Katz, Zack, Ed.",
+            "Golubiewski-Davis, Kristina, Ed.",
+            "Ikeshoji-Orlati, Veronica, Ed."
+        ],
+        "description": {
+            "s": "This volume comprising eight chapters from experts in a variety of fields examines the use of threedimensional 3D and virtual reality VR technologies in research and teaching and the librarys vital role in supporting this work 3D modeling 3D capture techniques and VR enable faculty and students to engage with highly detailed 3D datafrom cultural heritage artifacts to scientific simulationsin new ways As 3D and VR projects scale up and move outside of the specialist disciplines where they have existed for decades many academic libraries are taking the lead in supporting such projects because they are already centers for collaboration instruction research and collection preservation The volume seeks to prompt greater awareness for library professionals as they develop programs that use 3D and VR technologies and work to integrate changing scholarly demands and conventions with existing library services and policies Chapters cover 3D content creation VR visualization and analysis 3DVRbased educational deployment and 3DVR data curation providing a snapshot of professional objectives and workflows that have developed around 3DVR",
+            "orig": "This volume comprising eight chapters from experts in a variety of fields examines the use of threedimensional 3D and virtual reality VR technologies in research and teaching and the librarys vital role in supporting this work 3D modeling 3D capture techniques and VR enable faculty and students to engage with highly detailed 3D datafrom cultural heritage artifacts to scientific simulationsin new ways As 3D and VR projects scale up and move outside of the specialist disciplines where they have existed for decades many academic libraries are taking the lead in supporting such projects because they are already centers for collaboration instruction research and collection preservation The volume seeks to prompt greater awareness for library professionals as they develop programs that use 3D and VR technologies and work to integrate changing scholarly demands and conventions with existing library services and policies Chapters cover 3D content creation VR visualization and analysis 3DVRbased educational deployment and 3DVR data curation providing a snapshot of professional objectives and workflows that have developed around 3DVR",
+            "length": 1141
+        },
+        "isbn": "978-1-932326-60-4",
+        "doi": "10.5281/zenodo.7805917",
+        "pub_date": "2019-02-01T00:00:00.000Z",
+        "pages": 133,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub176/"
+    },
+    "pub175": {
+        "clir_id": "pub175",
+        "title": "The Future of Email Archives",
+        "authors": [
+            "Council on Library and Information Resources"
+        ],
+        "description": {
+            "s": "Email is an increasingly important part of the historical record yet it is particularly coverdifficult to preserve putting future access to this vast resource at risk The Future of Email Archives looks at what makes email archiving so complex and describes emerging strategies to meet the challenge The report presents the findings of a yearlong investigation of the Task Force on Technical Approaches for Email Archives sponsored by The Andrew W Mellon Foundation and the Digital Preservation Coalition The 19member task force comprising representatives from higher education government and industry was cochaired by Christopher Prom of the University of Illinois at UrbanaChampaign and Kate Murray of the Library of Congress Addressing the challenges will require commitment and engagement from a wide variety of stakeholders The task force proposes a series of short and longterm actions for community development and advocacy as well as for tool support testing and development The report is intended for the archival community digital preservation professionals technologists and software developers commercial vendors historians and scholars institutional administrators and funding agencies and foundations",
+            "orig": "Email is an increasingly important part of the historical record yet it is particularly coverdifficult to preserve putting future access to this vast resource at risk The Future of Email Archives looks at what makes email archiving so complex and describes emerging strategies to meet the challenge The report presents the findings of a yearlong investigation of the Task Force on Technical Approaches for Email Archives sponsored by The Andrew W Mellon Foundation and the Digital Preservation Coalition The 19member task force comprising representatives from higher education government and industry was cochaired by Christopher Prom of the University of Illinois at UrbanaChampaign and Kate Murray of the Library of Congress Addressing the challenges will require commitment and engagement from a wide variety of stakeholders The task force proposes a series of short and longterm actions for community development and advocacy as well as for tool support testing and development The report is intended for the archival community digital preservation professionals technologists and software developers commercial vendors historians and scholars institutional administrators and funding agencies and foundations",
+            "length": 1213
+        },
+        "isbn": "978-1-932326-59-8",
+        "doi": "10.5281/zenodo.7805881",
+        "pub_date": "2018-08-01T00:00:00.000Z",
+        "pages": 120,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub175/"
+    },
+    "pub174": {
+        "clir_id": "pub174",
+        "title": "A Splendid Torch: Learning and Teaching in Today’s Academic Libraries",
+        "authors": [
+            "Eyre, Jodi Reeves, Ed.",
+            "Maclachlan, John C., Ed.",
+            "Williford, Christa, Ed."
+        ],
+        "description": {
+            "s": "Six essays written collaboratively by current and former CLIR postdoctoral fellows explore the contributions that todays academic librariesas providers of resources professional support and spaceare making to learning and teaching Topics include the continuing evolution of the learning commons information literacy instruction digital humanities teaching in libraries spatial literacy collaboration in digital special collections and 3D printing and pedagogy",
+            "orig": "Six essays written collaboratively by current and former CLIR postdoctoral fellows explore the contributions that todays academic librariesas providers of resources professional support and spaceare making to learning and teaching Topics include the continuing evolution of the learning commons information literacy instruction digital humanities teaching in libraries spatial literacy collaboration in digital special collections and 3D printing and pedagogy",
+            "length": 459
+        },
+        "isbn": "978-1-932326-58-1",
+        "doi": "10.5281/zenodo.7805875",
+        "pub_date": "2017-09-01T00:00:00.000Z",
+        "pages": 158,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub174/"
+    },
+    "pub173": {
+        "clir_id": "pub173",
+        "title": "Keepers of Our Digital Future",
+        "authors": [
+            "Mink, Meridith Beck"
+        ],
+        "description": {
+            "s": "In September 2015 IMLS awarded CLIR a grant to investigate the early impacts of the National Digital Stewardship Residency NDSR programs in order to inform subsequent development of similar programs by others with a vested interest in building professional capacity to preserve digital information Keepers of Our Digital Future provides a formative evaluation of the early residencies based on surveys and interviews with NDSR participants and supervisors from the Washington DC New York and Boston programs The authors offer a series of findings and recommendations for future programs noting that as the model is reproduced there is a greater need for nationallevel coordination and communication across programs ",
+            "orig": "In September 2015 IMLS awarded CLIR a grant to investigate the early impacts of the National Digital Stewardship Residency NDSR programs in order to inform subsequent development of similar programs by others with a vested interest in building professional capacity to preserve digital information Keepers of Our Digital Future provides a formative evaluation of the early residencies based on surveys and interviews with NDSR participants and supervisors from the Washington DC New York and Boston programs The authors offer a series of findings and recommendations for future programs noting that as the model is reproduced there is a greater need for nationallevel coordination and communication across programs ",
+            "length": 715
+        },
+        "isbn": "978-1-932326-57-4",
+        "doi": "10.5281/zenodo.7805693",
+        "pub_date": "2016-12-01T00:00:00.000Z",
+        "pages": 96,
+        "content": " aposassetsimagesreportspub173pub173addendumpngapos relativeurlclassquotfloatstart img imgthumbnailquot The Supplementary Assessment of the National Digital Stewardship Residencies 20162018 provides data on the three most recent NDSR initiatives AAPB NDSR NDSR Art and NDSR Foundations to Actions These programs have placed residents in host institutions across the country marking a departure form the regionally based programs that were the subject of the original study In 2019 NDSR Art commissioned an independent assessment of the second cohort of its programhttpszenodoorgrecord7805693files2019NDSRArtProgramAssessmentpdfdownload1targetquotblankquot This formative evaluation focused on gathering qualitative feedback from the 201819 cohort of NDSR Art residents their project supervisors and the NDSR Art program staff In addition an assessment was undertaken to evaluate the curricular aspects of the National Digital Stewardship Residency in Art Information and the values of its changes between program years and to identify strengths and weaknesses for future application of the NDSR model of cohortbased introductory fieldwork This project was made possible in part by the Institute of Museum and Library Services through grant RE0015010715",
+        "url": "/archives.clir.org/reports/pub173/"
+    },
+    "pub172": {
+        "clir_id": "pub172",
+        "title": "National Institute for Technology in Liberal Education: An Assessment",
+        "authors": [
+            "Brodeur, Jason",
+            "Daniels, Morgan",
+            "Johnson, Annie",
+            "Nicholls, Natsuko",
+            "Pickle, Sarah",
+            "Waraksa, Elizabeth A."
+        ],
+        "description": {
+            "s": "The National Institute for Technology in Liberal Education NITLE was formed in 2001 to stimulate collaboration between selected liberal arts colleges and to act as a catalyst for the effective integration of emerging and newer digital technologies into teaching learning scholarship and information management In July 2015 NITLE migrated its operations from Southwestern University to CLIR In conjunction with this migration CLIR initiated a rigorous analysis of NITLEs current condition and the needs of its constituents CLIR engaged a sixmember team of consultants to conduct the assessment Drawing on a review of NITLEs history and interviews and surveys of past and current stakeholders the assessment team identifies ways to build thoughtfully on NITLEs legacy to support the use of digital technologies in liberal education",
+            "orig": "The National Institute for Technology in Liberal Education NITLE was formed in 2001 to stimulate collaboration between selected liberal arts colleges and to act as a catalyst for the effective integration of emerging and newer digital technologies into teaching learning scholarship and information management In July 2015 NITLE migrated its operations from Southwestern University to CLIR In conjunction with this migration CLIR initiated a rigorous analysis of NITLEs current condition and the needs of its constituents CLIR engaged a sixmember team of consultants to conduct the assessment Drawing on a review of NITLEs history and interviews and surveys of past and current stakeholders the assessment team identifies ways to build thoughtfully on NITLEs legacy to support the use of digital technologies in liberal education",
+            "length": 829
+        },
+        "isbn": null,
+        "doi": "10.5281/zenodo.7805667",
+        "pub_date": "2016-08-01T00:00:00.000Z",
+        "pages": 73,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub172/"
+    },
+    "pub171": {
+        "clir_id": "pub171",
+        "title": "The Open Data Imperative: How the Cultural Heritage Community Can Address the Federal Mandate",
+        "authors": [
+            "Allard, Suzie",
+            "Lee, Christopher",
+            "McGovern, Nancy Y.",
+            "Bishop, Alice"
+        ],
+        "description": {
+            "s": "New US government requirements for exposing and managing federally funded research data add urgency to the call for curating data that can be used reused and exploited by future generations The Open Data Imperative How the Cultural Heritage Community Can Address the Federal Mandate offers a series of recommendations to improve the open data infrastructure engage a broad community of stakeholders to support the management of data as an asset and expand collaboration that is vital to ensuring public access to data In 2013 the US government issued a mandate requiring federal agencies with annual research and development expenditures of more than 100 million to create plans for increasing access to federally funded scientific research both as published articles and as data These plans have significant implications for cultural heritage institutions in addressing the current deficit in the capacity to support the reuse of data over time and across generations of technology digital curation and in enabling collaboration based on shared infrastructure The reports findings are drawn from three investigations 1 an analysis of the plans of agencies subject to the federal mandate for open data 2 interviews with staff of IMLSsupported projects that have developed model services and tools supporting data management and 3 a survey of efforts to build capacity through continuing education programs and comprehensive workforce development This project was made possible in part by the Institute of Museum and Library Services grant RE0013009713 The views findings conclusions or recommendations expressed in this publication do not necessarily represent those of the Institute of Museum and Library Services ",
+            "orig": "New US government requirements for exposing and managing federally funded research data add urgency to the call for curating data that can be used reused and exploited by future generations The Open Data Imperative How the Cultural Heritage Community Can Address the Federal Mandate offers a series of recommendations to improve the open data infrastructure engage a broad community of stakeholders to support the management of data as an asset and expand collaboration that is vital to ensuring public access to data In 2013 the US government issued a mandate requiring federal agencies with annual research and development expenditures of more than 100 million to create plans for increasing access to federally funded scientific research both as published articles and as data These plans have significant implications for cultural heritage institutions in addressing the current deficit in the capacity to support the reuse of data over time and across generations of technology digital curation and in enabling collaboration based on shared infrastructure The reports findings are drawn from three investigations 1 an analysis of the plans of agencies subject to the federal mandate for open data 2 interviews with staff of IMLSsupported projects that have developed model services and tools supporting data management and 3 a survey of efforts to build capacity through continuing education programs and comprehensive workforce development This project was made possible in part by the Institute of Museum and Library Services grant RE0013009713 The views findings conclusions or recommendations expressed in this publication do not necessarily represent those of the Institute of Museum and Library Services ",
+            "length": 1715
+        },
+        "isbn": "978-1-932326-56-7",
+        "doi": "10.5281/zenodo.7805655",
+        "pub_date": "2016-07-01T00:00:00.000Z",
+        "pages": 87,
+        "content": " ",
+        "url": "/archives.clir.org/reports/pub171/"
+    },
     "pub170": {
         "clir_id": "pub170",
         "title": "Terra Cognita: Graduate Students in the Archives, A Retrospective on the CLIR Mellon Fellowships for Dissertation Research in Original Sources",
