@@ -18,6 +18,6 @@ Blogs cover myriad topics of interest and stories from our communities:
 
 **[CLIR Issues](https://www.clir.org/pubs/issues/){:target="_blank"}**, published bimonthly in a newsletter format, covers topics relevant to CLIR’s agenda.
 
-**[Annual Reports]({% link annual-reports.md %})**, summarizing CLIR’s activities and financial status for the previous fiscal year, is published each fall.
+**[Annual Reports]({% link annual-reports.html %})**, summarizing CLIR’s activities and financial status for the previous fiscal year, is published each fall.
 
 **[Archives]({% link archives.md %})** provide information about films, articles and presentations, a preservation tutorial, and discontinued publications.

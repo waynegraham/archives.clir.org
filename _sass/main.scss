@@ -2,7 +2,7 @@
 @import 'footer';
 @import 'variables';
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&display=swap');
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -12,14 +12,22 @@ body {
     max-height: 300px;
 }
 
+.small-image {
+    max-height: 300px;
+}
+
 #header {
     background-image: url('../images/mosaic-background.jpg');
     min-height: 270px;
 
     .header-box {
-        background-color: rgb(0,0,0);
+        background-color: rgba(0,0,0,0.82);
         border-left: 8px solid $clir_burgundy;
         width: 56%; // TODO: check how this is set
+
+        h1 {
+            font-weight: 700;
+        }
     }
 }
 
