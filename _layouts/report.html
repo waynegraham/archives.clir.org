@@ -6,11 +6,11 @@ layout: default
 <div class="container py-5 px-3 lh-lg" id="metadata">
     {% if page.doi %}
         <a href="{{ doi_link }}" target="_blank">
-            <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ page.title}} Covert">
+            <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ page.title}} Cover">
         </a>
     {% else %}
         {% unless page.html_only == true %}
-        <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ page.title}} Covert">
+        <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ page.title}} Cover">
         {% endunless %}
     {% endif %}
 

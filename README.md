@@ -5,7 +5,8 @@ Run `npm run build` to regenerate the search index.
 
 # TODO:
 
-
+pub177 - missing files
+pub69
 
 ## Thumbnail conversion
 
@@ -24,5 +25,4 @@ end
 
 # Issues
 
-AIC Brochure by Rebecca Graham. January 2000. - not a report, but listed there
 
