@@ -32,6 +32,8 @@ github_username:  jekyll
 permalink: pretty
 
 collections:
+  year-of-clir:
+    sort_by: date
   reports:
     output: true
     sort_by: pub_date
