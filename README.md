@@ -5,8 +5,7 @@ Run `npm run build` to regenerate the search index.
 
 # TODO:
 
-pub177 - missing files
-pub69
+pub79
 
 ## Thumbnail conversion
 
