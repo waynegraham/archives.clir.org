@@ -23,6 +23,7 @@ title: Annual Reports
                         <img src="{{ report.thumbnail | prepend: path | relative_url }}" alt="{{ report.title }}" loading="lazy">
                         <div class="card-body bg-light">
                             <h5 class="card-title">{{ report.title }}</h5>
+                            <p class="text-body-secondary mb-1">{{ report.pub_date }}</p>
                             {% if report.zenodo %}
                             <a href="{{ report.zenodo }}" class="btn btn-primary" target="_blank">Read</a>
                             {% assign doi = report.zenodo | split: '/' | last %}
