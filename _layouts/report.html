@@ -31,14 +31,16 @@ layout: default
     <p>
         {{ page.description | markdownify }}
     </p>
-    {% if page.license %}
-    <p class="border-top border-bottom py-4 my-4">
-        <strong>{{ page.title }}</strong> is licensed under {% include licence_map.html %}.
-    </p>
-    {% endif %}
     {% if page.doi %}
     <p class="pt-3">
         <a target="_blank" class="btn btn-primary" href="{{ doi_link }}">View</a>
+    </p>
+    {% endif %}
+    {% if page.ia_path %}
+    <p>
+        <a target="_blank" class="btn btn-success bt-lg" href="https://web.archive.org/web/https://www.clir.org/pubs/reports/{{ page.ia_path }}">
+            Internet Archive Full Text 
+        </a>
     </p>
     {% endif %}
 
@@ -47,5 +49,13 @@ layout: default
 {% if page.content %}
 <div class="container border-top py-5">
     {{ content }}
+</div>
+{% endif %}
+
+{% if page.license %}
+<div class="container pb-4">
+    <p>
+        <strong>{{ page.title }}</strong> is licensed under {% include licence_map.html %}.
+    </p>
 </div>
 {% endif %}
