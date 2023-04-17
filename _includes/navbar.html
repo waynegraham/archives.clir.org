@@ -13,7 +13,12 @@
         </ul>
 
         <form method="get" action="{{'/search/' | relative_url }}" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
-          <input class="form-control mr-sm-2" id="search-box" type="text" placeholder="Search" name="q" aria-label="Search">
+          <div class="input-group">
+            <input class="form-control mr-sm-2" id="search-box" type="text" placeholder="Search" name="q" aria-label="Search" aria-described-by="search-button">
+            <button id="search-button" aria-label="Search button" type="submit" class="btn btn-primary">
+              <i class="bi bi-search"></i>
+            </button>
+          </div>
         </form>
       </div>
     </div>

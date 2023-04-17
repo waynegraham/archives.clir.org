@@ -7,3 +7,4 @@ vendor
 .env
 node_modules
 .pynb_checkpoints
+pa11y-ci-report
