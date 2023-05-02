@@ -1,5 +1,8 @@
 {% assign latestReport = collections.reports | last %}
 {% assign reportThumbnail = latestReport.data.clir_id | append: '.png' %}
+
+{% assign thumb_path =  reportThumbnail | prepend: 'assets/images/reports/' | url %}
+
 <a href="{{ latestReport.url | url }}">
-    <img src="{{ reportThumbnail | prepend: '/assets/images/reports/' | url }}" alt="{{ latest.data.title }}">
+    {% image thumb_path, title, "(min-width: 30em) 50vw, 100vw" %}
 </a>

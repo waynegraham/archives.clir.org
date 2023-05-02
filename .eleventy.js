@@ -92,9 +92,9 @@ module.exports = (eleventyConfig) => {
 
 	// shortcodes
 	// https://www.11ty.dev/docs/plugins/image/
-	eleventyConfig.addShortcode("image", async function(src, alt, sizes) {
+	eleventyConfig.addShortcode("image", async function(src, alt, sizes, css) {
 		let metadata = await Image(src, {
-			widths: [200, 400, 600],
+			widths: [200, 300, 400, 600],
 			formats: ["avif", "jpeg", null],
 		outputDir: path.join(eleventyConfig.dir.output, "assets", "images"),
 		urlPath: "/archives.clir.org/assets/images/"
@@ -103,7 +103,7 @@ module.exports = (eleventyConfig) => {
 		let imageAttributes = {
 			alt,
 			sizes,
-      		class: "img-fluid",
+      		class: css,
 			loading: "lazy",
 			decoding: "async",
 		};
