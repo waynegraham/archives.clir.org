@@ -5,6 +5,7 @@
   "main": "build-index.js",
   "scripts": {
     "pa11y-ci:sitemap": "npx pa11y-ci --reporter=pa11y-ci-reporter-html --sitemap http://127.0.0.1:4000/archives.clir.org/sitemap.xml --sitemap-exclude \"/*.pdf\"",
+    "pa11y-ci:clean": "rm -rf pa11y-ci-report",
     "buildIndex": "node build-index.js",
     "compress": "terser assets/js/document-store.js -o assets/js/document-store.min.js -c -m && terser assets/js/search-index.js -o assets/js/search-index.min.js -c -m",
     "build": "node build-index.js && terser assets/js/document-store.js -o assets/js/document-store.min.js -c -m && terser assets/js/search-index.js -o assets/js/search-index.min.js -c -m"

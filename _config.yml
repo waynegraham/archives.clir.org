@@ -68,3 +68,4 @@ exclude:
   - vendor/ruby/
   - .bundle
   - .pynb_checkpoints
+  - pa11y-ci-report

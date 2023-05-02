@@ -16,6 +16,7 @@ Published from August 2001 to December 2003, the two-page CLIRinghouse bulletin 
 
 ## The Commission on Preservation and Access Newsletter
 **Convert to posts and categorize as CPA**
+
 This newsletter was published by the Commission on Preservation and Access until the Commission merged with the Council on Library Resources to form CLIR in 1997.
 
 ## [Podcasts]({% link podcasts.md %})
@@ -27,6 +28,8 @@ CLIR podcast archive.
 Published from March 1998 to June 2000, this newsletter reported on preservation and access initiatives worldwide.
 
 ## Research Briefs
+**Convert to posts and categorize as Research Briefs**
+
 Published occasionally from July 1997 to September 1998, these briefs described the findings of research projects supported by CLIR.
 
 ## [Ruminations]({% link ruminations.md %})
