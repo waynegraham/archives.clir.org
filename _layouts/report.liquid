@@ -8,11 +8,11 @@ layout: default
 
 
 <div class="container py-5 px-3 lh-lg" id="metadata">
-    }
+    
     {% if doi %}
         <a href="{{ doi_link }}" target="_blank">
-            {% image thumb_path, title, "(min-width: 30em) 50vw, 100vw", "img-fluid img-thumbnail float-end" %}
-            <!-- <img src="{{ thumbnail | prepend: '/assets/images/reports/' | url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ title}} Cover"> -->
+            {%# image thumb_path, title, "100vw", "img-fluid img-thumbnail float-end" %}
+            <img src="{{ thumbnail | prepend: '/assets/images/reports/' | url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ title}} Cover">
         </a>
     {% else %}
         {% unless html_only == true %}

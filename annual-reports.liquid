@@ -21,7 +21,7 @@ title: Annual Reports
                             {{ report.thumbnail | prepend: path | url }}
                         {%- endcapture -%}
 
-                        {% image thumb_path, report.title, "(min-width: 30em) 50vw, 100vw" %}
+                        {% image thumb_path, report.title, "(min-width: 30em) 50vw, 100vw", 'img-fluid' %}
                         
                         <div class="card-body bg-light">
                             <h5 class="card-title">{{ report.title }}</h5>
