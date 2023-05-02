@@ -2,13 +2,14 @@
 layout: page
 title: CLIR Reports
 ---
+
 <div class="row flex-lg-row-reverse align-items-center rounded-3 border shadow-lg">
     <div class="col-10 col-sm-8 col-lg-6">
-        {% include latest_report.html class="d-block mx-lg-auto img-fluid vh-50 py-3 my-3" %}
+        {% include 'latest_report.liquid' %}
     </div>
     <div class="col-lg-6 p-3 p-lg-5 pt-lg-3 mt-5">
         <p class="lead">
-            CLIR has published more than {{ site.reports.size }} reports on topics relating to <strong>preservation</strong>, <strong>digital libraries</strong>, <strong>economics of information</strong>, <strong>trends in information use</strong>, <strong>international developments</strong>, and the <strong>changing role of the library</strong>.
+            CLIR has published more than  reports on topics relating to <strong>preservation</strong>, <strong>digital libraries</strong>, <strong>economics of information</strong>, <strong>trends in information use</strong>, <strong>international developments</strong>, and the <strong>changing role of the library</strong>.
         </p>
         
         <p>
@@ -20,15 +21,20 @@ title: CLIR Reports
 </div>
 
 <div class="py-5">
-    <h2 class="pb-4 mb-4 border-bottom fs-1">CLIR Reports</h2>
-    {%- assign reports = site.reports | reverse -%}
-    {% for report in reports %}
+    <h2 class="pb-4 mb-4 border-bottom fs-1">{{ title }}</h2>
+
+{% for report in collections.reports | reverse %}
     <p>
-        <a href="{{ report.url | relative_url }}">{{ report.title }}</a> 
-        {% if report.authors %}by {{ report.authors | join: '; ' }}.{% endif %} 
-        {{ report.pub_date | date: '%B %Y' }}. 
-        {% if report.clir_id %}{{ report.clir_id }}. {% endif %}
-        {% if report.org %}<strong>{{ report.org }}</strong>{% endif %}
+        <a href="{{ report.url | url }}">{{ report.data.title }}</a>
+        {% if report.data.clir_id %}{{ report.data.clir_id }}. {% endif %}
     </p>
-    {% endfor %}
+
+    <p>
+        <a href="{{ report.url | url }}">{{ report.data.title }}</a> 
+        {% if report.data.authors %}by {{ report.data.authors | join: '; ' }}.{% endif %} 
+        {{ report.data.pub_date | date: '%B %Y' }}. 
+        {% if report.data.clir_id %}{{ report.data.clir_id }}. {% endif %}
+        {% if report.data.org %}<strong>{{ report.data.org }}</strong>{% endif %}
+    </p>
+{% endfor %}
 </div>

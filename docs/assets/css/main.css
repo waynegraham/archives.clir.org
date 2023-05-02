@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&display=swap");
+footer {
+  border-top: solid #9a1c46 5px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+}
+
+.nav-link:after {
+  content: "|";
+  margin-left: 15px;
+}
+
+.bg-burgundy {
+  background-color: #9a1c46 !important;
+}
+
+.margin-top-medium {
+  margin-top: 10px;
+}
+
+.row-border-top {
+  border-top: 1px solid #ddd;
+}
+
+.pagination {
+  margin: 20px 0;
+}
+
+.traditional-nav {
+  background-color: #e6f0f0;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+}
+
+.nav-link:after {
+  content: "|";
+  margin-left: 15px;
+}
+
+.bg-burgundy {
+  background-color: #9a1c46 !important;
+}
+
+.margin-top-medium {
+  margin-top: 10px;
+}
+
+.row-border-top {
+  border-top: 1px solid #ddd;
+}
+
+.pagination {
+  margin: 20px 0;
+}
+
+.traditional-nav {
+  background-color: #e6f0f0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.img-thumbnail {
+  max-height: 300px;
+}
+
+.small-image {
+  max-height: 300px;
+}
+
+.vh-50 {
+  height: 50vh;
+}
+
+#header {
+  background-image: url("../images/mosaic-background.jpg");
+  min-height: 270px;
+}
+#header .header-box {
+  background-color: rgba(0, 0, 0, 0.82);
+  border-left: 8px solid #9a1c46;
+  width: 56%;
+}
+#header .header-box h1 {
+  font-weight: 700;
+}
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  background-color: #9a1c46;
+  border-color: #9a1c46;
+}
+
+.float-start, .float-end {
+  margin: 1.6rem;
+}
+
+main a {
+  color: rgb(41, 107, 164);
+}
+main p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  line-height: 30.4px;
+  font-weight: 400;
+}
+main strong {
+  font-weight: 700;
+}
+main ul li {
+  line-height: 30.4px;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=main.css.map */

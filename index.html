@@ -1,11 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: home 
 title: CLIR Publications
----
-
+eleventyNavigation:
+    key: Home
+    order: 1
+--- 
 <p>
     <a class="fw-bold" href="https://www.clir.org/" target="_blank">CLIR</a> publishes blogs posts, newsletters, reports, and other occasional items, driven by our research agenda and community interest. Thanks in part to the support of our <a class="fw-bold" href="https://www.clir.org/about/current-sponsors-and-funders/" target="_blank">sponsors</a>, the full text of most of our publications is available to download, for free, on this website.
 </p>
@@ -16,12 +15,12 @@ title: CLIR Publications
     <ul>
         <li><a href="https://www.clir.org/covid-recollections/" target="_blank">COVID (Re)Collections</a>, responses to the COVID-19 pandemic by the library, cultural heritage, and information community</li>
         <li><a href="https://www.clir.org/category/rethinking/" target="_blank">Re: Thinking</a>, broad and encompassing posts encouraging deeper thinking and exploration</li>
-        <li><a href="{{ '/year-of-clir' | relative_url }}">Year of CLIR</a>, highlighting key activity from each year since its founding in 1956.</li>
+        <li><a href="{{ '/year-of-clir' | url }}">Year of CLIR</a>, highlighting key activity from each year since its founding in 1956.</li>
     </ul>
 </p>
 
 <p>
-    <a class="fw-bold" href="{{'/reports/' | relative_url }}">Reports</a> are published throughout the year on topics relating to digital libraries, the economics of information, long-term access to information, and the future of the library and its leadership. 
+    <a class="fw-bold" href="{{'/reports/' | url }}">Reports</a> are published throughout the year on topics relating to digital libraries, the economics of information, long-term access to information, and the future of the library and its leadership. 
 </p>
 
 <p>
@@ -29,9 +28,9 @@ title: CLIR Publications
 </p>
 
 <p>
-    <a  class="fw-bold" href="{{ '/annual-reports/' | relative_url }}">Annual Reports</a> summarizing CLIR’s activities and financial status for the previous fiscal year, is published each fall.
+    <a  class="fw-bold" href="{{ '/annual-reports/' | url }}">Annual Reports</a> summarizing CLIR’s activities and financial status for the previous fiscal year, is published each fall.
 </p>
 
 <p>
-    <a class="fw-bold" href="{{ '/archives/' | relative_url }}">Archives</a> provide information about films, articles and presentations, a preservation tutorial, and discontinued publications.
+    <a class="fw-bold" href="{{ '/archives/' | url }}">Archives</a> provide information about films, articles and presentations, a preservation tutorial, and discontinued publications.
 </p>

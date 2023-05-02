@@ -1,0 +1,12 @@
+---
+permalink: /assets/js/search.json
+---
+[
+{% for document in collections.reports %}
+    {
+        "title":"{{ document.data.title | striptags(true) | escape }}",
+        "url":"{{ document.url | url }}",
+        "description":"{{ document.data.description | striptags(false) | escape }}"
+    }{% if loop.last == false %},{% endif %}
+{% endfor %}
+]

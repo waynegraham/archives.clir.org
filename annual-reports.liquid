@@ -1,0 +1,41 @@
+---
+layout: page
+title: Annual Reports
+---
+<div class="py-5">
+    <div class="container">
+        <div class="mb-4 border-bottom">
+            <h1>Annual Reports</h1>
+            <p>
+                CLIR as an organization was formed by the merger of the Council on Library Resources (CLR) and the Commission on Preservation & Access (CPA) in 1995. Here you will find the Annual Reports for all three organizations starting in 1957.
+            </p>
+        </div>
+
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            {% for report in annual_reports %}
+                {% assign path = 'assets/images/annual_reports/' %}
+                <div class="col">
+                    <div class="card shadow-sm h-100">
+
+                        {%- capture thumb_path -%}
+                            {{ report.thumbnail | prepend: path | url }}
+                        {%- endcapture -%}
+
+                        {% image thumb_path, report.title, "(min-width: 30em) 50vw, 100vw" %}
+                        
+                        <div class="card-body bg-light">
+                            <h5 class="card-title">{{ report.title }}</h5>
+                            <p class="text-body-secondary mb-1">{{ report.pub_date }}</p>
+                            {% if report.zenodo %}
+                            <a href="{{ report.zenodo }}" class="btn btn-primary" target="_blank">Read</a>
+                            {% assign doi = report.zenodo | split: '/' | last %}
+                            <a href="https://doi.org/10.5281/zenodo.{{doi}}"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.{{doi}}.svg" alt="DOI"></a>
+
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

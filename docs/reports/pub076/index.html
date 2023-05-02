@@ -1,0 +1,1149 @@
+<!doctype html>
+<html class="no-js" lang="en"> 
+<head>
+    <meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Computerization of the Archivo General de Indias: Strategies and Results</title>
+<meta name="author" content="Council on Library and Information Resources">
+<meta name="description" content="Publications produced by the Council and Library and Information Resources, Digital Library Federation, Council on Preservation Resources, and Council on Library Resources">
+<link rel="icon" type="image/png" href="/archives.clir.org/assets/images/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+<link rel="stylesheet" href="/archives.clir.org/assets/css/main.css">
+<meta property="og:title" content="Computerization of the Archivo General de Indias: Strategies and Results" />
+<meta property="og:url" content="/archives.clir.org/reports/pub076/" />
+<meta property="og:description" content="The project of the Archivo General de Indias (AGI) in Seville, Spain has digitized more than 11 million of its pages of documents relating to Spanish history in the New World. This report illustrates the experience of the AGI, and the range of decisions that managers have faced throughout the project. Following an introduction and background information, the report focuses on the following: project objectives of Stage I (1986-1992) and Stage II (1993-present); general system architecture; information and reference subsystem; digital image storage system; technical aspects; and new prospects for long-distance access. In a concluding section, the multidirectional progress, project costs and results, and final observations are outlined. Appendices include an analysis of conservation results, analysis of consultation results, analysis of results of &quot;supplemental&quot; digitization of documents from other archives, and figures for costs and production. A bibliography is also included. (AEF)" />
+<meta property="og:image" content="/archives.clir.org/static/img/logo.png" />
+<meta property="og:type" content="Report" />
+</head>
+<body>
+    <button type="button" class="btn btn-danger btn-floating btn-lg" id="btn-back-to-top">
+        <i class="bi bi-chevron-up"></i>
+    </button>
+
+    <div class="container">
+    <header class="p-3 mb-3">
+      <div class="container">
+        <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+          <a href="/archives.clir.org/" class="d-flex align-items-center mb-2 mb-lg-0 text-dark text-decoration-none">
+            <img height="40px" src="/archives.clir.org/assets/images/icon.png" alt="CLIR Logo">
+          </a>
+  
+          <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+            <li><a href="/archives.clir.org/annual-reports/" class="nav-link px-2 link-secondary">Annual Reports</a></li>
+            <li><a href="/archives.clir.org/reports/" class="nav-link px-2 link-dark">Reports</a></li>
+            <li><a href="/archives.clir.org/archives/" class="nav-link px-2 link-dark">Archives</a></li>
+          </ul>
+          <form method="get" action="/archives.clir.org/search/" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+    <div class="dropdown" id="search-results">
+        <input autocomplete="off" class="form-control mr-sm-2" type="search" id="search" aria-label="Search" role="search" placeholder="Search">
+
+        <ul class="list-group" id="results"></ul>
+    </div>
+</form>
+
+<script defer type="text/javascript" src="/archives.clir.org/assets/js/search.js"></script>
+        </div>
+      </div>
+    </header>
+  </div>
+    <section id="header">
+    <div class="container p-3">
+        <div class="px-4 py-2 my-5 header-box">
+            <div id="breadcrumbs" class="text-light">
+    
+    <a class="link-light" href="/">Home</a> ></div> 
+            <h1 class="pt-3 text-light">Computerization of the Archivo General de Indias: Strategies and Results</h1>
+        </div>
+    </div>
+</section>
+
+    <!-- # see https://www.11ty.dev/docs/collections/#collection-item-data-structure # --><div class="container py-5 px-3 lh-lg" id="metadata">
+    
+        
+    
+
+    <p>pub76. <strong>Computerization of the Archivo General de Indias: Strategies and Results</strong></p>
+
+    <p>date: Sep 1998</p>
+    <p>
+        González, Pedro (Sep 1998, 57pp.)
+         ISBN: 1-887334-61-0. 
+        
+    </p>
+    
+        
+    <p>The project of the Archivo General de Indias (AGI) in Seville, Spain has digitized more than 11 million of its pages of documents relating to Spanish history in the New World. This report illustrates the experience of the AGI, and the range of decisions that managers have faced throughout the project. Following an introduction and background information, the report focuses on the following: project objectives of Stage I (1986-1992) and Stage II (1993-present); general system architecture; information and reference subsystem; digital image storage system; technical aspects; and new prospects for long-distance access. In a concluding section, the multidirectional progress, project costs and results, and final observations are outlined. Appendices include an analysis of conservation results, analysis of consultation results, analysis of results of &quot;supplemental&quot; digitization of documents from other archives, and figures for costs and production. A bibliography is also included. (AEF)</p>
+
+
+    
+    
+    <p>
+        <a target="_blank" class="btn btn-success bt-lg" href="https://web.archive.org/web/https://www.clir.org/pubs/reports/pub76/contents/">
+            Internet Archive Full Text 
+        </a>
+    </p>
+    
+
+</div>
+
+
+<div class="container border-top py-5">
+    <ul>
+<li><a href="#foreword">Foreword</a>
+<ul>
+<li><a href="#authors-acknowledgments">AUTHOR’S ACKNOWLEDGMENTS</a></li>
+</ul>
+</li>
+<li><a href="#introduction">Introduction</a>
+<ul>
+<li><a href="#lessons-of-a-ten-year-experience">Lessons of a Ten-Year Experience</a></li>
+<li><a href="#range-of-achievements">Range of Achievements</a></li>
+<li><a href="#project-origin">Project Origin</a></li>
+<li><a href="#project-characteristics">Project Characteristics</a></li>
+<li><a href="#project-challenges">Project Challenges</a></li>
+<li><a href="#importance-of-results-for-conservation-and-access">Importance of Results for Conservation and Access</a></li>
+<li><a href="#the-archivo-general-de-indias-and-the-global-village">The Archivo General de Indias and the “Global Village”</a></li>
+<li><a href="#references">REFERENCES</a></li>
+</ul>
+</li>
+<li><a href="#background">Background</a>
+<ul>
+<li><a href="#founding">Founding</a></li>
+<li><a href="#documentary-holdings">Documentary Holdings</a></li>
+<li><a href="#organization-of-holdings">Organization of Holdings</a></li>
+<li><a href="#finding-aids">Finding Aids</a></li>
+<li><a href="#the-agi-building">The AGI Building</a></li>
+<li><a href="#consultation-of-holdings">Consultation of Holdings</a></li>
+<li><a href="#restoration-laboratory">Restoration Laboratory</a></li>
+<li><a href="#microfilm-service">Microfilm Service</a></li>
+<li><a href="#references-1">REFERENCES</a></li>
+</ul>
+</li>
+<li><a href="#project-objectives">Project Objectives</a>
+<ul>
+<li><a href="#stage-i-objectives-1986-1992">Stage I: Objectives 1986-1992</a></li>
+<li><a href="#stage-ii-objectives-1993-present">Stage II: Objectives 1993-present</a></li>
+</ul>
+</li>
+<li><a href="#general-system-architecture">General System Architecture</a>
+<ul>
+<li><a href="#fundamental-system-modules">Fundamental System Modules</a></li>
+<li><a href="#general-architecture">General Architecture</a></li>
+</ul>
+</li>
+<li><a href="#information-and-reference-subsystem">Information and Reference Subsystem</a>
+<ul>
+<li><a href="#description-at-the-agi">Description at the AGI</a></li>
+<li><a href="#finding-aids-1">Finding Aids</a></li>
+<li><a href="#objectives-for-the-information-and-reference-system">Objectives for the Information and Reference System</a></li>
+<li><a href="#outline-of-information-and-reference-system">Outline of Information and Reference System</a>
+<ul>
+<li><a href="#data-access-by-the-principle-of-provenance-path"><em>Data Access by the “Principle of Provenance Path”</em></a></li>
+<li><a href="#direct-information-access"><em>Direct Information Access</em></a>
+<ul>
+<li><a href="#agi-indices"><em>AGI Indices</em></a></li>
+<li><a href="#keywords"><em>Keywords</em></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#elements-of-description">Elements of Description</a>
+<ul>
+<li><a href="#basic-information-area"><em>Basic Information Area</em></a></li>
+<li><a href="#descriptive-information-area"><em>Descriptive Information Area</em></a></li>
+<li><a href="#elements-of-location-retrieval-or-access"><em>Elements of Location, Retrieval, or Access</em></a></li>
+</ul>
+</li>
+<li><a href="#initial-content-retrospective-conversion-of-finding-aids">Initial Content: Retrospective Conversion of Finding Aids</a></li>
+<li><a href="#the-information-and-reference-system-today">The Information and Reference System Today</a>
+<ul>
+<li><a href="#direct-and-indirect-access-to-archival-information"><em>Direct and Indirect Access to Archival Information</em></a></li>
+<li><a href="#information-retrieval-tools"><em>Information Retrieval Tools</em></a></li>
+<li><a href="#standardization"><em>Standardization</em></a></li>
+<li><a href="#revision-and-updating-of-information-system-content"><em>Revision and Updating of Information System Content</em></a></li>
+</ul>
+</li>
+<li><a href="#references-2">REFERENCES</a></li>
+</ul>
+</li>
+<li><a href="#digital-imagestorage-system">Digital ImageStorage System</a>
+<ul>
+<li><a href="#digitization-process">Digitization Process</a>
+<ul>
+<li><a href="#selection-of-documents-to-be-digitized"><em>Selection of Documents to be Digitized</em></a></li>
+<li><a href="#document-preparation"><em>Document Preparation</em></a></li>
+<li><a href="#digitization"><em>Digitization</em></a>
+<ul>
+<li><a href="#image-quality"><em>Image Quality</em></a></li>
+<li><a href="#color-images"><em>Color Images</em></a></li>
+<li><a href="#storage-medium"><em>Storage Medium</em></a></li>
+<li><a href="#formats-and-image-compression"><em>Formats and Image Compression</em></a></li>
+<li><a href="#quality-control"><em>Quality Control</em></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#image-consultation">Image Consultation</a>
+<ul>
+<li><a href="#disk-service"><em>Disk Service</em></a></li>
+<li><a href="#image-consultation-1"><em>Image Consultation</em></a></li>
+<li><a href="#references-3">REFERENCES</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#technical-aspects">Technical Aspects</a>
+<ul>
+<li><a href="#initial-computer-equipment">Initial Computer Equipment</a></li>
+<li><a href="#current-equipment">Current Equipment</a></li>
+<li><a href="#other-current-equipment-possibilities">Other Current Equipment Possibilities</a>
+<ul>
+<li><a href="#reference">REFERENCE</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#new-prospects-long-distance-access">New Prospects: Long-Distance Access</a>
+<ul>
+<li><a href="#technical-problems">Technical Problems</a></li>
+<li><a href="#security-problems">Security Problems</a></li>
+<li><a href="#problems-of-intellectual-property-and-document-ownership">Problems of Intellectual Property and Document Ownership</a></li>
+<li><a href="#management-problems">Management Problems</a></li>
+<li><a href="#reference-1">REFERENCE</a></li>
+</ul>
+</li>
+<li><a href="#conclusions">Conclusions</a>
+<ul>
+<li><a href="#multidirectional-progress">Multidirectional Progress</a></li>
+<li><a href="#project-costs">Project Costs</a></li>
+<li><a href="#project-results">Project Results</a>
+<ul>
+<li><a href="#conservation-benefits"><em>Conservation Benefits</em></a></li>
+<li><a href="#access-benefits"><em>Access Benefits</em></a></li>
+<li><a href="#benefits-for-internal-operation"><em>Benefits for Internal Operation</em></a></li>
+</ul>
+</li>
+<li><a href="#final-observations">Final Observations</a></li>
+</ul>
+</li>
+<li><a href="#general-bibliography">General Bibliography</a>
+<ul>
+<li><a href="#general-references-on-the-archivo">General References on the Archivo</a></li>
+<li><a href="#the-agis-origin-and-ordinances">The AGI’s Origin and Ordinances</a></li>
+<li><a href="#general-references-on-the-computerization-project">General References on the Computerization Project</a></li>
+<li><a href="#on-research-conducted-to-develop-image-enhancement-tools-to-improve-document-legibility-see">On research conducted to develop image-enhancement tools to improve document legibility, see:</a></li>
+</ul>
+</li>
+<li><a href="#appendix-1-analysis-of-conservation-results">APPENDIX 1: Analysis of Conservation Results</a>
+<ul>
+<li><a href="#use-of-computerized-system"><em>Use of Computerized System</em></a></li>
+<li><a href="#data-provenance"><em>Data Provenance</em></a></li>
+<li><a href="#conclusion"><em>Conclusion</em></a></li>
+</ul>
+</li>
+<li><a href="#appendix-2-analysis-of-consultation-results">APPENDIX 2: Analysis of Consultation Results</a>
+<ul>
+<li><a href="#increase-in-number-of-archivo-researchers"><em>Increase in Number of Archivo Researchers</em></a></li>
+<li><a href="#fewer-reading-room-work-sessions"><em>Fewer Reading Room Work Sessions</em></a></li>
+<li><a href="#increase-in-number-of-consultationsday"><em>Increase in Number of Consultations/Day</em></a></li>
+<li><a href="#fewer-work-sessions-per-researcher"><em>Fewer Work Sessions per Researcher</em></a></li>
+<li><a href="#conclusions-1"><em>Conclusions</em></a></li>
+</ul>
+</li>
+<li><a href="#appendix-3-supplemental-digitization-of-documents-from-other-archives-analysis-of-results">APPENDIX 3: “Supplemental” Digitization of Documents from Other Archives-Analysis of Results</a>
+<ul>
+<li><a href="#references-4">REFERENCES</a></li>
+</ul>
+</li>
+<li><a href="#appendix-4-figures-for-cost-and-production">APPENDIX 4: Figures for Cost and Production</a>
+<ul>
+<li><a href="#1-the-documents"><em>1. The Documents</em></a></li>
+<li><a href="#2-the-work"><em>2. The Work</em></a>
+<ul>
+<li><a href="#archival-work"><em>Archival Work</em></a></li>
+<li><a href="#scanning"><em>Scanning</em></a></li>
+</ul>
+</li>
+<li><a href="#3-staff-and-production-estimates"><em>3. Staff and Production Estimates</em></a>
+<ul>
+<li><a href="#archival-work-1"><em>Archival Work</em></a></li>
+<li><a href="#scanning-1"><em>Scanning</em></a></li>
+</ul>
+</li>
+<li><a href="#4-the-equipment"><em>4. The Equipment</em></a></li>
+<li><a href="#5-project-duration"><em>5. Project Duration</em></a></li>
+<li><a href="#6-costs"><em>6. Costs</em></a></li>
+</ul>
+</li>
+</ul>
+<img src="/assets/images/reports/pub76.png" class="img float-end">
+<p><strong>by  Pedro González<br>
+September 1998</strong></p>
+<h1 id="foreword" tabindex="-1">Foreword <a class="header-anchor" href="#foreword">#</a></h1>
+<p>Today, many archives and libraries around the world have embarked upon projects to digitize portions of their holdings. Motivations for this work vary, but often the goal is to broaden access, facilitate retrieval, and reduce handling of the originals.</p>
+<p>With rapidly changing technologies and costs, planning for the management of such projects over time becomes difficult. As a result, much digitizing work today is undertaken in “pilot projects” that allow institutions to learn by doing and learn from each other.</p>
+<p>The project of the Archivo General de Indias (AGI) in Seville, Spain, is an important case study both for its size and for its track record. Over the past decade, the AGI has digitized more than eleven million pages of documents relating to Spanish history in the New World. In addition, its system for providing access to the digital documents has been in use for five years. The Archives has thus had to deal with the day-to-day practical problems of operation and longer-term issues such as obsolescence of hardware, software, and storage media.</p>
+<p>From the start, the AGI was clear about its rationale for digitizing to “preserve.” Its objective was not to create a preservation copy in digital form to replace originals, but to offer digital surrogates to reduce the handling of originals. Today, about one-third of AGI’s on-site consultations are done electronically, greatly reducing exposure of original documents.</p>
+<p>The report illustrates the range of difficult decisions that managers have faced throughout the project. Decisions often had to be made where no precedent existed. And, as always, decisions were bound by time and money, forcing choices that were not always optimal, but realistic.</p>
+<p>We hope that the experience of the AGI, as described in the following report, will be a useful case study for planners facing the myriad technical, organizational, and managerial challenges presented by their own digitizing projects.</p>
+<h2 id="author-s-acknowledgments" tabindex="-1">AUTHOR’S ACKNOWLEDGMENTS <a class="header-anchor" href="#author-s-acknowledgments">#</a></h2>
+<p>The author wishes to acknowledge all the people at the Archivo General de Indias who have collaborated in the design, development, installation, and operation of the computerized system. The Archivos y Bibliotecas group, from Informática El Corte Inglés, gave its close collaboration throughout the project and its advice in preparing the work.</p>
+<p>In the United States, several people collaborated in bringing this report to publication. Ruth Morales translated the original work from Spanish. Dan Hazen and Chris Faulhaber read through the paper, and Kathlin Smith edited the English version. Hans Rütimann, long interested in this project, encouraged the writing and publication of this report.</p>
+<h1 id="introduction" tabindex="-1">Introduction <a class="header-anchor" href="#introduction">#</a></h1>
+<p>Over the past decade, the large-scale digital reformatting project of the Archivo General de Indias (AGI) in Seville has received considerable attention for its application of computer technologies to historical archives. In 1991, Hans Rütimann and Stuart Lynn prepared a report on the project for the Commission on Preservation and Access. The report analyzed advantages and problems and concluded that the AGI project was a useful model for other projects: “There is much to learn for other applications.”<a href="#1">1</a> Jean-Paul Oddos published a later report on the project in the <em>Bulletin de la Bibliothèque de France</em> in 1994. It contains a positive assessment in conclusions entitled “Un démarche exemplaire.”<a href="#2">2</a> In a UNESCO RAMP report, Christopher Kitching commented on the profession’s interest in the project’s outcome: “Its results will be eagerly awaited by the archival world.”<a href="#3">3</a> At the official opening of the system, presided over by the King and Queen of Spain, Charles Kesckeméti, Secretary General of the International Council on Archives, began his remarks as follows: “This is a fantastic day in the history of archives.”</p>
+<p>These are just a few statements from the many professionals who have visited Seville to study the project. UNESCO itself supported the organization of two information workshops on the project for Latin American professionals. The International Council on Archives, backed by the Council of Europe, has promoted the Seville model in computerizing the Komintern archives in Moscow.</p>
+<h2 id="lessons-of-a-ten-year-experience" tabindex="-1">Lessons of a Ten-Year Experience <a class="header-anchor" href="#lessons-of-a-ten-year-experience">#</a></h2>
+<p>It has been 11 years since the project was launched by an agreement between the Ministry of Culture (under which the AGI operates), the Ramón Areces Foundation, and IBM España. This is a very long stretch in the changing world of new technologies, where everything quickly becomes dated and obsolete. It is enough time for us to assess, with some perspective, a project that has been the most important ongoing effort in applying new digital technologies to the treatment of historical archives.<a href="#4">4</a> There is an additional advantage in undertaking this analysis: because of its continuity, all phases of the project can be analyzed, from conception to operation and consolidation. Over those nearly 11 years, the system was designed, developed, and installed at the AGI. Today, the system is a fundamental part of AGI’s operations and its use has been established among researchers and staff. In addition, many steps have been taken to update the system and solve the problems posed by rapid technological obsolescence.</p>
+<h2 id="range-of-achievements" tabindex="-1">Range of Achievements <a class="header-anchor" href="#range-of-achievements">#</a></h2>
+<p>The AGI computerization project has made several advances in the application of new technologies to archives. No historical archive in the world today can claim a greater variety of achievements:</p>
+<ul>
+<li>Eleven million pages are available for direct on-screen consultation, supported by a spectacular combination of image-enhancing tools.</li>
+<li>More than 30 percent of consultations at the AGI are done electronically.</li>
+<li>All descriptive information is available electronically, forming a unified data system into which all traditional finding aids have been integrated following their retrospective conversion.</li>
+<li>This entire integrated system is in daily operation in the Reading Room.</li>
+</ul>
+<p>Initiation of the project required identification, discussion, and analysis of the many problems and the possibilities offered by new technologies. Only then was it possible to develop a complete system for managing historical archives, with special emphasis on the latest aspects of image treatment. But the most remarkable aspect of the project is that the system has been functioning for almost five years. During this time, staff have had to address the day-to-day practical problems of operation, including staff training, aging equipment, and, above all, obsolescence of hardware, software, and data media. The AGI is a laboratory where an integrated computerized system responsible for most of the functions of a historical archive can be observed operating in real time.</p>
+<h2 id="project-origin" tabindex="-1">Project Origin <a class="header-anchor" href="#project-origin">#</a></h2>
+<p>To understand the project’s aims, methodology, and results, it is worth noting the circumstances leading to its inception. Why was such an ambitious and massive project undertaken? Why is this project, unique in the often-neglected field of treatment of historical documentation, being carried out in Spain?</p>
+<p>The main impetus for the project was Spain’s celebration of the fifth centenary of the discovery of America, which culminated in the World’s Fair in Seville in 1992. For several years before the celebration, cultural, entrepreneurial, and political agencies had been encouraged to consider ways to take advantage of the possibilities offered by such a significant public event.</p>
+<p>The Archivo General de Indias offered an excellent stage for activities relating to the commemoration. For more than a century, researchers from all over the world have been drawn by its stacks of documents of basic interest for studying the discovery and the history of the Americas. Accordingly, in 1986, three organizations agreed to carry out the computerization project at the Archivo. The organizations included a public institution (the Ministry of Culture, under which the AGI operates), a nonprofit private cultural institution (Ramón Areces Foundation), and a computer technology company (IBM España). This public-private partnership was critical for securing the heavy investments needed by the project and gave all participants increased visibility for their support of an important cultural activity.</p>
+<h2 id="project-characteristics" tabindex="-1">Project Characteristics <a class="header-anchor" href="#project-characteristics">#</a></h2>
+<ul>
+<li>The project was designed to apply the latest computer technologies, especially digital imaging, to the treatment of historical archives in support of the AGI’s goals of preservation and access.</li>
+<li>The project set specific dates for completion and the reporting of results, requiring that by 1992 a system be installed and operating. Thus, the system already incorporated a large volume of data when it opened, rather than appearing as an empty container to be filled.</li>
+<li>The project was aided by the participants’ commitment to support cultural activities. This meant that financial resources were allocated for project development and that staff from the three institutions would collaborate closely over several years.</li>
+<li>The project was intended to serve as the pilot project for the eventual computerization of all Spanish national historical archives.</li>
+</ul>
+<h2 id="project-challenges" tabindex="-1">Project Challenges <a class="header-anchor" href="#project-challenges">#</a></h2>
+<ul>
+<li>The work involved the use of new, developing technology, especially in image treatment and information medium. Challenges included the rapidity of technical developments, lack of standards, high cost, and risk of obsolescence.</li>
+<li>The AGI had no experience in the use of the new imaging technologies.</li>
+<li>The project required large investments because of the high cost of new technologies. (The costs did, however, decrease considerably over time.)</li>
+<li>Certain technological decisions had to be put off as long as possible to present a state-of-the-art system in 1992.</li>
+<li>The project had to progress simultaneously in system design and development and in massive data entry, so that by 1992 the project would be operating at the AGI and a large volume of digital information would already be available.</li>
+<li>The project had to remain within the scope of what was practical, given the available resources.</li>
+</ul>
+<h2 id="importance-of-results-for-conservation-and-access" tabindex="-1">Importance of Results for Conservation and Access <a class="header-anchor" href="#importance-of-results-for-conservation-and-access">#</a></h2>
+<p>AGI now provides more than 30 percent of document consultation service through digital images, eliminating handling of the original and offering significant advantages for both access and conservation. The average time that researchers need to conduct their work is much less than before. There are more researchers, but they complete their work sooner, and therefore need to spend fewer days working in the Archivo.</p>
+<h2 id="the-archivo-general-de-indias-and-the-global-village" tabindex="-1">The Archivo General de Indias and the “Global Village” <a class="header-anchor" href="#the-archivo-general-de-indias-and-the-global-village">#</a></h2>
+<p>The future incorporation of digital holdings into communication networks (which also requires careful analysis) could make the Archivo General de Indias the first historical archive in the world to offer the researcher such a large collection of material by remote access. The emerging “global village” makes this desirable, but its impact on small institutions should be carefully studied to ensure appropriate aims, means, and results.</p>
+<hr>
+<h2 id="references" tabindex="-1">REFERENCES <a class="header-anchor" href="#references">#</a></h2>
+<p>1 Hans Rütimann and Stuart Lynn, <em>Computerization Project of the Archivo General de Indias, Seville, Spain. A Report to the Commission on Preservation and Access</em> (Washington, DC: Commission on Preservation and Access, 1992).</p>
+<p>2 Jean-Paul Oddos, “La Numérisation des Archives Générales des Indes à Seville” [Digitization of the Archivo General de Indias in Seville], <em>Bulletin de la Bibliothèque de France</em> 39(4) (1994): 82-86.</p>
+<p>3 Christopher Kitching, <em>The Impact of Computerization on Archival Finding Aids: A RAMP Study</em> (Paris, UNESCO, 1991).</p>
+<p>4 The agreement establishing the AGI computerization project was signed in 1986, effective to December 1992. Textual data entry began in 1988 and digitization of documents in 1989. The first version of the user-management module was installed in mid-1988. The complete system was installed on a trial basis in 1991 and officially inaugurated on October 6, 1992. At the conclusion of the initial project, a new agreement was signed covering 1993 and 1994.</p>
+<h1 id="background" tabindex="-1">Background <a class="header-anchor" href="#background">#</a></h1>
+<h2 id="founding" tabindex="-1">Founding <a class="header-anchor" href="#founding">#</a></h2>
+<p>In 1781, King Carlos III decided to found the AGI at the urging of his Secretary of the Indies, José de Gálvez. The goal was to gather at one site all the documents concerning Spanish administration in the Americas and Philippines. The original documents were to be used as source material for writing a new history of the Spanish presence in the Americas. The new history would respond to some of the histories being published abroad that Spanish officials and intellectuals feared were auguring a new episode of the anti-Spanish “black legend.”<a href="#6">6</a> The move would also free up space at the Simancas Archivo, the central archive of the Crown since the sixteenth century, which was then so overwhelmed it could not offer proper service.</p>
+<h2 id="documentary-holdings" tabindex="-1">Documentary Holdings <a class="header-anchor" href="#documentary-holdings">#</a></h2>
+<p>The first shipments of papers from Simancas arrived in October 1785, forming the initial core of the AGI. They would later be supplemented by new transfers, especially from Madrid and Cádiz. Today, the AGI holds about eight kilometers of shelving containing more than 43,000 bundles of original papers.</p>
+<p>These documentary holdings are drawn from the metropolitan agencies responsible for colonial administration, primarily the Consejo de Indias (Council of the Indies), Casa de la Contratación (House of Trade), State Secretariats responsible for Indies affairs, and the Consulados (Boards of Trade) of Seville and Cádiz, as well as other agencies.</p>
+<h2 id="organization-of-holdings" tabindex="-1">Organization of Holdings <a class="header-anchor" href="#organization-of-holdings">#</a></h2>
+<p>The AGI was provided with an excellent series of Ordenanzas (ordinances) promulgated by King Carlos IV in 1790.<a href="#7">7</a> Among other functions, these Ordenanzas established what eventually came to be known as the “principle of provenance.” This principle obligated the Archives to keep together all the documents generated by each agency,<a href="#8">8</a> without mixing them with the documents of other agencies.<a href="#9">9</a> Article V of the Ordenanzas reads: “The first division of papers should be into collections corresponding to the remitting offices. Thus, those from Simancas, Vía Reservada, and each of the offices of the Consejo should remain together and be maintained separately from the others.”<a href="#10">10</a> Although this obligation was observed for the most part, trends in the history of the AGI eventually led to the current organization of documents into 15 sections that usually, but not always, hold all the documents of a unique generating agency. More detail on this organization is given on <a href="https://www.clir.org/?page_id=2254">p. 12</a>.</p>
+<h2 id="finding-aids" tabindex="-1">Finding Aids <a class="header-anchor" href="#finding-aids">#</a></h2>
+<p>During the first few years of its history, the AGI made a great effort to organize and describe its holdings in order to create a “general inventory.”<a href="#11">11</a> Although this general inventory was never completed, the AGI today has many guides, inventories, catalogs, and indices that make it possible to control the holdings and facilitate access to the information. Some of the old inventories, painstakingly drawn up at the end of the eighteenth century, have continued to be useful in their manuscript format.</p>
+<h2 id="the-agi-building" tabindex="-1">The AGI Building <a class="header-anchor" href="#the-agi-building">#</a></h2>
+<p>The AGI is located in the old building of the Casa Lonja de Mercaderes (Commodity Exchange) of Seville, constructed between 1583 and 1646 as a meeting place for dealers who traded between the metropolis and its colonies. The building was renovated to serve as the headquarters of the AGI at the time it was founded. Besides being a Spanish historical monument,<a href="#12">12</a> the site has been declared part of the World Heritage by UNESCO.</p>
+<h2 id="consultation-of-holdings" tabindex="-1">Consultation of Holdings <a class="header-anchor" href="#consultation-of-holdings">#</a></h2>
+<p>The AGI is visited daily by an average of 50 researchers. More than 900 different researchers visit each year. Half come from outside Spain; almost 40 percent of all researchers come from the Americas. The AGI fills requests for 300,000 to 400,000 copies on paper and microfilm each year and responds to almost a thousand written requests annually.</p>
+<h2 id="restoration-laboratory" tabindex="-1">Restoration Laboratory <a class="header-anchor" href="#restoration-laboratory">#</a></h2>
+<p>The AGI has a restoration laboratory to handle its conservation problems. All papers are more than a century old, and some are 500 years old, with a concentration in the sixteenth and seventeenth centuries. The documents have been affected by different storage conditions. Many have also undergone the vicissitudes of a long Atlantic crossing, although great effort was made to ensure optimal packing for shipment. In some cases, the papers and ink themselves have caused degradation. For example, the Philippines Audiencia often used fragile rice paper for documents. In recent years, documents have been excessively handled in the Reading Room.</p>
+<h2 id="microfilm-service" tabindex="-1">Microfilm Service <a class="header-anchor" href="#microfilm-service">#</a></h2>
+<p>The AGI also contains a small microfilm laboratory which, because of staffing limitations, generally only fulfills researchers’ requests for copies. However, a policy of backup microfilming and microfilm editions has gradually been adopted over the years, so that about two million frames in unperforated 35 mm rolls are currently available.<a href="#13">13</a></p>
+<hr>
+<h2 id="references-1" tabindex="-1">REFERENCES <a class="header-anchor" href="#references-1">#</a></h2>
+<p>5 The <a href="https://www.clir.org/pubs/reports/pub76/bibliography/">General Bibliography</a> lists useful titles about the AGI’s history and holdings.</p>
+<p>6 According to Juan Bautista Muñoz, founder of the Archivo: “In order to fulfill these worthy purposes, to silence once and for all our many fiery defamers and rivals and to show their ignorance to be inexcusable, it was necessary to go to the root of the matter, to the sources, and study irrefutable documents, as if nothing [else] had been written and published.” Juan Bautista Muñoz to the Secretary of State of the Indies, José de Galvez, 28 November 1783. Archivo Histórico Nacional, Diversos 29, Doc. 16</p>
+<p>7 <em>Ordenanzas para el Archivo General de Indias</em> [Ordinances for the AGI] Article V (Madrid, 1990). See bibliography on the 1790 Archivo Ordinances in the <a href="https://www.clir.org/?page_id=2212">General Bibliography</a>.</p>
+<p>8 This principle identifies the “fonds,” an archival concept widely used in Europe. The<br>
+ISAD(G) standard defines the term as the “whole of the documents, regardless of form or medium, organically created and/or accumulated and used by a particular person, family, or corporate body in the course of that creator’s activities and functions.”</p>
+<p>9 The “principle of provenance” is understood today to include not only the separation of documents generated by each agency but also the conservation of their original order. French archivist Natalis de Wailly first enunciated the principle in 1841 as “respect de fonds.” The Germans then developed the Strukturprinzip, which later became part of the “principle of provenance.” The Ordenanzas clearly expressed this principle in 1790, even though the terms had not yet been developed.</p>
+<p>10 <em>Ordenanzas</em>, Article V.</p>
+<p>11 <em>Ordenanzas</em>, Article XXVII.</p>
+<p>12 The site was declared a national monument by Royal Decree on April 20, 1983, and a World Heritage site by UNESCO in 1987.</p>
+<p>13 The list of AGI documents available on microfilm through the Document Reproduction Service of the Ministry of Education and Culture is contained in the <em>Boletín de Información del CIDA</em> {Centro de Información Documental de Archivos), n. 1 (1993).</p>
+<h1 id="project-objectives" tabindex="-1">Project Objectives <a class="header-anchor" href="#project-objectives">#</a></h1>
+<p>The goal of the project was to design, develop, and implement in the AGI an automated data system capable of integrated management of the most common functions of a historical archive. The system was intended to offer solutions to the access/conservation dichotomy that is a central concern for any archive.</p>
+<p>The goal of producing the automated data system was to be met through a series of more limited objectives, which can be divided into two major stages. The first, extending from 1986 through 1992, involved design, development, massive data entry, and system installation. The second, beginning in 1993, was the phase of actual operation, staff training, consolidation, solution of obsolescence problems, and progress toward new standards.</p>
+<h2 id="stage-i-objectives-1986-1992" tabindex="-1">Stage I: Objectives 1986-1992 <a class="header-anchor" href="#stage-i-objectives-1986-1992">#</a></h2>
+<ul>
+<li>To design and develop the system according to the Archivo’s needs, using the latest technologies in databases and digital imaging.</li>
+<li>To undertake massive data entry, so that by 1992 the AGI would have in use not only a system but also abundant information, including both the descriptive information necessary for document location and the digital images.</li>
+<li>To retrospectively convert descriptive information derived from the AGI’s inventories, catalogs, and indices. Such conversion also had to incorporate the more detailed descriptions that were compiled for the documents to be digitized.</li>
+<li>To scan for digital images 10 percent of the AGI’s holdings, about eight million pages.</li>
+<li>To implement the system once it was developed and put it into service.</li>
+<li>To introduce some parts of the system into other archives, specifically the user-management module, which became the first byproduct for use elsewhere.</li>
+</ul>
+<p>In 1992, the initial objectives were met, the system was installed at the AGI, and a new phase of consolidation, expansion, and updating was begun. Although a two-year extension of the agreement among the sponsors made it possible to continue and improve upon what had already been done, the AGI’s objectives changed. It now had the job of assuming direct operation of the system : integrating the system into daily operations, training staff and bringing on technicians, finding new sources of financial support, and preparing strategies for equipment update and data migration. This was to be done independently, without the external oversight of the sponsors.</p>
+<h2 id="stage-ii-objectives-1993-present" tabindex="-1">Stage II: Objectives 1993-present <a class="header-anchor" href="#stage-ii-objectives-1993-present">#</a></h2>
+<ul>
+<li>To make the system operational in the AGI, integrating the daily routines and functions, including reference service, Reading Room management, and documents service. The new tasks of digitization and entry of textual data would also be part of the daily work, along with other common duties such as restoration and microfilming.</li>
+<li>To become independent of external support from the institutions collaborating in the project, and to obtain the necessary resources and make changes in staffing, such as bringing in qualified new personnel and retraining existing staff.</li>
+<li>To review and solve problems caused by rapid technological obsolescence, taking the steps needed to adapt the system to new computer advances.</li>
+<li>To progress toward more open and standard formulas (some of which did not exist at system startup), so that the future exchange of data and the migration to new generations of hardware and software would be easier.</li>
+<li>To address the lack of backup copies of optical disks. This problem had been put aside until inexpensive, effective alternatives appeared in the market.</li>
+<li>To continue and, if possible, expand the work of generating descriptive information and digital images of documents.</li>
+<li>To begin to locate the system within the current framework of communication networks. When the project was started, the possibility of remote access was analyzed, but use of the Internet was still very limited.</li>
+</ul>
+<p>The following sections provide detail on the system and subsystems that were developed to serve the AGI.</p>
+<h1 id="general-system-architecture" tabindex="-1">General System Architecture <a class="header-anchor" href="#general-system-architecture">#</a></h1>
+<p>The system was designed in modular form, based on the idea of distributed processing and client/server architecture. This was done to ensure flexibility for future use of the system in other larger or smaller archives, and took into consideration future access options through networks.</p>
+<p><img src="/assets/images/reports/pub76/figure1_57d70f800b879.gif" alt="Figure 1" title="figure1.gif"></p>
+<p><strong>Figure 1.</strong> <em>General Scheme of System Operation</em></p>
+<h2 id="fundamental-system-modules" tabindex="-1">Fundamental System Modules <a class="header-anchor" href="#fundamental-system-modules">#</a></h2>
+<p>From the user’s standpoint, the system consists of three modules, each of which covers a different group of functions:</p>
+<p><strong><em>The information and reference system</em></strong> provides descriptive information that gives the user all of the tools needed to find original or reproduced documents. It is not simply an index or database providing access to digitized information. It is a unified, global system of information valid for all descriptive information in the Archivo. It includes data contained in all the inventories, catalogs, and indices produced over the AGI’s history. It also includes the information necessary to recover digital images of the documents.</p>
+<p><strong><em>The digital image storage system</em></strong> offers the tools needed to consult digital copies on the monitor or on paper. The system handles two independent processes: document digitization and its storage on optical disk, and access to digitized images for consultation.</p>
+<p><strong><em>User management</em></strong> includes all of the functions relating to the retrieval of AGI documentation, through both manual and automated consultation:</p>
+<ul>
+<li>Tracking research requests (researchers’ files, topics of investigation, statistics on use, and user profiles)</li>
+<li>Monitoring Reading Room use</li>
+<li>Controlling document movement within the Archivo</li>
+<li>Controlling reproduction service for researchers</li>
+</ul>
+<h2 id="general-architecture" tabindex="-1">General Architecture <a class="header-anchor" href="#general-architecture">#</a></h2>
+<p>To handle the series of functions outlined above and to meet the aims for flexibility, the system consists of various subsystems. Each subsystem comprises a series of logically related functions that are carried out within their corresponding operating environments. Different servers provide the main functions in communication with the several workstations: These subsystems are as follows:</p>
+<ul>
+<li><strong>The textual database</strong> deals with operation of the information and reference system. It includes the data entry and consultation processes.</li>
+<li><strong>Digital image storage</strong> provides the resources for consultation of digital surrogates. It includes the processes of digitization and consultation.</li>
+<li><strong>The user-management database</strong> permits control of the operation of archive and system consultation.</li>
+<li><strong>The liaison interface</strong> provides the necessary communication with the other subsystems.</li>
+<li><strong>The user interface</strong> facilitates user dialogue at the “client” station. It converts user inquiries into messages sent to the corresponding subsystem, and converts the messages received into easily intelligible replies.</li>
+<li><strong>The printing subsystem</strong> allows for printing textual information and digital images.</li>
+</ul>
+<h1 id="information-and-reference-subsystem" tabindex="-1">Information and Reference Subsystem <a class="header-anchor" href="#information-and-reference-subsystem">#</a></h1>
+<p>The information reference subsystem, which provides access to descriptive information and thereby to the content of the Archivo’s original documents, is the heart of the entire system. It was designed to meet the objectives outlined on <a href="#15">p. 15</a>.</p>
+<h2 id="description-at-the-agi" tabindex="-1">Description at the AGI <a class="header-anchor" href="#description-at-the-agi">#</a></h2>
+<p>The AGI is a historical archive organized according to traditional archival principles, which differentiate the archive from the library or the documentation center. Its organization is further specified in the “principle of provenance” noted on pp. 5-6. Most of the AGI is organized according to this principle of provenance. The first division consists of sections that usually contain the papers of a single producing agency or unit thereof. The sections may be divided into subsections (especially Section V, Government, which is organized into subsections according to the territorial organization of the several Audiencias and Viceroyalties). The sections in turn are broken down into series (sometimes redivided into subseries) containing those documents produced by the corresponding agency in the exercise of each of its functions. The series are made up of documents or files, grouped into bundles.</p>
+<p>The resulting hierarchical and multilevel model of organization is shown below:</p>
+<p><img src="/assets/images/reports/pub76/figure2.gif" alt="Figure 2" title="figure2.gif"></p>
+<p><strong>Figure 2.</strong> <em>Organizational Model of Holdings in the Archivo General de Indias</em></p>
+<h2 id="finding-aids-1" tabindex="-1">Finding Aids <a class="header-anchor" href="#finding-aids-1">#</a></h2>
+<p>The 1790 Ordenanzas also mandated the formation of various finding aids that would provide physical and intellectual control of the AGI’s holdings and the necessary lines of access to the information. The ultimate objective was to compile a complete and systematic “general inventory” of all the organized holdings of the Archivo.<a href="#14">14</a> This work program prefigured to some extent what we now call an “information system.”</p>
+<p>In practice, the archival description consists of individual finding aids, such as guides, inventories, catalogs, and indices. Although the systematic “general inventory” mentioned in the AGI Ordenanzas is not complete, these independent instruments aim to project a complete and systematic vision consistent with the hierarchical structure of the holdings.</p>
+<p>The characteristics of archival description are as follows:</p>
+<ul>
+<li>It is multilevel, including descriptions or entries of various archival units or groupings considered on their several levels: collection, series, subseries, file, and document.</li>
+<li>It reflects the hierarchical family-tree structure of archive organization, in which archival units or groupings are included in others at higher levels and may in turn include others at a lower level.</li>
+<li>For the description of each document or piece to be wholly meaningful and fully intelligible, it must relate to the higher-level units of which it is a part and, ultimately, to the agency producing the documents.</li>
+<li>The principle of provenance thus becomes not only the basic norm for document organization but also the essential element for attaining intellectual control of the holdings and for guiding information access.<a href="#15">15</a></li>
+<li>This indirect access to information is supplemented by indices leading directly to the subject, person, and place. But the indices are generally auxiliary or complementary to the principal finding aids. This means that not even access through indices is totally direct; the inventory or catalog must be located first to use its auxiliary index.</li>
+</ul>
+<p>Accordingly, over the two centuries of AGI history, numerous finding aids have been developed (and occasionally published): a general guide to the Archivo,<a href="#16">16</a> inventories for each section,<a href="#17">17</a> catalogs of certain subjects or series,<a href="#18">18</a> and indices.</p>
+<p>Many changes in personnel, goals, and criteria relating to the work have taken place since the AGI was founded. Consequently, there are great differences among the various finding aids-in format, depth of description, level of detail, and terminology.</p>
+<p>There are manuscript instruments, such as inventories for the Sections of Patronato (relations of the Kings with the Church), Contaduría (General Accounting), Contratación (House of Trade or House of the Indies), Justicia (Justice); typewritten texts, such as the inventories for the Sections of Gobierno (Government, the papers of the Council of the Indies and the Secretaries of State), Ultramar (the nineteenth-century central agency for the colonies); printouts, such as the inventories of Consulados (Boards of Trade from Seville and Cádiz) or Correos (the Post) and some catalogs of maps and plans; loose file cards (catalogs of Registers); and bound volumes.</p>
+<p>In some cases, individual documents are described (e.g., <em>Patronato</em> inventory), while in others only information at the series level is covered (e.g., Government Section inventories). The elements of description used also vary considerably-from the title, reference number, and end dates used exclusively in many inventories to the detailed description appearing in catalogs such as the <em>Catálogo de Consultas del Consejo de Indias or the Catálogo de Pasajeros a Indias</em>.</p>
+<p>Some catalogs and inventories include supplemental indices, while others do not. The indices themselves are diverse and do not conform to any established norm. Some contain long headings that virtually summarize the referenced document (for example, supplemental indices for the Contaduría or Contratación sections); other indices are simpler, including only the indispensable data. Some cite the document reference number, others the corresponding page of the principal instrument, and still others (for publications) a consecutive number identifying each entry or individual description.</p>
+<p>In short, there is a wide range of finding aids with different objectives, formats, and criteria. A study conducted before the retrospective conversion tasks were begun estimated that all of the finding aids totaled 25,000 pages. Many of them, however, were not available for use by researchers in the Reading Room.</p>
+<h2 id="objectives-for-the-information-and-reference-system" tabindex="-1">Objectives for the Information and Reference System <a class="header-anchor" href="#objectives-for-the-information-and-reference-system">#</a></h2>
+<ul>
+<li>To construct a database containing valid information for locating digitized documents and to evolve a unified, global system of archival information that could handle all descriptive data of the AGI in an integrated manner. All the traditional finding aids would have to fit within the new system, so that the entire process of description and search for information could be integrated and automated. This unified system is to some extent consistent with the aim of a “general inventory” set forth in the Ordenanzas.</li>
+<li>To include in this unified system the information needed for better retrieval of the images of digitized documents. Such data would not be independent but an integral part of the system as a whole. Yet a considerable effort would have to be made to supplement and enhance the description of that documentation with a view to better results and more rapid retrieval.</li>
+<li>To undertake complete retrospective conversion of the large volume of guides, catalogs, and indices that had been developed, despite their errors and lack of standardization.</li>
+<li>To ensure that the new system respects traditional archival principles and the “principle of provenance” in particular. This meant organizing the descriptive information according to the organic-functional structure of the fonds, which calls for a hierarchical and multilevel model of data access.</li>
+<li>In addition, to allow direct access to the information through the use of keywords, as an alternative to access through the hierarchical path.</li>
+<li>To offer vocabulary control options for the future, although the AGI traditionally had no standardization or control for retrieval vocabulary (subject headings, thesaurus, control of authorities).</li>
+<li>To simplify integration with the user-management and image modules by incorporating all necessary elements-such as data access controls and references to new media-into the information and reference system.</li>
+</ul>
+<h2 id="outline-of-information-and-reference-system" tabindex="-1">Outline of Information and Reference System <a class="header-anchor" href="#outline-of-information-and-reference-system">#</a></h2>
+<p>Given these objectives, the information and reference module was designed to construct a unified data system that would make it possible to access information through the “principle of provenance path,” while also providing new possibilities for direct data access through new technologies.</p>
+<h3 id="data-access-by-the-principle-of-provenance-path" tabindex="-1"><em>Data Access by the “Principle of Provenance Path”</em> <a class="header-anchor" href="#data-access-by-the-principle-of-provenance-path">#</a></h3>
+<p>The system manages relational model databases to set up a hierarchical and family-tree model of all descriptive information that is fully consistent with the AGI’s organic-functional structure. Following this framework, one can navigate from the “root” or holding institution (the Archivo) through its several branches to its “leaves” (documentary units or pieces).</p>
+<p>Holdings are organized by level, which may or may not be fully reflected in the finding aids. The information system should allow management within this structure of existing or described “real” levels. This is not a rigid information structure with preestablished levels. The system allows the inclusion and management of as many levels as may be considered necessary, depending on the requirements and holdings of the archive. The International Standard Archival Description, ISAD(G), reflects this approach, stipulating in rule 2.3 that the system of organization and access to information should “link each description to its next higher unit of description, if applicable, and identify the level of description.” But this standard, which was adopted some time after the AGI computerized system was developed, does not specify a means for its implementation.<a href="#19">19</a> The AGI information and reference system employs a simple procedure: if each descriptive entry, at whatever level, has an identification code, only the code of the next higher unit in the hierarchy needs to be included in the database table to link both units.</p>
+<p>Since the user ordinarily does not know the internal identification code, and it is also difficult to remember, the Reference Number or code of each description unit is used for the purpose. Thus, this operation in the data entry process introduces a new “element of description” that is always necessary: the Reference Number or code of the higher hierarchical unit. During consultation, the user has the option of going to a higher or lower hierarchical level. The descriptive entry corresponding to a section will indicate its component series, or a document will show all the levels above it.</p>
+<h3 id="direct-information-access" tabindex="-1"><em>Direct Information Access</em> <a class="header-anchor" href="#direct-information-access">#</a></h3>
+<h4 id="agi-indices" tabindex="-1"><em>AGI Indices</em> <a class="header-anchor" href="#agi-indices">#</a></h4>
+<p>The principle of provenance, which provided the main means for access to information at the AGI, is an indirect method of obtaining materials. Document access is indicated by the path (search subject/producing institution/inventories and catalogs/supplemental indices), rather than by the more direct subject/document route.</p>
+<p>To provide points of more direct access, the AGI developed indices to supplement the principal finding aids. The indices represent document content through different “notions” or “concepts” organized in the form of index “headings.” They may be direct (index heading/document) or indirect (index heading/corresponding heading in its inventory or catalog/document).</p>
+<p>In recent years, efforts have been made in the archival field, both nationally and internationally, to create standards for indices production. For example, the International Council on Archives (ICA), through its Ad Hoc Commission on Descriptive Standards, has drawn up an International Standard on Authorized Archival Headings for Organizations, Persons and Families ISAAR (CPF), which was adopted in Paris, November 15-20, 1995.<a href="#20">20</a> Also, the Bureau of Canadian Archivists, through its Planning Committee on Descriptive Standards, published several related texts-such as the Subject Indexing for Archives, Ottawa, 1992-that contain bibliographies and references to existing standards.<a href="#21">21</a></p>
+<p>The AGI had no vocabulary control. In the planning phase, there was discussion of whether to use existing indices or to revise them. Revision would require the preparation of strict rules of control, or a thesaurus, or list of subject headings. Project staff agreed that it would be impossible to revise the indices properly within a reasonable time. Within the framework of the digitization project, it was impossible to draw up a complete list of acceptable headings valid for all sections and all levels of the AGI. The differences and incongruities among existing indices were too great. Thus, existing indices were used, with no vocabulary control in the strict sense. In the process of retrospective conversion, they were converted to the actual keywords that provide direct access to the information.</p>
+<p>An important area of work for the future could be to establish some kind of controlled vocabulary, employing for the first time lists of all index headings used in the AGI, now available as keywords in electronic format.</p>
+<p><img src="/assets/images/reports/pub76/figure3.gif" alt="Figure 3" title="figure3.gif"></p>
+<p><strong>Figure 3.</strong> <em>Means of Access to Information</em></p>
+<h4 id="keywords" tabindex="-1"><em>Keywords</em> <a class="header-anchor" href="#keywords">#</a></h4>
+<p>Keywords are the principal means for direct retrieval of information from the system. They may consist of one or more words, providing they do not exceed 120 characters. They include indices by name, toponym, institution, and subject.</p>
+<p>These keywords can be interrelated by means of precoordinated indexing. When a unit of description is indexed, two different keywords may be linked by means of a specific relationship, such as nature, affiliation, title, or activity. For example,</p>
+<p><em>First Keyword</em></p>
+<p><em>Relationship</em></p>
+<p><em>Second Keyword</em></p>
+<p>Pizzaro, Franciso</p>
+<p>Born in</p>
+<p>Trujillo (Cáceres)</p>
+<p>Cortés, Hernán</p>
+<p>Title</p>
+<p>Marqués del Valle</p>
+<p>Colón, Diego</p>
+<p>Son of</p>
+<p>Colón, Cristóbal</p>
+<p>Gálvez, Barnardo de</p>
+<p>Activity</p>
+<p>Gobernador de Luisiana</p>
+<p>They may also be “qualified” by the function they perform within the corresponding document. For example, one person is the “otorgante” (giver) of the last will, the “witness” in a judgment, or the “receiver” of a letter. The name of the person is the keyword, which can be qualified with the function of “otorgante”, “witness”, “sender”, or “receiver.”</p>
+<p>In the process of consultation, if one or more search words are introduced, the system will show all of the keywords in the database that contain those words, making it possible to locate the descriptive information about a particular document or series of documents. For each descriptive entry, all keywords considered useful may be included, with or without specific relationships or functions.</p>
+<p>Although there is no compulsory vocabulary control, the system has the capacity to use a thesaurus as an element of support and consultation. It is also supplied with a specific profile of “responsible” vocabulary control unit, which can carry out revision functions such as the elimination and creation of keywords, elimination and creation of specific relationships, and transfer of references between keywords and relationships.</p>
+<h2 id="elements-of-description" tabindex="-1">Elements of Description <a class="header-anchor" href="#elements-of-description">#</a></h2>
+<p>Once a decision had been made on the structure for the unified system of information and the major means of access to documents, it was necessary to select the various elements of description (title, content summary, volume, date spans, etc.) to ensure adequate gathering of all information concerning AGI documents. This was some years before the EAD (Encoded Archival Description) was developed. Certain existing possibilities were studied, including the MARC AMC format, but it was decided to choose something simpler, adapted to the AGI’s specific needs. At the time there was no internationally recognized standard for archival description, although Canada, Britain, and the United States had developed some national standards.<a href="#22">22</a> In 1992, International Standard Archival Description, ISAD(G), was proposed to the professional community at the International Congress on Archives, held in Montreal. It was subsequently adopted by the Ad Hoc Commission at its Stockholm meeting, January 21-23, 1993.<a href="#23">23</a></p>
+<p>Consequently, a data structure was developed that consists of 30 elements of description divided into three areas (basic information, descriptive information, and elements of retrieval). The main data are summarized below. A numeric label identifies each of the several elements.</p>
+<h3 id="basic-information-area" tabindex="-1"><em>Basic Information Area</em> <a class="header-anchor" href="#basic-information-area">#</a></h3>
+<p>All of the elements contained in this area are required, although during data entry most can be included as values by default. These elements include the reference number, dates, title, and reference number of the preceding element in the hierarchy. Almost all of this corresponds to the Identity Statement Area of the ISAD(G) standard, although additional elements needed for service are also included.</p>
+<h3 id="descriptive-information-area" tabindex="-1"><em>Descriptive Information Area</em> <a class="header-anchor" href="#descriptive-information-area">#</a></h3>
+<p>This covers a series of elements of description that are optional, although some are used in almost every case, while others are used for specific documentary types. These descriptions are usually in a free-text format. Examples of the elements are the content summary, old and new reference numbers, site of issue, and internal and external characteristics.</p>
+<h3 id="elements-of-location-retrieval-or-access" tabindex="-1"><em>Elements of Location, Retrieval, or Access</em> <a class="header-anchor" href="#elements-of-location-retrieval-or-access">#</a></h3>
+<p>These are the elements facilitating access to the data, including the keywords and their several supplements, such as specific relationships and functions. Also included are such elements of retrieval as the old card numbers or those in other media, additional dates to focus searches, and so forth.</p>
+<h2 id="initial-content-retrospective-conversion-of-finding-aids" tabindex="-1">Initial Content: Retrospective Conversion of Finding Aids <a class="header-anchor" href="#initial-content-retrospective-conversion-of-finding-aids">#</a></h2>
+<p>At the beginning of the project, two distinct possibilities were studied regarding the initial content of the information and reference system :</p>
+<ul>
+<li>To incorporate only the descriptive information necessary for retrieval of those documents included in the digital image storage system; or</li>
+<li>To incorporate all information contained in the AGI’s finding aids; that is, inventories, catalogs, and indices, whether printed, typed, or in manuscript.</li>
+</ul>
+<p>In the first case, a database structure could have been designed that was appropriate for the documents to be digitized. In addition, efforts could have been made to produce a more precise description of only a subset of AGI documents, determining the fields necessary for each document type.</p>
+<p>The second option, which was the one ultimately chosen, was a new venture entailing considerable risk: there was no previous experience to serve as reference, since no archive had yet undertaken a similar operation. The problems-the quality of existing descriptive information, different levels of description, lack of uniform criteria and standards over time, and different formats-posed several difficulties.</p>
+<p>A complete list was made of all the finding aids to be converted (estimated then at 25,000 pages). The content and format of each was analyzed, and priorities were established for the subsequent work, to be undertaken in phases:</p>
+<ul>
+<li>Finding aids essential in forming the complete hierarchical structure of the database were assigned priority.</li>
+<li>Within that group, special emphasis was placed on finding aids favoring preparation of the material to be digitized (for example, that included in the Patronato Section, all of which would be computerized).</li>
+<li>Priority was then attached to all catalogs and indices describing certain resources or series in detail and in depth.</li>
+</ul>
+<p>IBM’s Personal Editor was adapted for the work to provide plain data entry screens consistent with the needs of each of the finding aids to be recorded. The data were stored in simple flat ASCII files, with identification codes or labels for each of the fields employed and with control words adding information needed at the time of data entry. Two work groups were organized:</p>
+<ul>
+<li>Finding aids published or properly prepared and structured in typescript were keyed in by personnel with no specialized archival background but with data entry experience.</li>
+<li>The finding aids most difficult to interpret (usually manuscript) and requiring more careful review were recorded directly in the AGI by a group with more extensive archival and historical training, overseen directly by the regular staff.</li>
+</ul>
+<p>The results of the process can be outlined in summary as follows:</p>
+<ul>
+<li>The idea of the unified information system took shape as a real operating system following an extended, ongoing effort.</li>
+<li>Continuity of the project with the same guidelines over a long period allowed successful completion of the original aims.</li>
+<li>The goal was extremely ambitious, but it was always focused on doing whatever could be done at the time.</li>
+<li>The decision to go public with a system filled with as much content as possible, as opposed to a database structure without content, led to acceptance by researchers.</li>
+<li>Based on this introductory information, the initial errors and inconsistencies could provide incentive to continue the effort, with the goal of gradually supplementing and improving all of the AGI’s descriptive information.</li>
+</ul>
+<h2 id="the-information-and-reference-system-today" tabindex="-1">The Information and Reference System Today <a class="header-anchor" href="#the-information-and-reference-system-today">#</a></h2>
+<p>This retrospective conversion operation has been complemented by a special effort to improve and expand descriptions, especially for the digitized documents. The AGI’s information and reference system currently includes the following breakdown of entries for each of its “units of description”:</p>
+<ul>
+<li>37 entries at the section level</li>
+<li>440 at the series level</li>
+<li>187 at the subseries level</li>
+<li>45,398 at the bundle level</li>
+<li>113,936 at the file level</li>
+<li>193,849 at the document level</li>
+<li>61,519 entries for passenger lists to the Americas</li>
+</ul>
+<p>These hierarchical entries have been supplemented by about 400,000 keywords to facilitate direct access to specific documents.</p>
+<p>Today, we can make some observations on the information and reference system with a view more to the future than the past, drawing on five years of service to users and recent developments in both technology and the development of standards.</p>
+<h3 id="direct-and-indirect-access-to-archival-information" tabindex="-1"><em>Direct and Indirect Access to Archival Information</em> <a class="header-anchor" href="#direct-and-indirect-access-to-archival-information">#</a></h3>
+<p>For many years, the AGI Reading Room has been an excellent field of observation for analyzing the means of intellectual access to archival information because researchers could use both the traditional means of access, by way of the principle of provenance, and the direct means, through indexes.</p>
+<p>Although it is risky to reach conclusions because there have been no statistical studies in this area, certain statements can be made based on daily observation. For example, it can be said that a researcher, especially one with little experience in using archives, makes primary use of the direct access system (keywords), usually ignoring the indirect (principle of provenance, hierarchical path), which is always slower and more tedious. Such researchers are often impressed by the easy access to initial data, which makes them believe they have retrieved all available information, even though only a small percentage of the total AGI has been concisely indexed.</p>
+<p>Richard H. Lytle undertook an experiment in this area in 1978 and published the results in 1980.<a href="#24">24</a> One of his conclusions-that the indexing method offered a greater variation in results (better and worse)-is apparent in this connection. If indexing is complete, it is undoubtedly a rapid, useful method for the user. If not, search results will be poor. Clearly, this may have “silenced” a large volume of documents that have barely been covered by a general description and are not indexed.</p>
+<p>But in addition, part of the document context information may be lost through exclusive use of indexes. It is well known that an archival document is not an individual, independent piece but acquires its meaning from the environment in which it has been produced. Thus, the traditional method of searching continues to be not only valid but essential. The complementary use of both methods is, today, still the best means of access to information. The staff responsible for information must therefore guide the less expert researcher. Nevertheless, one veteran researcher said that he had located in a few days more information than he had found in weeks of work before the new system was installed.</p>
+<h3 id="information-retrieval-tools" tabindex="-1"><em>Information Retrieval Tools</em> <a class="header-anchor" href="#information-retrieval-tools">#</a></h3>
+<p>One achievement of the project has been to develop a unified system of descriptive information for the AGI. But the tools used to build the system now urgently require updating. Use of a system of relational database management with SQL was a significant advance when the relational model was still used basically for totally structured information and management situations. But today, the system suffers from excessive rigidity, and not all of the advantages offered by unstructured information search systems-such as free text, full text, and truncations-have been used. In this regard, the information system has lagged far behind and urgently needs updating.</p>
+<h3 id="standardization" tabindex="-1"><em>Standardization</em> <a class="header-anchor" href="#standardization">#</a></h3>
+<p>Standardization of all aspects of the information and reference system is another crucial issue for the future.</p>
+<ul>
+<li>Standardized description is the first aspect to be considered. In the near future, it therefore seems advisable to incorporate at least the ISAD(G) standards, although they are still a general and imperfect effort. They are also far removed from other developments in the field of documentation, such as the ISBD or AACR2. It will be necessary to monitor such recent developments as EAD, implemented in the United States through the Berkeley Finding Aid Project and supported in the SGML standard.</li>
+<li>It is also necessary to standardize the language of indexing. This will be a long-term project for the AGI, since no list of acceptable subject headings or indices has been developed. The advantage is that the AGI can do this <em>a posteriori</em>, using not only international standards in the field but all keywords generated over the course of two centuries, which are currently available in a unified, automated listing.</li>
+<li>Standardization of other aspects, such as the system for querying databases (SQL, ODBC) or Internet access, must also be addressed.</li>
+</ul>
+<h3 id="revision-and-updating-of-information-system-content" tabindex="-1"><em>Revision and Updating of Information System Content</em> <a class="header-anchor" href="#revision-and-updating-of-information-system-content">#</a></h3>
+<p>Archival work consists, ultimately, of furthering the organization, description, and understanding of documents. Similarly, the AGI’s information system will require continuous revision, updating, and improvement regarding both description and access. In the process, it will be possible gradually to eliminate errors originating in the retrospective conversion.</p>
+<hr>
+<h2 id="references-2" tabindex="-1">REFERENCES <a class="header-anchor" href="#references-2">#</a></h2>
+<p>14 <em>Ordenanzas</em>, Article XXVII.</p>
+<p>15 See Eric Ketelaar, “Exploitation of New Archival Materials,” in <em>Proceedings of the 11th International Congress on Archives</em> (Munich, New York, London, Paris: K.G. Sauer, 1989), 189-99; Richard H. Lytle, “Intellectual Access to Archives” <em>American Archivist</em> 43 (1980): 64-76 and 191-208; David A. Bearman and Richard H. Lytle; “The Power of the Principle of Provenance,” <em>Archivaria</em> 21 (1985-86): 14-27; and Michel Duchein, “Theoretical Principles and Practical Problems of Respect des Fonds,” <em>Archivaria</em> 16 (Summer 1983): 64-82.</p>
+<p>16 The most significant Archivo guides are those by José Torre Revello, <em>El Archivo General de Indias de Sevilla. Historia y Clasificación de sus Fondos</em> [The Archivo General de Indias of Seville: History and Classification of its Holdings] (Buenos Aires: Instituto de Investigaciones Históricas, 1929), and José María de la Peña y Cámara, <em>Archivo General de Indias. Guía del Visitante</em> [Visitor’s Guide] (Valencia: Dirección General de Archives y Bibliotecas, 1958).</p>
+<p>17 Some of the most recently published inventories include the Consulados or Correos (Boards of Trade or Post) sections.</p>
+<p>18 For example, the <em>Catálogos de Pasajeros a Indias</em> [Lists of Passengers to the Indies] (7 vols. published), or the many catalogs of maps and plans by Pedro Torres Lanzas, Julio González, or María Antonia Colomar.</p>
+<p>19 International Council on Archives. ISAD(G): General International Standard Archival Description. Adopted by the Ad Hoc Commission on Descriptive Standards. Stockholm, Sweden, January 21-23, 1993.</p>
+<p>20 ISAAR (CPF): International Standard Archival Authority Record for Corporate Bodies, Persons, and Families. Final ICA approved version. Prepared by the Ad Hoc Commission on Descriptive Standards, Paris, November 15-20, 1995.</p>
+<p>21 Bureau of Canadian Archivists. Planning Committee on Descriptive Standards. Subject Indexing for Archives: The Report of the Subject Indexing Working Group. (Ottawa: Bureau of Canadian Archivists, 1992).</p>
+<p>22 Steven Hensen, <em>Archives, Personal Papers and Manuscripts: A Cataloging Manual for Archival Repositories, Historical Societies and Manuscripts Libraries</em> (2nd ed.) (Chicago: Society of American Archivists, 1989); Michael Cook and Margaret Procter, <em>Manual of Archival Description (MAD)</em> (London: Society of Archivists, 1989); Bureau of Canadian Archivists, <em>Rules of Archival Description</em> (Ottawa: Bureau of Canadian Archivists, 1990).</p>
+<p>23 International Council on Archives, <em>General International Standard Archival Description</em>, ISAD(G), adopted by the Ad Hoc Commission on Descriptive Standards at its Stockholm meeting, January 21-23, 1993.</p>
+<p>24 Richard H. Lytle, “Intellectual Access to Archives,” <em>American Archivist</em> 43 (1980): 64-76 and 191-208.</p>
+<h1 id="digital-imagestorage-system" tabindex="-1">Digital ImageStorage System <a class="header-anchor" href="#digital-imagestorage-system">#</a></h1>
+<hr>
+<p>The ability to view and consult on-screen many original documents through their digital images stored on optical disk is the most innovative and well-known aspect of the project.<a href="#25">25</a></p>
+<p>As noted earlier, the AGI has two priorities: the sound conservation of original documents, and the optimal access to those documents by researchers. In 1992, the Reading Room accommodated some 50 researchers each day. In 1990, 37,303 consultations of original documents were recorded, and in 1991, 37,172.</p>
+<p>Since this is a relatively small archive (slightly more than 43,000 document bundles), such heavy use by researchers and photocopiers entails a serious risk of deterioration of the original documents. Between the second half of 1989 and the end of 1992, almost 200 bundles in the AGI were consulted more than 50 times in the Reading Room.</p>
+<p>How could the dilemma of conservation and document access be resolved? The best alternative was offered by the systems of document reproduction and the use of copies, rather than originals, for consultation. This leads to an important point that affected subsequent technical decisions: the aim was not to replace the original documents with digital copies but to preserve the original better by avoiding its continual handling during consultation. Thus, the technical specifications for digitization were set to ensure adequate quality for consultation-not to replace the original for all purposes. The level of quality had to satisfy most researchers so that originals would need to be consulted only in exceptional cases.</p>
+<h2 id="digitization-process" tabindex="-1">Digitization Process <a class="header-anchor" href="#digitization-process">#</a></h2>
+<p>We can analyze the system of digital image storage by dividing it into two basic processes: the process of digitization and storage on optical medium, and the process of consultation. Digitization in turn can be studied in two further steps: the preparation of documents or prior archival work, and the digitization itself.</p>
+<h3 id="selection-of-documents-to-be-digitized" tabindex="-1"><em>Selection of Documents to be Digitized</em> <a class="header-anchor" href="#selection-of-documents-to-be-digitized">#</a></h3>
+<p>Since it was not possible to digitize all of the AGI documents in a reasonable amount of time, the first question asked was how to make proper selection of the documents to be scanned. The following selection criteria were used:</p>
+<ul>
+<li>Only complete series would be digitized-never selected individual documents. This was the first and mandatory criterion.</li>
+<li>Documents found to be of greatest use for consultation would be selected. A statistical analysis would locate the documentary series that researchers had most often used.</li>
+<li>The documents selected would cover all territories relating to Spanish colonization in the New World. This would draw on the Archivo’s strength as the basic archive for history of the Americas.</li>
+<li>As a practical criterion, the status of document description was also considered, with a view to the work of preliminary preparation.</li>
+</ul>
+<p>The final selection yielded a list of documentary series that would satisfy more than 30 percent of users’ requests. The list represented about 10 percent of all AGI documents. It was revised by adding some documents held by two other historical archives relating to Spanish history in the New World, the Archivo Histórico Nacional (AHN) and the Archivo General de Simanacas (AGS). These documents, however, were not selected by the same criteria as those for AGI.</p>
+<p>The purpose of supplementing the Archivo’s holdings was to meet fully the goal established by King Carlos III when the AGI was founded: that all documents “referring to the Indies” should be deposited in the AGI. A further goal was to incorporate other national archives into the process of technological modernization. More detail about this work appears in <a href="https://www.clir.org/?page_id=2243">Appendix 3</a>.</p>
+<h3 id="document-preparation" tabindex="-1"><em>Document Preparation</em> <a class="header-anchor" href="#document-preparation">#</a></h3>
+<p>The documents selected must be properly prepared for forwarding to the digitization room. This entails the traditional work of organizing the documents, bundle by bundle, drafting new descriptions for them or revising present ones, placing them properly in folders, writing the reference number, etc. These steps are fundamental in ensuring a subsequent expeditious and successful retrieval of digital images.</p>
+<p>The final step in preparation is entry into the information system of the descriptive data that will eventually enable document access.<a href="#26">26</a> A “digitization guide” is also prepared, a form that includes the minimum information needed to guide the scanner operator in his work and to carry out the subsequent liaison between the textual database forming the information and reference system and the digital images stored on optical disks.</p>
+<h3 id="digitization" tabindex="-1"><em>Digitization</em> <a class="header-anchor" href="#digitization">#</a></h3>
+<p>Once the documents have been prepared, they are digitized. From 1989 to 1994, digitization stations were supplied with an IBM AT computer, a Rank Xerox 7650 flatbed scanner, and an optical disk unit-first an IBM 3363 and later a Panasonic.<a href="#27">27</a> The scanner could digitize up to size A3 to 400 dots per inch (dpi) with 256 grayscale levels, although the AGI uses only 100 dpi and preserves only the most significant 16 grayscale levels.</p>
+<p>The same routine is followed for each page: scanning, viewing, compression, and direct recording on optical disk. The entire process takes about one minute per page. The documents-because of their intrinsic value, age, and state of conservation-require careful handling during digitization, so no automatic scanner feeding is allowed. From 1990 to 1992, the work was carried out by 15 digitization stations working double shifts with a variety of equipment to prevent delays in case of breakdown. The number of staff decreased between 1992 and 1994, when the agreement between the three partners ended. In 1995 and 1996, work continued with three full-time and six part-time employees.</p>
+<p>At the end of 1996, the AGI got two new digitization stations, each equipped with a Kodak DCS 420 digital camera and Hewlett-Packard CD-Writer 4020i disk recording units. This made it easier and faster to complete the work (only seconds per page), with less risk to the documents. Now, AGI requires only one-third the staff to achieve the same rate of productivity as with the old equipment.</p>
+<p>The most important aspects of AGI’s digitization work are image quality, storage support, formats and image compression, and quality control.</p>
+<h4 id="image-quality" tabindex="-1"><em>Image Quality</em> <a class="header-anchor" href="#image-quality">#</a></h4>
+<p>The quality of a digital image is determined basically by two parameters: resolution and grayscale. How can the AGI obtain a digital image offering quality guarantees for its stated goals? In recent years, a series of projects have tried to set standards guiding the selection of such parameters, and various criteria have been suggested. Don Willis distinguishes between “archival resolution,” defined as “the resolution required to ensure a faithful replica of the original document regardless of cost” (with archival resolution at 600 dpi and 8 bits of grayscale), and “optimal archival resolution,” defined as “the highest resolution economically supported by technology at a given time” (assuming a balance between cost and quality), and “adequate access” resolution, disregarding conservation but focusing on information needs (estimated at 300 dpi in black and white).<a href="#28">28</a></p>
+<p>Obviously, many types of documentation can be digitized, each with its own characteristics and requirements.<a href="#29">29</a> Anne R. Kenney and Stephen Chapman divide the documents by category: text or line, halftone, continuous tone, or mixed documents. Each type requires different parameters in principle. While some maintain that “archival resolution” is 600 dpi, NARA proposes 300 dpi, after having used 200 dpi in its ODISS (Optical Digital Image Storage System) project.<a href="#30">30</a></p>
+<p>Different projects have different goals that determine digitization parameters. Seeking complete “replacement” of the original by the digital image differs from digitizing solely for on-screen consultation or on-line network access to limit handling of originals.</p>
+<p>Document characteristics also determine the selection of parameters. There is a difference between digitizing modern typed documents that are well preserved and documents of the sixteenth or seventeenth centuries with bleedthrough from ferrogallic inks or with inks faded by exposure to humidity. A suitable balance among costs, budget resources, and the stated objectives must also be considered. Ignoring these aspects while pursuing optimum quality could make it impossible to maintain projects because of the implications for storage and even general systems configuration. For example, optimal quality is likely to require more powerful processors, higher-quality monitors, and enhanced capacity networks.</p>
+<p>In terms of the AGI project, the aim is to obtain reference quality that will allow users to consult the document on-screen or in hard copy, rather than in its original form. The documents to be digitized are manuscripts from the fifteenth to nineteenth centuries, in various states of conservation. They may show water spots, stains, faded ink, or bleedthrough. They can be classified as “continuous tone” according to the classification drawn up by Anne Kenney and Stephen Chapman.<a href="#31">31</a></p>
+<p>The fundamental criterion is the search for a proper balance between image quality on the one hand and storage and processing-capacity needs on the other. Fortunately, the costs of storage and processing capacity have dropped steadily, making it less expensive to store and process good quality images. Technological advances will also lead to the development of reasonably priced equipment that can handle vast quantities of information.</p>
+<p>Several tests were conducted to ensure quality consistent with the purpose and type of documents,<a href="#32">32</a> with an eye to minimizing storage requirements. Based on these tests, it was decided to digitize at 100 dpi and 16 grayscale levels (4 bits per pixel). These parameters are quite different from those used in other digitization projects but are well suited to the aims of the Seville project-to digitize for consultation, rather than for replacement of the original. The parameters are also consistent with the minimum values recommended in 1995 by the Technology Subcommittee of the UNESCO Memory of the World Programme.<a href="#33">33</a></p>
+<p>Based on these parameters, project staff decided not to improve images during digitization, but to defer that step to the stage of viewing. The viewer decides on the use of image enhancement algorithms at the time of consultation. This procedure also simplifies and shortens the work of digitizing: the operator does not need to make any special decisions regarding image quality, which is assumed to be adequate if the specified parameters are maintained.</p>
+<p>The effect of digitization with grayscale on resolution requires further study, as noted by Kenney and Chapman.<a href="#34">34</a> Their comments are made with respect to tests that the Cornell Department of Preservation and Conservation conducted on brittle books. The impact of digitization with grayscale on the cost of storage, time, equipment, and processors is declining steadily owing to the rapid growth of processing capacity.</p>
+<h4 id="color-images" tabindex="-1"><em>Color Images</em> <a class="header-anchor" href="#color-images">#</a></h4>
+<p>The project also aimed to digitize AGI’s maps and plans collection, which consists of about 7,000 pieces that have been extracted from their original, provenance-based files to facilitate their conservation. These materials differ from other normal documents in that they use color and are oversized. Because of this, AGI had to use computers with greater capacity and processing speed, and new solutions for storage had to be found. It was also impossible to use the same scanner as for other materials.</p>
+<p>It was decided to first make a color microfilm copy, which would subsequently be digitized. Microfilming with Cibachrome, at 200 line pairs, would yield a good-quality color copy. The film could then be digitized with a Nikon LS3500 slide scanner, able to capture 4,096 x 6,144 pixels for 35 mm frames. The final resolution in digital form was similar to the grayscale documents (100 dpi), with 256 colors. For quicker access, a black-and-white copy could be saved.</p>
+<p>The color microfilming was completed, but the scanning operation was interrupted and only one hundred digital color images were obtained. There were three reasons for this. First, although the quality of the images appeared basically good, sometimes the resolution was too low for sharp text legibility. Second, it took too long to display the large color document images on the screen with the 486 processors. Third, this work assumed lower priority after the AGI could offer consultation of maps and plans through color microfilm in the Reading Room.</p>
+<h4 id="storage-medium" tabindex="-1"><em>Storage Medium</em> <a class="header-anchor" href="#storage-medium">#</a></h4>
+<p>Most of the AGI documents are folio size, measuring slightly over A4. An A4-size image, digitized at 100 dpi and 4 bits/pixel uncompressed, can occupy about half a megabyte. While still considered sizeable in 1997, the storage requirement was much more significant ten years earlier.</p>
+<p>Besides needing image compression algorithms, there were few choices for media carriers. The most useful option was the WORM (write once/read many) optical disk because of its capacity, ease of recording and of subsequent use for consultation, and predictable longevity. The fundamental problem with WORM disks was the absence of standards and the variety of trademarks and formats, which increased the risk of obsolescence.</p>
+<p>A 200 MB capacity IBM 3363 optical disk was used first. This disk model, on which 1,729 bundles were digitized, was soon replaced by a Panasonic (Reflection Systems RF-5010C) disk with 940 MB capacity. The Panasonic could usually store all the images of a bundle on a single disk, after compression. It was used to record 3,732 bundles of documents. Each new RF-5010C disk cost 15,000 pesetas wholesale (about US $100). Thus, with 5,511 bundles digitized by the end of May 1997, the cost of storage media was very high. Assuming that each disk held the images of one bundle, and each bundle averaged 1,956 pages, the per-page storage cost could be estimated at 7.67 pesetas (approximately five cents).</p>
+<p>The process of converting all disks to the new media carrier began with the changeover from the IBM to Panasonic disks. (The conversion was not completed as of 1997 and the consulting system was still using both types of disks at that time.)</p>
+<p>In recent years, the use of CD-ROM has become more common. CD-R recording equipment has been developed, and the cost of blank CDs has dropped. Consequently, it was decided to migrate to this new format. At the end of 1996, the AGI acquired new recording equipment with CD-R units and installed six units for converting WORM disks to CD-R (three to convert IBM disks and three for Panasonic disks). Migration has been under way since early 1997 and should take about two years.</p>
+<p>For several years, the lack of image backup copies has been a key problem. The AGI postponed a decision on the backup system in anticipation of better options, such as magnetic or optical tape. Meanwhile, the AGI had only a single copy of the images, risking the loss or deterioration of a disk, which would require redigitization of the original. A backup copy program was finally established in 1995. Five units were installed for copying Panasonic disks onto DAT DSS I and II magnetic tape (2 and 4 Gb tapes). Between April 1995 and the end of 1996, 3,205 disks were copied, leaving only 525 IBM disks uncopied onto a new media carrier. These are now being copied directly to CD-R in the new migration process that began early in 1997. Now, when documents are digitized, two CD-R copies of the digitized images are made: one for use and another for backup. The cost of a new CD was $6.50 at the beginning of 1997, but is now much cheaper.</p>
+<p>By the end of May 1997, the status of migration was as follows:</p>
+<p><strong>IBM disks:</strong></p>
+<ul>
+<li>Digitized: 1,729 bundles</li>
+<li>Copied on Panasonic: 1,186 bundles</li>
+<li>Copied on CD-R: 110 bundles</li>
+<li>Uncopied: 433 bundles</li>
+</ul>
+<p><strong>Panasonic RF-5010C disks:</strong></p>
+<ul>
+<li>Digitized: 3,732 bundles</li>
+<li>Duplicated on Panasonic: 571 bundles</li>
+<li>Copied on magnetic tape: 3,205 bundles</li>
+<li>Copied on CD-R: 141 bundles</li>
+</ul>
+<p><strong>CD-R disks:</strong></p>
+<ul>
+<li>Digitized: 50 bundles (two copies)</li>
+<li>Copied from IBM: 110 bundles</li>
+<li>Copied from Panasonic: 141 bundles</li>
+</ul>
+<p><strong>Magnetic tape:</strong></p>
+<ul>
+<li>Copied from Panasonic: 3,205 bundles</li>
+</ul>
+<h4 id="formats-and-image-compression" tabindex="-1"><em>Formats and Image Compression</em> <a class="header-anchor" href="#formats-and-image-compression">#</a></h4>
+<p>The heavy storage requirements for digital document images call for the use of compression formats. The AGI wanted to scan for grayscale, rather than for black-and-white or binary images. But standard algorithms for color or grayscale images, such as JPEG and GIF, were not available in 1988. Consequently, the AGI digitization project developed its own compression algorithm using a DPCM (Differential Pulse Code Modulation) model with statistical compression. This model allows for an approximate reduction of 2 to 1 without loss of quality.</p>
+<p>The increased use of JPEG made it advisable for the AGI to eventually adopt this compression algorithm. Current migration to the new CD-R support is also changing the compression format. Decompression of the AGI format and subsequent compression in JPEG are carried out during the recording process. Since JPEG allows adjustment of the compression parameters to determine the quality sought in viewing, the new compression is designed to permit no more than a 15 percent loss. The compression factor is similar to the AGI format, with the images occupying the same amount of space in both AGI and JPEG formats.</p>
+<h4 id="quality-control" tabindex="-1"><em>Quality Control</em> <a class="header-anchor" href="#quality-control">#</a></h4>
+<p>After digitization, quality control can be done in two ways. The first is automatic, by comparing the digitization guide with the resulting optical disk. This process can detect mistakes, such as omissions and reference number errors, that can be resolved before the WORM disk is dispatched for consultation service or before transfer from hard disk to the CD.</p>
+<p>The second means of quality control is manual inspection. This can be done by accessing document images at selected intervals (such as every page, or the first pages of each document or block, one page of every five, or one page of every day’s batch of digitized images). In practice, this type of quality control creates a bottleneck since it must be done by specialized personnel and is time-consuming. It was done for only a brief period at the AGI. The users themselves-outside researchers and staffers-have been the ones to detect possible errors, such as omissions or repetitions.</p>
+<p>Once digitization and quality control with the first method have been completed, the resulting disk may be used for consultation. It may also be duplicated and a backup copy made.</p>
+<h2 id="image-consultation" tabindex="-1">Image Consultation <a class="header-anchor" href="#image-consultation">#</a></h2>
+<h3 id="disk-service" tabindex="-1"><em>Disk Service</em> <a class="header-anchor" href="#disk-service">#</a></h3>
+<p>In deciding how to place such a large volume of images in service, several options were considered.</p>
+<ul>
+<li><strong>Decentralized service</strong> would allow users to retrieve the disks themselves, but it has several drawbacks. These include security risks and the fact that readers need two types of optical disks for each user station. There would also be the problem of many researchers simultaneously searching for their disks. This option would be more attractive if few disks were involved.</li>
+<li><strong>A centralized strategy</strong> called for various possibilities to be studied:
+<ul>
+<li><strong>Use of a jukebox</strong>. This is the usual solution for centralized service. But no single unit could handle so many optical disks, and the use of a battery of jukeboxes greatly increased the cost. In addition, a large space was needed to house them.<a href="#35">35</a></li>
+<li><strong>Use of a robot</strong>. There were no robots available on the market for optical disks, only for magnetic tape cartridges. One of these could have been adapted, but the cost was very high and the risk of obsolescence significant.</li>
+<li><strong>Centralized service with human intervention</strong>. A user’s request for a disk would be handled by a human operator, located in the Optical Disk Room, who would retrieve the disk and place it in the reading unit.</li>
+</ul>
+</li>
+</ul>
+<p>The use of a set of high-capacity magnetic disks was not studied because they were considered impossible to obtain at the time. This option now begins to offer possibilities, and its use will probably be justified for urgent requests (over the Internet, for instance).</p>
+<p>The AGI chose the option of centralized service with human intervention. It was the least expensive and allows for the introduction of other options in the future. Optical disk servers were installed in the AGI Optical Disk Room, connecting more than a dozen optical disk readers for the two existing formats. All available optical disks are installed and organized in shelves beside the servers and the optical disk readers. An operator at that site handles the requests for images as shown on a monitor displaying disk request messages. There are now different servers for IBM and for Panasonic disks. It will eventually be necessary to install a server, with reading units, for CDs.</p>
+<p>When a user at a workstation requests an image, the system generates a message shown on the monitor. The operator receives the message, selects the requested disk from its shelf, and places it in an available disk unit. The document images are sent through the local area network (16 megabits per sec.) to the user’s workstation. When all the document images requested have been delivered to the workstation, the optical disk may be withdrawn by the disk unit operator, who is then ready for the next request. The entire process can be carried out relatively easily and efficiently by a single person handling requests through the monitor and a few disk-reading units.</p>
+<p>This means that part of the consulting process is not automated and that human errors can occur. The time required for sending the images is brief: in a minute to a minute and a half, the researcher will receive the first image on a monitor and the series of pages constituting the document or file requested will begin to be stored in the workstation. Within a short time, the researcher will have the entire document. From that point on, the researcher can work locally for as long as desired.</p>
+<h3 id="image-consultation-1" tabindex="-1"><em>Image Consultation</em> <a class="header-anchor" href="#image-consultation-1">#</a></h3>
+<p>When the researcher receives the requested document images on the monitor, he or she can begin to consult them, using a variety of tools for image treatment and enhancement.<a href="#36">36</a></p>
+<p>In the original version of the system, the workstation consisted of a PS/2 computer with a 486 processor and OS/2 operating system, and with Dialog Manager and Presentation Manager for user interface. These controlled two monitors: one conventional VGA (IBM 8513) for text and image management, and another high-resolution unit for image display (IBM 8508 for grayscale images or IBM 6091 for color). This initial interface with two screens has been modified; the subsequent versions carry out all functions in a microcomputer with a Pentium processor and a single monitor. The same mix of facilities is retained for document management, browsing, expansion and rotation, printing, and the use of algorithms for historical document treatment (such as elimination of stains and ink bleedthrough, enhancement of faded inks, and improvement of contrast).<a href="#37">37</a></p>
+<hr>
+<h3 id="references-3" tabindex="-1">REFERENCES <a class="header-anchor" href="#references-3">#</a></h3>
+<p>25 Pedro González, “¿Salas de Lectura sin Papel?” [Paperless Reading Rooms?], in <em>Proceedings of the 11th International Congress on Archives</em> (Munich, New York, London, Paris: K.G. Sauer, 1989), 229-33.</p>
+<p>26 “Efficient retrieval of scanned document images and graphic data depends on the accurate, up-to-date index data base. Indexing a digital image involves linking descriptive image information with header file information…And accuracy is critical because an erroneous index term may result in non-retrieval of the related image.” National Archives and Records Administration (NARA). <em>Digital Imaging and Optical Digital Data Disk Storage Systems: Long-Term Access Strategies for Federal Agencies</em>. Technical Information Paper no. 12 (NARA, 1994).</p>
+<p>27 The Panasonic optical disk was marketed by the British firm Plassmon, under the trademark Reflection Systems RF-5010C.</p>
+<p>28 Don Willis. <em>A Hybrid Systems Approach to Preservation of Printed Materials</em>. (Washington, DC: Commission on Preservation and Access, 1992), 11.</p>
+<p>29 Anne R. Kenney and Stephen Chapman. <em>Tutorial: Digital Resolution Requirements for Replacing Text-Based Material: Methods for Benchmarking Image Quality</em> (Washington, DC: Commission on Preservation and Access, 1995).</p>
+<p>30 National Archives and Records Administration. <em>Digital-Imaging and Optical Digital Data</em>.</p>
+<p>31 Kenney and Chapman, <em>Tutorial</em>, 2.</p>
+<p>32 See Julián Bescós and Juan Navarro, “La Digitalización como Medio para la Preservación y Acceso a la Información en Archivos y Bibliotecas” [Digitization as a Means of Preserving and Accessing Information in Archives and Libraries], <em>Educación y Bibliotecas</em> 80 (1987): 28-41.</p>
+<p>33 Stephen Foster, Roslyn Russel, Jan Lyall, and Duncan Marshall. <em>Memory of the World: General Guidelines to Safeguard Documentary Heritage</em>. Report CII-95/WS-11 (Paris: UNESCO, 1995), 52-66.</p>
+<p>34 Kenney and Chapman, <em>Tutorial</em>, 10.</p>
+<p>35 Jukeboxes on the market now can handle several hundred CDs, which means they could be practical, especially if the new DVD standard is adopted. This would yield much more storage capacity than the current CD and a sizable reduction in the number of disks needed.</p>
+<p>36 For research conducted to develop image enhancement tools for better readability of documents, see:<br>
+Julián Bescós Ramón, “Image Processing Algorithms for Readability Enhancement of Old Manuscripts,” in <em>Electronic Imaging 89</em> (Pasadena, CA, 1989), 1:392-97.<br>
+Julián Bescós Ramón, Francisco Jaque, and Luis Montoto, “Reflectance and Optical Contrast of Old Manuscripts: Wavelength Dependence,” <em>Scanning Imaging</em> Vol. 1,028 (Society of Photo-optical Instrumentation Engineers [SPIE] 1989): 258-62.<br>
+Julián Bescós Ramón, Juan Pedro Secilla, and Juan Navarro, “Filtering and Compression of Old Manuscripts by Adaptive Processing Techniques.” <em>Proceedings of the Society for Information Display International Symposium 1990</em> (Las Vegas: Society for Information Display, 1990): 384-87.<br>
+Julián Bescós Ramón, Juan Navarro, and Carlos Ramón, “Mejora de Legibilidad de Documentos Antiguos Mediante Tratamiento Digital de Imágenes” [Enhancing Readability of Old Documents through Digital Image Treatment]. <em>IV Simposium Nacional de Reconocimiento de Formas y Análisis de Imágenes</em> [Proceedings of Fourth National Symposium on Form Recognition and Image Analysis] (Granada: Sociedad Española de Reconocimiento de Formas y Análisis de Imágenes, 1990): 51-58.</p>
+<p>37 In their previously cited report, Hans Rütimann and M. Stuart Lynn note: “The speed and ease of use of these tools are impressive. There is something almost magical in seeing a badly stained section of a 300-year-old manuscript cleaned up before one’s eyes and become legible again.” Rütimann and Lynn, 11.</p>
+<h1 id="technical-aspects" tabindex="-1">Technical Aspects <a class="header-anchor" href="#technical-aspects">#</a></h1>
+<p>The AGI has had to address the major problem of equipment and system obsolescence. Since the system was devised in the second half of the 1980s, it has become essential to start updating and enhancing hardware and software, and migrating data. The aim of this update has been to incorporate more open formulas, free from “proprietary” influences and adapted to standards subsequently developed or consolidated. The other participants in the original agreement have worked with the AGI in undertaking these operations.<a href="#38">38</a></p>
+<h2 id="initial-computer-equipment" tabindex="-1">Initial Computer Equipment <a class="header-anchor" href="#initial-computer-equipment">#</a></h2>
+<p>The following hardware and software was initially installed in the Archivo General de Indias:</p>
+<ul>
+<li>A 16-megabit-per-second Token-ring local area network with APPC communication protocol for communications support</li>
+<li>An IBM AS-400 minicomputer with SQL-400 as database and user-management system server</li>
+<li>PS/2 microcomputers with OS/2 operating system as optical disk servers, controlling Panasonic and IBM disk units</li>
+<li>PS/2 microcomputers with OS/2 operating system and Dialog Manager and Presentation Manager for user interface as workstations. They control two monitors, one standard VGA (IBM 8513) for text and one high-resolution for image display (IBM 8508 for grayscale or IBM 6091 for color images).</li>
+<li>Digitization stations with IBM AT microcomputers, DOS operating system, Rank Xerox 7650 flatbed scanners, and IBM or Panasonic optical disk units</li>
+<li>IBM 4029 laser printers for printing images</li>
+<li>Stations for digitization of maps and plans consisting of PS/2 model 80s with 16 MB memory, Panasonic (Reflection Systems RF-5010C) optical disk units, and Nikon LS3500 slide scanners</li>
+</ul>
+<h2 id="current-equipment" tabindex="-1">Current Equipment <a class="header-anchor" href="#current-equipment">#</a></h2>
+<p>The system was designed within a “proprietary” framework with some commercial dependence. This has led to revisions of the system to create more open and interchangeable versions. Accordingly, the initial equipment has been changed over time as the system has been updated. The basic changes in equipment have been as follows:</p>
+<ul>
+<li>Digitization stations with Rank Xerox flatbed scanners have been replaced by others consisting of microcomputers with Pentium processors, Kodak DCS 420 digital cameras, and Hewlett-Packard CD-Writer 4020i disk recording units. Digitization continues at 100 dpi and 16 grayscale with JPEG compression algorithm. The new hardware allows easier and more rapid digitization. This boosts productivity and reduces digitization costs. Moreover, use of the camera instead of the scanner is safer for the original, since there is much less risk of paper deterioration.</li>
+<li>The AS-400 (database server) and PS/2 equipment are still used but can be replaced today by any PC with a standard Pentium processor. Much of the system now has Windows NT available through ArchiGES and ArchiDOC; the rest of the system is expected to run on Windows NT shortly.</li>
+<li>The optical disk and printing servers have been replaced by new Pentium processor microcomputers. Similarly, the workstations-originally two-screen PS/2 models-can be replaced today by conventional PCs with Pentium processors and standard monitors.</li>
+<li>Six WORM to CD-R conversion stations have been added: three converting IBM and three Panasonic disks, with original disk-reading units and Philips CDD 2000 CD-R recording units.</li>
+<li>Five DAT DDS II tape units have been added.</li>
+</ul>
+<p>The Token-ring local area network is still in use, as are the microcomputers with 486 and Pentium processors. The AGI has 40 workstations connected to the network.</p>
+<h2 id="other-current-equipment-possibilities" tabindex="-1">Other Current Equipment Possibilities <a class="header-anchor" href="#other-current-equipment-possibilities">#</a></h2>
+<p>In standardizing and updating the system, it is possible to use several hardware and software options through ArchiGESand ArchiDOC.</p>
+<ul>
+<li>Migration of the entire system has begun for use in operating environments other than OS/2. Much of the system is already available in Windows NT, while DB2 for Unix can manage the databases. Full migration of the Information and Reference and Image systems (ArchiDOC) to Windows NT and Windows 95 platforms will be finished by November 1998. For the User Management System (ArchiGES), full migration will be done in the spring of 1999.</li>
+<li>The system can operate in a standalone workstation or in local area network (Ethernet or Token-ring), with NETBEUI or TCP/IP protocols.</li>
+<li>The system is supported by the DB2 relational model database and is expected to progress to ODBC standard interface for relational databases.</li>
+<li>Several flatbed scanner models can be used for digitization (Ricoh, Bell &amp; Howell, Hewlett-Packard, IBM, and Epson), as can the Kodak digital camera (DCS 200, DCS 420, DCS 460), through SCSI interface. Plans call for the incorporation of new digitization devices.</li>
+<li>Standard compression algorithms have been adopted: JPEG for grayscale images (with selection of compression ratio and loss percentage) and CCITT Group IV for black-and-white.</li>
+<li>The ISAD(G) archival description standard is used in the information system, with free-text consultation to be incorporated in all fields of the standard.</li>
+<li>The development of interfaces for Web clients and servers for the Internet is under way.</li>
+</ul>
+<hr>
+<h3 id="reference" tabindex="-1">REFERENCE <a class="header-anchor" href="#reference">#</a></h3>
+<p>38 In 1993, during the extension of the initial agreement for the AGI project, IBM España and Informática El Corte Inleés (the principal Spanish company in the field of computers and connected with the Ramón Areces Foundation) decided to establish a new base for the future of the system (continuity, update, enhancement, and diffusion to other archives). Looking to this goal, they signed an agreement to form an association of economic interests officially known as Archivos y Bibliotecas, A.I.E. To date, they have continued the technological development of the system and installed it in about 30 Archives Centers under the trademark ArchiGES (user management system) and ArchiDOC (information and reference and image systems). At the end of 1997, IBM, following a general company strategy toward small business, withdrew. Informática El Corte Inglés continues to maintain and enhance the system.</p>
+<h1 id="new-prospects-long-distance-access" tabindex="-1">New Prospects: Long-Distance Access <a class="header-anchor" href="#new-prospects-long-distance-access">#</a></h1>
+<p>During the years when the Archivo General de Indias’ computerized system was devised and developed, no priority was assigned to long-distance access. Instead, the emphasis was on development of a system for integral management of the AGI. But some prospects for use of long-distance access solutions were analyzed from the start, even though the explosive growth of Internet use was still far in the future.<a href="#39">39</a></p>
+<p>The initial designs called for an AGI opening abroad through the Data Processing Center of the Ministry of Culture-specifically, through the Cultural Information Points (PIC), the first publicly accessible cultural network. The network was accessed through the Packet Switching Data Network (PSDN), which has X.25 lines, and the basic telephone network. The PIC network disappeared with the arrival of the Internet, and the information originally mounted on PIC was moved to the Web site of the Ministry of Culture (www.mcu.es). Today, this site includes the <em>Censo Guía de Archivos</em>, which offers a database with general information on more than 30,000 archival centers, and the <em>Bibliografía de Archivos</em>, where one can consult the professional bibliography for archives.</p>
+<p>In 1992, a six-month experiment in long-distance transmission was conducted by installing at the Huntington Library in Pasadena, California, a workstation linked to the AGI that provided access to its descriptive database. This workstation was supplemented by an optical disk unit located at Huntington headquarters that provided access to the digital image of certain selected documents. Thus, the descriptive information could be obtained across the Atlantic, while access to the digital image remained local.</p>
+<p>Other possibilities for remote connections were studied, such as through the Spanish academic network (Red Iris). Another experiment was conducted to provide access through the Integrated Services Digital Network; the necessary interfaces were developed, and isolated experiments were done. For example, at the III Jornadas de Administración Pública y Nuevas Tecnologías, held in Palma de Mallorca in May 1995, the AGI documents could be consulted directly following installation of a workstation at workshop headquarters that was connected to the AGI network. But these experiments were not followed up.</p>
+<p>The massive emergence of the Internet prompted new thinking about the possibilities for long-distance access, although the communication networks’ capacity did not then seem well suited for sending good quality images of the digitized documents. A document consisting of 25 pages (the usual average at the Archivo), for example, could require 8 MB. Today, such technological problems are being solved rapidly, making it possible for the AGI to join the “Global Village,” offering its holdings through the Internet. But some problems must first be resolved, and certain important decisions made.</p>
+<h2 id="technical-problems" tabindex="-1">Technical Problems <a class="header-anchor" href="#technical-problems">#</a></h2>
+<p>The most important technical problems to be considered are the following:</p>
+<ul>
+<li>Finalizing work to provide more open systems or prepare suitable interfaces.</li>
+<li>A decision about the distribution or use through the networks of the specific tools developed for image treatment or enhancement.</li>
+<li>An assessment of the impact of prospective clients and adaptation of equipment to new needs.</li>
+<li>The essential use of broad-band networks if it is decided to provide remote service, not only for textual and descriptive information but also for digital images of documents. Otherwise, initial distribution of poorer quality images must be accepted.</li>
+<li>The search for another means of image service, bypassing human intervention to avoid initial loss of time, if images are consulted remotely. Solutions may include the use of jukebox or, even better, large-capacity magnetic disk sets to provide authentic online use of images. This would require another migration of images to a new carrier medium, which would be costly in terms of equipment and supplies and would require considerable time to complete.</li>
+</ul>
+<h2 id="security-problems" tabindex="-1">Security Problems <a class="header-anchor" href="#security-problems">#</a></h2>
+<p>Opening the Archivo’s computerized system to remote consultation would require a strategy for addressing security problems, which have not been a source of concern so far. Much experience has been accumulated in the area of security, especially in important economic sectors such as banks, long-distance trading, industrial research, and in the military.</p>
+<h2 id="problems-of-intellectual-property-and-document-ownership" tabindex="-1">Problems of Intellectual Property and Document Ownership <a class="header-anchor" href="#problems-of-intellectual-property-and-document-ownership">#</a></h2>
+<p>The finding aids represent an intellectual creation that is the property of the state through the Ministry of Education and Culture. Distribution of this information, contained in the information and reference system, poses problems of intellectual property that are similar in principle to those for any other information, whether or not fees are charged.</p>
+<p>Furthermore, the document images themselves form part of a Spanish documentary heritage, the distribution of which requires careful decision making. Should free access be permitted? Limited access? Who is entitled to access?</p>
+<p>There are several alternatives for distribution. Access may be free or a fee may be charged. A fee may initially be imposed, with subsequent access free of charge. Users may be free to further disseminate the information, or its use may be restricted to the authorized client. Use may be granted only to cultural institutions or individuals, or it may be extended to for-profit institutions.</p>
+<p>The usual practice in Spanish archives has been to provide copies of documents on microfilm or paper to institutions and individuals. But complete series of documents are almost never provided, and in the exceptional cases when they are, a special agreement is required obligating the recipient to refrain from distributing copies of the documents. Should this practice be continued? Or should dissemination be expanded? Further restricted?</p>
+<p>Regarding these questions, the experience of other centers is still limited. There is no record yet of a historical archive putting such a large volume of documents on the network. Whatever is done will affect future operation of the AGI and other archives. The decision should be carefully considered, ideally with the participation of all interested parties.</p>
+<h2 id="management-problems" tabindex="-1">Management Problems <a class="header-anchor" href="#management-problems">#</a></h2>
+<p>Certain management problems have already been noted. Still, the user-management system should be expanded to cover the following:</p>
+<ul>
+<li>New types of system access control</li>
+<li>New types of statistical data retrieval</li>
+<li>Accounting and billing systems, where applicable</li>
+</ul>
+<p>There are other problems as well (minor, perhaps, but important in the practical operation of institutions), such as staffing and work schedules.</p>
+<p>As in other aspects of society today, the “long-distance” or “virtual” reading room may soon become reality in archives, producing the long-distance researcher. The Archivo General de Indias could continue to progress in that direction and make a significant contribution.</p>
+<hr>
+<h2 id="reference-1" tabindex="-1">REFERENCE <a class="header-anchor" href="#reference-1">#</a></h2>
+<p>39 Pedro González, “Databases and Long Distance Communication. A Spanish Experience.” Proceedings of the Third European Conference on Archives. Vienna, 1993. Published in <em>Mitteilungen des Österreichischen Staatsarchives</em> (Sonderband 2, 1996), 319-72.</p>
+<h1 id="conclusions" tabindex="-1">Conclusions <a class="header-anchor" href="#conclusions">#</a></h1>
+<hr>
+<h2 id="multidirectional-progress" tabindex="-1">Multidirectional Progress <a class="header-anchor" href="#multidirectional-progress">#</a></h2>
+<p>Computerization of the Archivo General de Indias has been a highly ambitious operation in applying new technologies to archival functions. Its achievements in several areas are noteworthy:</p>
+<ul>
+<li>It has affected all areas of work in historical archives (management, information, consultation, and conservation), showing that it is possible, reasonable, and, ultimately, economically viable to undertake this type of integrated archival treatment system.</li>
+<li>It has generated eleven million digitized pages and incorporated all existing finding aids within the automated information and reference system.</li>
+<li>It has allowed experimentation at every point in the process, including functional analysis, monitoring several years of use in the Reading Room, and addressing the constant problems of obsolescence.</li>
+<li>It has allowed continued experimentation in the use of new archival technologies; the project was not abandoned at the first obstacle or under the pressure of constantly changing technologies.</li>
+<li>It has shown that the new technologies, properly used, offer powerful tools for attaining the Archivo’s primary goals of conservation and dissemination.</li>
+</ul>
+<h2 id="project-costs" tabindex="-1">Project Costs <a class="header-anchor" href="#project-costs">#</a></h2>
+<p>Today, an analysis of the project’s cost between 1986 and 1997 has undoubtedly lost some of its relevance, except as a historical footnote. In the world of new technology, prices of hardware, software, and media carriers are dropping rapidly, while prospects for new equipment are expanding. It is almost ridiculous to compare the price of a PC with a 486 processor in 1991 with that of a PC equipped with the latest generation processor in 1997. The price of hardware is halved about every 18 months.</p>
+<p>That said, the total outlay has been high. During the project’s main phase (1986-1992), the three institutions allocated, in equal shares, one billion pesetas (more than $US 6.6 million). The following two years required another 300 million ($US 2 million). This cost covered:</p>
+<ul>
+<li>Research, design, and development of the system</li>
+<li>Archival work involved in document preparation</li>
+<li>Data entry (textual databases and document digitization)</li>
+<li>Hardware and software</li>
+<li>Cost of storage media (particularly optical disks)</li>
+</ul>
+<p>The largest item of expenditure has been personnel. The technical research and development group has always consisted of at least 10 people, and at times as many as 20. The project also required experts in the archival treatment of documents. Tens of staff archivists from the Archivo General de Indias, the Archivo Histórico Nacional, and the Archivo General de Simancas have collaborated on the project, along with various groups of contract personnel with greater specialization and experience in such work. Finally, the project required data entry staff. They were needed first for the creation of the textual or descriptive database, with a group of seven operators working in Madrid for four years and another team of five in Seville. Then they were needed for the digitization of documents, with a team of as many as 32 operators in 1991 and 1992.</p>
+<p>The cost of hardware and software has also been high but has decreased over time, accounting for an ever-smaller share of the whole. And the cost of storage media has been considerable.</p>
+<p>With regard to costs, the following observations can be made:</p>
+<ul>
+<li>The important initial work of system research, design, and development drew on experience gained in other archives and in other projects. It represents a significant and, at least from the cultural standpoint, profitable “long-term investment,” applicable beyond the AGI project.</li>
+<li>Since most of the archival work consisted of the usual activities in archives (organization and description of documents), it too extends beyond the digitization project per se, as does the entry of textual data.</li>
+<li>The cost of document digitization, accounting for a large percentage of total expenditures, was the most controversial item. Up to 32 employees worked together on a job that, thanks to technological progress, could now be performed with far fewer operators. But AGI would have had to wait six years to begin the work, and, as of today, would have had a scant five years of digital image use in the Reading Room. Nor would the AGI have enjoyed the other advantages of the system. If the decision had been delayed, would AGI now be certain that the time had come to do the work? Might staff not have decided to wait for new advances to allow more rapid and therefore less expensive work? It should be kept in mind that, owing to the type of documents involved and their state of conservation, automatic scanner feeding cannot be considered, which means that human intervention is inevitably a significant part of the entire process.</li>
+</ul>
+<p>More information on actual costs is provided in <a href="https://www.clir.org/pubs/reports/pub76/appendix4/">Appendix 4</a>.</p>
+<h2 id="project-results" tabindex="-1">Project Results <a class="header-anchor" href="#project-results">#</a></h2>
+<p>Project results can be summarized as follows:</p>
+<ul>
+<li>The integrated automation of all basic functions of the Archivo.</li>
+<li>The development of a unified data system containing all descriptive information following the retrospective conversion of finding aids.</li>
+<li>The replacement of consultation of original documents by a significant percentage of digitized documents, yielding benefits for conservation and access.</li>
+<li>Almost five years of continuous use of the system by researchers in the Reading Room and by the entire staff of the Archivo.</li>
+<li>Important benefits for the management and internal operation of the Archivo.</li>
+<li>Finally, a system model (hardware, software, and know-how) available for use in other archives.</li>
+</ul>
+<p>More specifically, and in accordance with the initial aims of the project, the project has yielded the following benefits for the AGI and for research.</p>
+<h3 id="conservation-benefits" tabindex="-1"><em>Conservation Benefits</em> <a class="header-anchor" href="#conservation-benefits">#</a></h3>
+<p>Although digitization does not solve all the problems of document conservation, it has greatly reduced the risk of deterioration for about a third of the Archivo’s original holdings. Over the past year, 31 percent of consultations at the AGI were done using the electronic document. Over the same period, paper copies made from the electronic document accounted for more than 38 percent of all paper reproductions delivered to researchers. It is reasonable, therefore, to state that, 31 percent of the risk of deterioration from document handling in the Reading Room and 38 percent of the risk from handling to make photocopies has been eliminated. Some of the original documents were at especially high risk because of their constant use. Between 1989 and 1992, some documents were consulted more than 40 times a year. Today, the most popular documents have all been digitized and are never handled. <a href="https://www.clir.org/pubs/reports/pub76/appendix1/">Appendix 1</a> provides further details.</p>
+<h3 id="access-benefits" tabindex="-1"><em>Access Benefits</em> <a class="header-anchor" href="#access-benefits">#</a></h3>
+<p>An analysis of consultation figures over the past few years shows that the researcher needs less time today to complete research thanks to the computerized system :</p>
+<ul>
+<li>Information access is more rapid.</li>
+<li>More information is available.</li>
+<li>Researchers complete more consultations per work session.</li>
+<li>The AGI provides more services to a broader range of users.</li>
+<li>Delivery of paper copies is much more rapid.</li>
+</ul>
+<p>See <a href="https://www.clir.org/pubs/reports/pub76/appendix2/">Appendix 2</a> for more information.</p>
+<h3 id="benefits-for-internal-operation" tabindex="-1"><em>Benefits for Internal Operation</em> <a class="header-anchor" href="#benefits-for-internal-operation">#</a></h3>
+<p>Nearly all functions of the AGI are benefiting from the computerized system :</p>
+<ul>
+<li>Information service: response to the user is much more rapid and efficient for both on-site and correspondence consultations.</li>
+<li>Organization and description of holdings: the work of description and indexation, and the preparation of new catalogs, inventories, and indices has been expedited.</li>
+<li>Management: there have been improvements in tracking research requests, monitoring reading room use, moving documents, and preparing statistics.</li>
+<li>Reproduction service: requests for copies are processed and filled much more quickly.</li>
+</ul>
+<h2 id="final-observations" tabindex="-1">Final Observations <a class="header-anchor" href="#final-observations">#</a></h2>
+<p>In its efforts of the past ten years, AGI has consistently aimed to be practical and has shown that new technologies can offer powerful tools for fulfilling the major goals of conservation and dissemination.</p>
+<ul>
+<li>The AGI has converted eleven million pages and all existing descriptive data to digital format. That information is now available for the future. It may be transformed, adapted, and used in various ways, but it is there now.</li>
+<li>The use of information and experience accumulated in Spanish archives over a period of centuries also offers guarantees for the future. The system was not created in a vacuum but drew upon the entire historical memory of several centuries of archival treatment.</li>
+<li>Technologies change, and the system will have to be updated or replaced. But in the meantime, it will have made a significant contribution in service to a rich cultural heritage.</li>
+</ul>
+<h1 id="general-bibliography" tabindex="-1">General Bibliography <a class="header-anchor" href="#general-bibliography">#</a></h1>
+<h2 id="general-references-on-the-archivo" tabindex="-1">General References on the Archivo <a class="header-anchor" href="#general-references-on-the-archivo">#</a></h2>
+<p>Gonzàlez García, Pedro, ed. <em>Archivo General de Indias</em> (Madrid: Ministerio de Cultura, Lunwerg Editores, 1995).</p>
+<p>Gonzàlez García, Pedro, ed. <em>Discovering the Americas: The Archive of the Indies</em> (Madrid: Ministerio de Educación y Cultura, Lunwerg Editores, 1997).</p>
+<p>Peña y Cámara, José María de la. <em>Archivo General de Indias de Sevilla. Guía del Visitante</em> (Valencia: Dirección General de Archives y Bibliotecas, 1958).</p>
+<h2 id="the-agi-s-origin-and-ordinances" tabindex="-1">The AGI’s Origin and Ordinances <a class="header-anchor" href="#the-agi-s-origin-and-ordinances">#</a></h2>
+<p>Ballesteros Beretta, Manuel. “Don Juan Bautista Muñoz, dos Facetas Scientíficas” [Don Juan Bautista Muñoz, Two Scientific Aspects]. <em>Revista de Indias</em>, no. 3 (1941): 5-37.</p>
+<p>Ballesteros Beretta, Manuel. “Juan Bautista Muñoz: La Creación del Archivo de Indias” [Juan Bautista Muñoz: Establishment of the Archivo de Indias]. <em>Revista de Indias</em>, no. 4 (1941): 55-95.</p>
+<p>Ballesteros Beretta, Manuel. “D. Juan Bautista Muñoz: La Historia del Nuevo Mundo” [D. Juan Bautista Muñoz: History of the New World]. <em>Revista de Indias</em>, no. 10 (1942): 589-660.</p>
+<p>Gómez, Gómez, Margarita. <em>Fundación y Ordenanzas del Archivo General de Indias: Su Significación en la Política Archivística Española</em> [Foundation and Ordinances of the AGI: Its Role in Spanish Archival Policy]. (Seville: Universidad de Sevilla, 1993). (Microfiche).</p>
+<p>Gómez, Gómez, Margarita. “El Archivo General de Indias. Génesis Histróica de sus Ordenanzas” [The AGI: Historical Origin of its Ordinances]. In <em>Ordenanzas del Archivo General de Indias</em> [Ordinances of the AGI]. Facsimile edition and preliminary studies (Seville, 1986), 53-120.</p>
+<p>Muro Orejón, Antonio. “Juan Bautista Muñoz: Las Fuentes Bibliográficas de la Historia del Nuevo Mundo” [Juan Bautista Muñoz: Bibliographic Sources of New World History]. <em>Anuario de Estudios Americanos</em> 10 (1953): 265-337.</p>
+<p>Romero Tallafigo, Manuel. “La Fundación del Archivo General de Indias” [The Founding of the AGI]. In <em>Archivo General de Indias</em>, ed. Pedro González García (Madrid: Ministerio de Cultura, Lunwerg Editores, 1995), 33-52.</p>
+<p>Serrera, Ramón María. “Manuel José de Ayala: Un Colaborador Decisivo en el Proyecto Historiográfico de Juan Bautista Muñoz” [Manuel José de Ayala: A Leading Collaborator in the Historiographic Project of Juan Bautista Muñoz]. In <em>Documentación y Archivos de la Colonización Española</em> Vol. 2 (Madrid: Ministerio de Cultura, 1980): 253-263.</p>
+<p>Solano, Francisco de. “José de Gálvez. Fundador del Archivo de Indias” [José de Gálvez: Founder of the AGI]. In <em>Ordenanzas del Archivo General de Indias</em>. Facsimile edition and preliminary studies (Seville, 1986), 7-52.</p>
+<h2 id="general-references-on-the-computerization-project" tabindex="-1">General References on the Computerization Project <a class="header-anchor" href="#general-references-on-the-computerization-project">#</a></h2>
+<p>González García, Pedro. “Historical Documentation and Digital Conversion of Images at the Proyecto de Informatización of the Archivo General de Indias, Sevilla.” <em>Microform Review</em> 18, no. 4 (1989): 217-21.</p>
+<p>González García, Pedro. “Computerization Project for the Archivo General de Indias.” In <em>International Conference: Archiving and Disseminating Historical Machine-readable Data</em> (Leiden, Netherlands, 1992).</p>
+<p>González García, Pedro. “Novas Tecnologias no Arquivo Geral das Indias” [New Technologies at the AGI]. <em>Acervo, Revista do Arquivo Nacional de Rio de Janeiro</em> 7, nos. 1-2 (1994): 75-89.</p>
+<p>González García, Pedro. “Proyecto de Informatización del Archivo General de Indias” [The Computerization Project of the AGI]. In <em>Actas del II Congreso Iberoamericano de Informtica y Documentación. Mar del Plata (Argentina, 1988)</em> (Madrid: Centro Regional para la Enseñanza de la Informática, 1989), 409-12.</p>
+<p>González García, Pedro. “Proyecto de Informatización del Archivo General de Indias” [The Computerization Project of the AGI]. In <em>Actas de las I Jornadas de Archivística de Euskadi</em>, 1990. IRARGI no. 3 (Vitoria, Spain: IRARGI, 1990): 261-81.</p>
+<p>González García, Pedro. “El Archivo General de Indias y su Proyecto de Informatización. Nuevas Posibilidades Para la Investigación” [The AGI and its Computerization Project. New Research Possibilities]. <em>Cuadernos de Historia Moderna</em> no. 15 (1994): 231-49.</p>
+<p>González García, Pedro. “Archivos y Nuevas Tecnologías: Perspectivas Para la Investigación” [Archives and New Technologies: Research Prospects]. In <em>Actas de las Jornadas Archivos e Investigación</em> (Murcia, 1991) (Murcia, 1996), 163-80.</p>
+<p>Oddos, Jean-Paul. “La Numérisation des Archives Générales des Indes á Séville” [Digitization of the AGI in Seville]. <em>Bulletin de la Bibliothéque de France</em> 39, no. 4 (1994): 82-86.</p>
+<p>Rütimann, Hans, and Stuart Lynn. <em>Computerization Project for the Archivo General de Indias, Seville, Spain. A Report to the Commission on Preservation and Access</em> (Washington, DC: Commission on Preservation and Access, 1992).</p>
+<p>Vázquez de Parga, Margarita, and Pedro González García. “Changing Technologies in European Archives.” <em>American Archivist</em> 55 (1992): 156-65.</p>
+<h2 id="on-research-conducted-to-develop-image-enhancement-tools-to-improve-document-legibility-see" tabindex="-1">On research conducted to develop image-enhancement tools to improve document legibility, see: <a class="header-anchor" href="#on-research-conducted-to-develop-image-enhancement-tools-to-improve-document-legibility-see">#</a></h2>
+<p>Bescós Ramón, Julián. “Image Processing Algorithms for Readability Enhancement of Old Manuscripts.” In <em>Electronic Imaging 89</em>, vol. 1 (Pasadena, 1989): 392-97.</p>
+<p>Bescós Ramón, Julián, Francisco Jaque, and Luis Montoto. “Reflectance and Optical Contrast of Old Manuscripts: Wavelength Dependence.” <em>Scanning Imaging</em> Vol. 1,028 (Society of Photo-optical Instrumentation Engineers [SPIE], 1989): 258-62.</p>
+<p>Bescós Ramón, Julián, Juan Pedro Secilla, and Juan Navarro. “Filtering and Compression of Old Manuscripts by Adaptive Processing Techniques.” <em>Proceedings of the Society for Information Display International Symposium 1990</em> (Las Vegas: Society for Information Display, 1990): 384-87.</p>
+<p>Bescós Ramón, Julián, Juan Navarro, and Carlos Ramón. “Mejora de Legibilidad de Documentos Antiguos Mediante Tratamiento Digital de Imágenes” [Enhancing Readability of Old Documents through Digital Image Treatment]. <em>IV Simposium Nacional de Reconocimiento de Formas y Análisis de Imágenes</em> [Proceedings of Fourth National Symposium on Form Recognition and Image Analysis] (Granada: Sociedad Española de Reconocimiento de Formas y Análisis de Imágenes, 1990): 51-58.</p>
+<h1 id="appendix-1-analysis-of-conservation-results" tabindex="-1">APPENDIX 1: Analysis of Conservation Results <a class="header-anchor" href="#appendix-1-analysis-of-conservation-results">#</a></h1>
+<hr>
+<h2 id="use-of-computerized-system" tabindex="-1"><em>Use of Computerized System</em> <a class="header-anchor" href="#use-of-computerized-system">#</a></h2>
+<p>Since 1993, when the system became fully operative at the Archivo, its use has expanded steadily, as shown in Table 1, which compares the following factors for 1993-97:</p>
+<ul>
+<li>Digital image copies as a percentage of total paper reproductions delivered.</li>
+<li>On-screen document consultation as a percentage of total researcher work sessions.</li>
+<li>Both services are compared with the percentage of documents digitized vis-à-vis total existing documents.</li>
+</ul>
+<p><img src="/assets/images/reports/pub76/table1_57d70f8006a3a.gif" alt="Table 1" title="table1.gif"></p>
+<p><strong>Table 1.</strong> <em>Percentages of consultation and paper reproduction directly through the computerized system as compared with total percentage of digitized documents.</em></p>
+<h2 id="data-provenance" tabindex="-1"><em>Data Provenance</em> <a class="header-anchor" href="#data-provenance">#</a></h2>
+<p>Data used in the comparison were taken from two reports, “periodic movement of documents” and “services summary,” derived from the system’s user-management module:</p>
+<ul>
+<li>
+<p>The first report provides, among other data, the number of visits or work sessions specifically dedicated to consulting original or digitized documents over a given period.</p>
+<p>The total figures were:</p>
+<table class="table">
+  <thead>
+    <tr>
+      <th colspan="2">Original Consultation</th>
+      <th colspan="2">Digital Consultation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1993</td>
+        <td>9,649</td>
+        <td></td>
+        <td>2,706</td>
+    </tr>
+    <tr>
+    <td>1994</td>
+    <td>7,711</td>
+    <td></td>
+    <td>2,893</td>
+    </tr>
+    <tr>
+    <td>1995</td>
+    <td>6,758</td>
+    <td></td>
+    <td>2,757</td>
+    </tr>
+    <tr>
+    <td>1996</td>
+    <td>6,474</td>
+    <td></td>
+    <td>2,771</td>
+    </tr>
+    <tr>
+    <td>1997 (5 months)</td>
+    <td>2,748</td>
+    <td></td>
+    <td>1,245</td>
+    </tr>
+  </tbody>
+</table>
+</li>
+<li>
+<p>Data on paper copies were obtained from another report, “service summary,” derived from the user-management module. No comparison with microfilm use has been made because those figures were skewed by other circumstances, particularly the availability of AGI staff. Consequently, only the figures from paper copies-digitized images versus photocopies-have been compared.</p>
+</li>
+</ul>
+<table class="table">
+    <tbody>
+    <tr>
+    <td></td>
+    <td><i>Photocopies</i></td>
+    <td></td>
+    <td><i>Digital Images</i></td>
+    </tr>
+    <tr>
+    <td>1993</td>
+    <td>143,201</td>
+    <td></td>
+    <td>53,906</td>
+    </tr>
+    <tr>
+    <td>1994</td>
+    <td>164,424</td>
+    <td></td>
+    <td>78,562</td>
+    </tr>
+    <tr>
+    <td>1995</td>
+    <td>131,842</td>
+    <td></td>
+    <td>54,364</td>
+    </tr>
+    <tr>
+    <td>1996</td>
+    <td>148,760</td>
+    <td></td>
+    <td>82,819</td>
+    </tr>
+    <tr>
+    <td>1997 (5 months)</td>
+    <td>64,774</td>
+    <td></td>
+    <td>41,041</td>
+    </tr>
+    </tbody>
+</table>
+<h2 id="conclusion" tabindex="-1"><em>Conclusion</em> <a class="header-anchor" href="#conclusion">#</a></h2>
+<p>Even though only 12 percent of all documents available at the AGI are in digital form, these documents account for about one-third of all service provided by the Archivo. This means that about one-third of the risk of document deterioration through consultations and paper reproduction has been eliminated.</p>
+<h1 id="appendix-2-analysis-of-consultation-results" tabindex="-1">APPENDIX 2: Analysis of Consultation Results <a class="header-anchor" href="#appendix-2-analysis-of-consultation-results">#</a></h1>
+<p>For researchers, the system’s advantages are clear, although researchers themselves may be unaware of them. They may even be annoyed by surrendering the almost “fetishist” pleasure of touching the document. Still, the increased speed of work offsets that loss. We can unequivocally say that today’s researchers require less time to do their work.</p>
+<p>To illustrate this, we can look at consultation statistics in the Archivo General de Indias from 1989 to the end of 1996. Earlier years cannot be used since the system of recording consultation data then differed from the one employed after the first version of the user-management module was implemented in mid-1988. In addition, 1997 was eliminated because the analysis began before the year’s end, and it was not possible to extrapolate data because the number and frequency of researchers’ visits vary with the time of year and school schedule.</p>
+<h2 id="increase-in-number-of-archivo-researchers" tabindex="-1"><em>Increase in Number of Archivo Researchers</em> <a class="header-anchor" href="#increase-in-number-of-archivo-researchers">#</a></h2>
+<p><img src="/assets/images/reports/pub76/table2_57d70f8007d34.gif" alt="Table 2" title="table2.gif"></p>
+<p><strong>Table 2.</strong> <em>Researchers visiting the Archivo in recent years</em></p>
+<p>The most obvious feature of Table 2 is the overall steady increase since 1990 in the number of different researchers visiting the AGI. The “spike” in researchers in 1991 can be explained by the series of celebrations held in 1992. Many research projects were being completed in 1991 in preparation for the celebrations, while for much of 1992 it became very expensive to stay in Seville because of Expo 92.</p>
+<h2 id="fewer-reading-room-work-sessions" tabindex="-1"><em>Fewer Reading Room Work Sessions</em> <a class="header-anchor" href="#fewer-reading-room-work-sessions">#</a></h2>
+<p>In contrast, Table 3 shows a steady drop in the number of work sessions held each year by researchers at the AGI.</p>
+<p><img src="/assets/images/reports/pub76/table3_57d70f8007e72.gif" alt="Table 3" title="table3.gif"></p>
+<p><strong>Table 3.</strong> <em>Total number of AGI researcher work sessions in recent years</em></p>
+<h2 id="increase-in-number-of-consultations-day" tabindex="-1"><em>Increase in Number of Consultations/Day</em> <a class="header-anchor" href="#increase-in-number-of-consultations-day">#</a></h2>
+<p>This period also registered an increase in the average number of consultations by each researcher during a work session and a sharp drop in the number of sessions worked by each in the AGI. In the years before computerization, the average number of consultations per researcher and per day was just over two. As of 1993, however, it was more than three, with four-and-a-half consultations a day recorded in 1996 and 1997. See Table 4, based on the results of dividing the number of total consultations each year by the number of visits or work sessions.</p>
+<p><img src="/assets/images/reports/pub76/table4.gif" alt="Table 4" title="table4.gif"></p>
+<p><strong>Table 4.</strong> <em>Average consultations per researcher per work session</em></p>
+<h2 id="fewer-work-sessions-per-researcher" tabindex="-1"><em>Fewer Work Sessions per Researcher</em> <a class="header-anchor" href="#fewer-work-sessions-per-researcher">#</a></h2>
+<p>Other data show that the researcher spent much less time on average working in the AGI. Table 5 shows the progressive decline in recent years in the number of work sessions averaged by each researcher. The curve is extremely significant: work sessions per researcher dropped to fewer than half between 1992, the last year of manual consultation, and 1996, and no other reasons have been found to account for that decline. Hours of operation have remained the same and the number of reproductions delivered at the request of researchers has not risen much, yet the number of individual researchers visiting the Archivo has increased considerably.</p>
+<p><img src="/assets/images/reports/pub76/table5_57d70f800802d.gif" alt="Table 5" title="table5.gif"></p>
+<p><strong>Table 5.</strong> <em>Average work sessions or visits per researcher and year</em></p>
+<h2 id="conclusions-1" tabindex="-1"><em>Conclusions</em> <a class="header-anchor" href="#conclusions-1">#</a></h2>
+<p>The conclusions that can be drawn from the tables relate to the greater facility for research offered by the system : more individual researchers visit the Archivo, and yet there are fewer work sessions. Why? Because in each work session the researcher has access to more information and can consult more documents. These advantages can be analyzed in two areas: ease of finding documents and the ability to consult many on-screen.</p>
+<ul>
+<li>In the first instance, the information search is more rapid using the computerized system than using printed finding aids. The new system furnishes tools for easier, more rapid retrieval of data and much faster location of the original documents needed for consultation.</li>
+<li>The best tools are made available to researchers, and more information is provided to users today than was possible with the original finding aids, so information is not only easier to retrieve, but there is also more information available for locating documents.</li>
+<li>It takes only one or two minutes to obtain a requested document on-screen, while it can take several to retrieve the original from stacks and deliver it to the Reading Room.</li>
+<li>Even if the researcher should decide to request a paper copy for subsequent consultation, service is still faster. While photocopies can be delivered to the AGI within one to several weeks, digital images are usually delivered the day following a request, or even the same day if service fee payments are expedited.</li>
+</ul>
+<p>In summary, there are two key advantages of the system for consultation. First, researchers need much less time for their work. Second, while more researchers visit the Archivo, they schedule fewer work sessions because they need less time for their research. Consequently, the Reading Room is less crowded.</p>
+<h1 id="appendix-3-supplemental-digitization-of-documents-from-other-archives-analysis-of-results" tabindex="-1">APPENDIX 3: “Supplemental” Digitization of Documents from Other Archives-Analysis of Results <a class="header-anchor" href="#appendix-3-supplemental-digitization-of-documents-from-other-archives-analysis-of-results">#</a></h1>
+<p>As noted in the section on selection, the body of digitized documents include a sizable group of papers from the Archivo Histórico Nacional (AHN) and the Archivo General de Simancas (AGS). This is supplemental documentation concerning the administration of overseas territories, which, for one reason or another, failed to reach the Archivo General de Indias as ordered by King Carlos III<a href="#1">1</a>.</p>
+<p>There were two main reasons for the decision to digitize these supplemental holdings as part of the AGI project. The first relates to King Carlos’ III original desire to bring together all materials “referring to the Indies.” In this connection, the completed operation has been of significant value, difficult to quantify but tracing an interesting path for the “reconstruction of the archival heritage.”<a href="#2">2</a></p>
+<p>The second aim of this operation has not yet been fully met. It was to incorporate other archival centers into the digitization process from the beginning, making two digital copies of the same papers (one for the AGI and the other for the archive holding the documents). As observed earlier in this report, the Ministry of Culture viewed computerization of the AGI as a pilot project for computerizing the other state historical archives.</p>
+<p>Were these goals fulfilled? Only partially. The objective of supplementing AGI resources to make it, as King Carlos III had wished, an authentic “general archive” for papers about the Indies has been largely met by incorporating 2,189 new bundles in digital form.</p>
+<p>But the aim of incorporating other major Spanish archival centers (particularly the AHN and the AGS) within the mainstream of new technologies has been only marginally accomplished (for example, the bundles digitized are not yet consulted in their own Reading Rooms).</p>
+<p>What have been the results in terms of dissemination and conservation? Limited, because the holding from other archives appear to be of less interest to AGI researchers. Table 6 shows that digitized documentation from the Archivo Histórico Nacional and Archivo General de Simancas is very seldom consulted in the AGI. It accounts for less than 10 percent of total consultations by means of digital image, even though it represents more than 40 percent (see Table 7) of the total documents digitized.</p>
+<p>These tables were based on the following data:</p>
+<ul>
+<li>The Archivo General de Indias currently consists of 43,209 bundles of documents, of which 3,210-or 7.43 percent of the entire Archivo-have been digitized.</li>
+<li>In addition, another 2,189 bundles from other centers (Archivo Histórico Nacional and Archivo General de Simancas) have been digitized (supplemental digitization).</li>
+<li>Adding the total figures for bundles (43,209 and 2,189 = 45,398) and comparing them with the bundles digitized (3,210 and 2,189 = 5,399), we can estimate that 11.89 percent of the total holdings of the three archives have been digitized. This 11.89 percent is serving 31.16 percent of the consultations in 1997, an excellent result.</li>
+<li>Of the total bundles digitized, those from the AGI account for 59 percent, while those from the AHN represent 31 percent and, from the AGS, 10 percent. In other words, the AGI has processed 59 percent as compared with 41 percent for the other two archives.</li>
+<li>However, the portion of documents from AHN and AGS consulted through the system in recent years has been only 6.04 percent.</li>
+</ul>
+<p>This makes an important point regarding selection for digitization. Decisions about which of AGI’ holdings should be digitized were based on an analysis of their use. This was not the case with documents from AHN or AGS. This drastically affects the results of system “use.” What might the results have been for consultation and conservation is such material had not been incorporated into the digitization process?</p>
+<p><img src="/assets/images/reports/pub76/table6.gif" alt="Table 6" title="table6.gif"></p>
+<p><strong>Table 6.</strong> <em>Consultations in the AGI Reading Room of digitized documents from the Archivo General de Indias, Archivo Histórico Nacional, and Archivo General de Simancas</em></p>
+<p><img src="/assets/images/reports/pub76/table7.gif" alt="Table 7" title="table7.gif"></p>
+<p><strong>Table 7.</strong> <em>Percentage of digitized documents by archive of origin</em></p>
+<hr>
+<h2 id="references-4" tabindex="-1">REFERENCES <a class="header-anchor" href="#references-4">#</a></h2>
+<p>1 José María de la Peña y Cámara, “Cómo y porqué dejó de ser General el Archivo General de India. Cómo puede volver a serlo.” (How and why did the Archivo General de Indias cease to be general. How it can become so again), in <em>Archivo Hispalense</em> 207 and 208 (1985): 21-40.</p>
+<p>2 See Pedro González García, “New Technology and the Reconstruction of the Archival Heritage,” in <em>Proceedings of the XXX International Conference of the Round Table on Archives</em>, Thessaloniki, 1994. (Dordrecht, The Netherlands: International Council on Archives, 1998), 125-29.</p>
+<h1 id="appendix-4-figures-for-cost-and-production" tabindex="-1">APPENDIX 4: Figures for Cost and Production <a class="header-anchor" href="#appendix-4-figures-for-cost-and-production">#</a></h1>
+<p>The conclusion of this report stated that an analysis of costs during the main phases of the project has lost much of its relevance except as a historical footnote. But it is possible to give some data about the actual cost of implementing the system in an archive, to assess whether a project can be economically viable.</p>
+<p>With this goal, we are going to analyze a typical case, including the acquisition of the necessary hardware and software and assuming production of a significant number of digital images (including document preparation, scanning, and storage).</p>
+<p>The costs are estimated for Spain. Equipment and personnel costs vary greatly among countries.</p>
+<h2 id="1-the-documents" tabindex="-1"><em>1. The Documents</em> <a class="header-anchor" href="#1-the-documents">#</a></h2>
+<p>We assume that 250 bundles of old documents (about 11,300 files or 500,000 pages) will be scanned that pertain to two different series of the AGI: Confirmaciones de Encomiendas and Confirmaciones de Oficios. These are two series of the AGI that were digitized in the project’s main phase. Their catalog is included in the information system and a paper copy also exists in the Reading Room. Preparation of the documents entails moderate difficulty.</p>
+<h2 id="2-the-work" tabindex="-1"><em>2. The Work</em> <a class="header-anchor" href="#2-the-work">#</a></h2>
+<h3 id="archival-work" tabindex="-1"><em>Archival Work</em> <a class="header-anchor" href="#archival-work">#</a></h3>
+<p>This involves the normal work of archiving: organizing, describing, indexing, placing files properly in folders, writing the call number, and so on. Description includes the cataloging of every file. Elements include title, dates, abstract, and call number. The indexing includes the extraction of the principal key words.</p>
+<p>Textual data of the new descriptions are then entered in the information system, and a “digitization guide” is prepared. Repair or conservation of documents, sometimes necessary, is not assumed in this example.</p>
+<h3 id="scanning" tabindex="-1"><em>Scanning</em> <a class="header-anchor" href="#scanning">#</a></h3>
+<p>This involves the scanning, storage and creation of backup file, and quality control by automated means.</p>
+<h2 id="3-staff-and-production-estimates" tabindex="-1"><em>3. Staff and Production Estimates</em> <a class="header-anchor" href="#3-staff-and-production-estimates">#</a></h2>
+<h3 id="archival-work-1" tabindex="-1"><em>Archival Work</em> <a class="header-anchor" href="#archival-work-1">#</a></h3>
+<p>Three full-time staff per year (archival and historical background). It is presumed that an archives expert can prepare two bundles per week (45 weeks per year x 2 bundles per week x 3 persons = 270 bundles)</p>
+<h3 id="scanning-1" tabindex="-1"><em>Scanning</em> <a class="header-anchor" href="#scanning-1">#</a></h3>
+<p>Four full-time staff per year (scanner operator). The average production is 135,000 pages per person per year (600 pages per day x 5 days a week x 45 weeks a year). This is a conservative estimate. If there is no problem with hardware and personnel, productivity will be higher.</p>
+<h2 id="4-the-equipment" tabindex="-1"><em>4. The Equipment</em> <a class="header-anchor" href="#4-the-equipment">#</a></h2>
+<p>We assume that a full set of equipment is needed. It is composed of an Ethernet local area network, with:</p>
+<ul>
+<li>One server, with CD-R and DAT tape units, laser printer, Windows NT, DB2 or Oracle, and application software (ArchiGES and ArchiDOC).</li>
+<li>One scanning workstation with Windows NT and ArchiDOC for image capture.</li>
+<li>One textual data entry workstation (valid also for consultation), with Windows NT and the corresponding application software.</li>
+<li>One consultation workstation, with the same configuration.</li>
+<li>One user-management workstation, with a printer, Windows NT, and the corresponding application software.</li>
+</ul>
+<h2 id="5-project-duration" tabindex="-1"><em>5. Project Duration</em> <a class="header-anchor" href="#5-project-duration">#</a></h2>
+<p>Preparation of documents is estimated to take one year, assuming a staff of three archivists. The level of difficulty in preparing various documents will influence the time and staffing required for preparation.</p>
+<p>The scanning process requires four years if only one camera is used, and assuming one daily shift. If there are two daily shifts, the time required for scanning will be reduced to two years.</p>
+<h2 id="6-costs" tabindex="-1"><em>6. Costs</em> <a class="header-anchor" href="#6-costs">#</a></h2>
+<table class="table">
+<tbody>
+<tr>
+<td colspan="2"><i>Personnel</i></td>
+</tr>
+<tr>
+<td>Archives experts (3)</td>
+<td>11,200,000 ptas.</td>
+</tr>
+<tr>
+<td>Scanner operators (4)</td>
+<td>10,500,000 ptas.</td>
+</tr>
+<tr>
+<td><i>Hardware</i></td>
+</tr>
+<tr>
+<td>Server (with laser printer, CD-R and DAT units)</td>
+<td>1,740,000 ptas.</td>
+</tr>
+<tr>
+<td>Digital camera</td>
+<td>2,320,000 ptas.</td>
+</tr>
+<tr>
+<td>Workstations (4)</td>
+<td>1,850,000 ptas.</td>
+</tr>
+<tr>
+<td>Media (disks, tapes, etc.)</td>
+<td>100,000 ptas.</td>
+</tr>
+<tr>
+<td><i>Basic software</i> (Windows NT and Oracle)</td>
+<td>700,000 ptas.</td>
+</tr>
+<tr>
+<td><i>Application software</i></td>
+</tr>
+<tr>
+<td>(software, installation, training, hot line, etc.)</td>
+<td>5,160,000 ptas.</td>
+</tr>
+<tr>
+<td>TOTAL</td>
+<td>33,570,000 ptas.</td>
+</tr>
+<tr>
+<td></td>
+<td>($US 223,800)</td>
+</tr>
+</tbody>
+</table>
+<p><img src="/assets/images/reports/pub76/figure4.gif" alt="Figure 4" title="figure4.gif"></p>
+<p><strong>Figure 4.</strong> <em>Example of System Configuration</em></p>
+
+</div>
+
+
+
+
+    <footer class="mt-5 pt-5">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 py-3">
+            <div class="col mb-3">
+                <a href="https://www.clir.org/" target="_blank">
+                    <img src="/archives.clir.org/assets/images/icon.png" width="80" alt="CLIR Logo" >
+                </a>
+                <p class="mt-3">
+                    <strong>Council on Library and Information Resources</strong>
+                    1800 Diagonal Road, Suite 600<br>
+                    Alexandria, VA 22314<br>
+                    <a href="mailto:contact@clir.org">contact@clir.org</a>
+                </p>
+            </div>
+            <div class="col mb-3">
+                <h2 class="fs-3">About</h2>
+                <!-- <span class="footer-separator"></span> -->
+                <p class="mt-3">CLIR is an independent, nonprofit organization that forges strategies to enhance research, teaching, and learning environments in collaboration with libraries, cultural institutions, and communities of higher learning.</p>
+                <p><a href="https://www.clir.org/privacy" target="_blank">Privacy Policy</a></p>
+            </div>
+            <div class="col mb-3">
+                <h2 class="fs-4">Stay In Touch</h2>
+                <p>Sign up for news from CLIR.</p>
+                <a target="_blank" https://share.hsforms.com/1vF5y8l0qS8mPVSllp5k8agc21y3" class="btn btn-lg btn-danger">Sign Up</a>
+
+                <h2 class="mt-4 pt-4 fs-4">Follow Us</h2>
+
+                <ul class="social-icons nav col-md-12 list-unstyled d-flex">
+                    <li class="ms-3"><a class="text-burgundy" href="https://www.facebook.com/pages/Council-on-Library-and-Information-Resources-CLIR/300100435096"><i class="bi bi-facebook circle-icon"></i></a></li>
+                    <li class="ms-3"><a class="text-burgundy" href="https://twitter.com/clirnews"><i class="bi bi-twitter circle-icon"></i></a></li>
+                    <li class="ms-3"><a class="text-burgundy"href="http://www.youtube.com/user/DLFCLIR?blend=2&ob=0"><i class="bi bi-youtube circle-icon"></i></a></li>
+                    <li class="ms-3"><a class="text-burgundy" href="https://www.linkedin.com/company/6203386/"><i class="bi bi-linkedin circle-icon"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="border-top">
+        <div class="container my-3">
+            <p class="text-end">
+                Unless otherwise indicated, content on this site is available for re-use under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">CC BY-SA 4.0 License</a>
+            </p>
+        </div>
+    </div>
+</footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script><script src="/archives.clir.org/assets/js/main.js"></script>
+</body>
+</html>

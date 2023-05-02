@@ -1,5 +1,0 @@
-{% assign latest = site.reports | last %}
-{%- assign thumbnail = latest.clir_id | append: '.png' -%}
-<a href="{{ latest.url | relative_url }}">
-    <img src="{{ thumbnail | prepend: '/assets/images/reports/' | relative_url }}" alt="{{ latest.title }}" class="{{ include.class }}" loading="lazy">
-</a>

@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<!-- # see https://www.11ty.dev/docs/collections/#collection-item-data-structure # -->
+{%- assign thumbnail = clir_id | append: '.png' -%}
+{%- assign doi_link = doi | prepend: 'https://doi.org/' -%}
+
+<div class="container py-5 px-3 lh-lg" id="metadata">
+    {% if doi %}
+        <a href="{{ doi_link }}" target="_blank">
+            <img src="{{ thumbnail | prepend: '/assets/images/reports/' | url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ title}} Cover">
+        </a>
+    {% else %}
+        {% unless html_only == true %}
+        <img src="{{ thumbnail | prepend: '/assets/images/reports/' | url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ title}} Cover">
+        {% endunless %}
+    {% endif %}
+
+    <p>{{ clir_id }}. <strong>{{ title }}</strong></p>
+
+    <p>date: {{ date | readableDate }}</p>
+    <p>
+        {{ authors | join: '; '}} ({{ date | readableDate }}
+        {%- if pages %}, {{ pages }}pp.{% endif -%})
+        {% if isbn %} ISBN: {{ isbn }}.{% endif %} 
+        
+    </p>
+    {% if doi %}
+    <p>
+        <a href="{{ doi_link }}" target="_blank">
+            <img src="https://zenodo.org/badge/DOI/{{ doi }}.svg" alt="DOI">
+        </a>
+    </p>
+    {% endif %}
+        
+    {{ description | markdownify }}
+
+    {% if doi %}
+    <p class="pt-3">
+        <a target="_blank" class="btn btn-primary" href="{{ doi_link }}">View</a>
+    </p>
+    {% endif %}
+    {% if ia_path %}
+    <p>
+        <a target="_blank" class="btn btn-success bt-lg" href="https://web.archive.org/web/https://www.clir.org/pubs/reports/{{ ia_path }}">
+            Internet Archive Full Text 
+        </a>
+    </p>
+    {% endif %}
+
+</div>
+
+{% if content %}
+<div class="container border-top py-5">
+    {{ content }}
+</div>
+{% endif %}
+
+{% if license %}
+<div class="container pb-4">
+    <p>
+        <strong>{{ title }}</strong> is licensed under {% include 'licence_map.html' %}.
+    </p>
+</div>
+{% endif %}
