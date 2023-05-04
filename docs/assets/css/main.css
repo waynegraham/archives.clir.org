@@ -65,6 +65,17 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+a.header-anchor {
+  text-decoration: none;
+}
+a.header-anchor:hover {
+  text-decoration: underline;
+}
+
+p {
+  line-height: 2rem;
+}
+
 .img-thumbnail {
   max-height: 300px;
 }

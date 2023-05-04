@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
     console.log(search);
   
-    fetch('/11ty-tutorial/assets/js/search.json')
+    fetch('/archives.clir.org/assets/js/search.json')
       .then(response => response.json())
       .then(data_server => {
         data = data_server;

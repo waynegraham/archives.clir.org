@@ -3,7 +3,7 @@ title: Archives
 layout: page
 ---
 
-## [Articles, Papers, Presentations, and Proceedings]({{ 'resources/articles' }})
+## [Articles, Papers, Presentations, and Proceedings]({{ '/resources/articles' | url }})
 Articles and papers pertaining to CLIR’s agenda; presentations and proceedings from CLIR-sponsored meetings.
 
 ## CLIRinghouse

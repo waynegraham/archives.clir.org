@@ -78,6 +78,7 @@ module.exports = (eleventyConfig) => {
 				placement: "after",
 				class: "header-anchor",
 				symbol: "#",
+				// symbol: "\uF470", // need to load bootstrap icons in js
 				ariaHidden: false,
 			}),
 			level: [1,2,3,4],
