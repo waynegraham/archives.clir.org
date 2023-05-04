@@ -24,6 +24,7 @@ Among the groups seeking to meet the challenge of access management are the Digi
 <body>
     <button type="button" class="btn btn-danger btn-floating btn-lg" id="btn-back-to-top">
         <i class="bi bi-chevron-up"></i>
+        <span class="visually-hidden-focusable">Back to Top</span>
     </button>
 
     <div class="container">
@@ -41,7 +42,18 @@ Among the groups seeking to meet the challenge of access management are the Digi
           </ul>
           
 
+<form method="get" id="search" action="/archives.clir.org/search/" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+    <div class="input-group">
+    <input class="form-control mr-sm-2" id="search-box" type="text" placeholder="Search" name="q" aria-label="Search" aria-described-by="search-button">
+    <button id="search-button" aria-label="Search button" type="submit" class="btn btn-danger">
+        <i class="bi bi-search"></i>
+    </button>
+    </div>
+</form>
 
+<div class="list-group" id="results"></div>
+
+<script defer type="text/javascript" src="/archives.clir.org/assets/js/search.js"></script>
         </div>
       </div>
     </header>

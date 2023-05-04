@@ -1,0 +1,9 @@
+---
+
+---
+RewriteEngine On
+<pre>
+{%- for redirect in redirects %}
+Redirect Temporary {{ redirect.current_url }} {{ redirect.new_url }} 
+{%- endfor %}
+</pre>

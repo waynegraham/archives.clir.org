@@ -1,0 +1,1898 @@
+[
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub5/",
+		"new_url": "http://localhost:4000/reports/pub005/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2020/07/Pub-5-Lesk.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7750364"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub5/ogden/",
+		"new_url": "http://localhost:4000/reports/pub005.html#on-the-preservation-of-books-and-documents-in-original-form"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub5/select/",
+		"new_url": "http://localhost:4000/reports/pub005.html#selection-for-preservation-of-research-library-materials"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isoperm/",
+		"new_url": "http://localhost:4000/reports/pub0046"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isop-int/",
+		"new_url": "http://localhost:4000/reports/pub046/#introduction"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isop-bas/",
+		"new_url": "http://localhost:4000/reports/pub046/#scientific-basis"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isop-rh/",
+		"new_url": "http://localhost:4000/reports/pub046/#effect-of-relative-humidity"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isoperms-temperature/",
+		"new_url": "http://localhost:4000/reports/pub046/#effect-of-temperature"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isop-com/",
+		"new_url": "http://localhost:4000/reports/pub046/#combined-effects-of-t-and--rh"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isop-app/",
+		"new_url": "http://localhost:4000/reports/pub046/#applications-of--rh-vs-t-isoperm-diagrams"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isop-num/",
+		"new_url": "http://localhost:4000/reports/pub046/#numerical-values-of-isoperms"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/isoperm/isop-sum/",
+		"new_url": "http://localhost:4000/reports/pub046/#readings-and-references"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/conway/conway/",
+		"new_url": "http://localhost:4000/reports/pub047/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub48-1/",
+		"new_url": "https://www.clir.org/pubs/reports/pub048"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub48/",
+		"new_url": "https://www.clir.org/pubs/reports/pub048"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub48.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7750640"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub50/",
+		"new_url": "http://localhost:4000/reports/pub050/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub50.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7750616"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub51/",
+		"new_url": "http://localhost:4000/reports/pub051/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub51.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7750633"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub52",
+		"new_url": "http://localhost:4000/reports/pub052/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub52.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7750640"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub53/",
+		"new_url": "http://localhost:4000/reports/pub053/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub53.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7750684"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/",
+		"new_url": "http://localhost:4000/reports/pub054/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2017/02/pub54.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7750688"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/index/",
+		"new_url": "http://localhost:4000/reports/pub054/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/copyright/",
+		"new_url": "http://localhost:4000/reports/pub054/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/preface/",
+		"new_url": "http://localhost:4000/reports/pub054/#preface"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/acknowledgements/",
+		"new_url": "http://localhost:4000/reports/pub054/#authors-acknowledgments"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/1introduction/",
+		"new_url": "http://localhost:4000/reports/pub054/#introduction"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/2what_wrong/",
+		"new_url": "http://localhost:4000/reports/pub054/#what-can-go-wrong-with-magnetic-media"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/3prevent_loss/",
+		"new_url": "http://localhost:4000/reports/pub054/#3-preventing-information-loss-multiple-tape-copies"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/4life_expectancy/",
+		"new_url": "http://localhost:4000/reports/pub054/#4-life-expectancy-how-long-will-magnetic-media-last"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/5premature_degrade/",
+		"new_url": "http://localhost:4000/reports/pub054/#5-how-can-you-prevent-magnetic-tape-from-degrading-prematurely"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/care_and_handling/",
+		"new_url": "http://localhost:4000/reports/pub054/#appendix-1-ampex-guide-to-the-care-and-handling-of-magnetic-tape"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/estimation_of_les/",
+		"new_url": "http://localhost:4000/reports/pub054/#appendix-2-estimation-of-magnetic-tape-life-expectancies-les"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/further_reading/",
+		"new_url": "http://localhost:4000/reports/pub054/#appendix-3-further-reading"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/recovery_resources/",
+		"new_url": "http://localhost:4000/reports/pub054/#resources-for-transfer-and-restoration-of-video-and-audio-tape-2"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub54/glossary/",
+		"new_url": "http://localhost:4000/reports/pub054/#appendix-5-glossary"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub56/",
+		"new_url": "http://localhost:4000/reports/pub056/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub56.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7752588"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub57/",
+		"new_url": "http://localhost:4000/reports/pub057/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub57.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7752597"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub58/",
+		"new_url": "http://localhost:4000/reports/pub058/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub58.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7752611"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub59/",
+		"new_url": "http://localhost:4000/reports/pub059/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub59.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7752646"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub60/",
+		"new_url": "http://localhost:4000/reports/pub060/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub60.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7752657"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/",
+		"new_url": "http://localhost:4000/reports/pub061/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/mccllong/",
+		"new_url": "http://localhost:4000/reports/pub061/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/fm/foreward/",
+		"new_url": "http://localhost:4000/reports/pub061/#foreword"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/fm/preface/",
+		"new_url": "http://localhost:4000/reports/pub061/#preface"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/fm/context/",
+		"new_url": "http://localhost:4000/reports/pub061/#context"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/fm/intro2/",
+		"new_url": "http://localhost:4000/reports/pub061/#cpaclr-inventory"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/fm/intro3/",
+		"new_url": "http://localhost:4000/reports/pub061/#the-data"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/mcclung/fm/intro4/",
+		"new_url": "http://localhost:4000/reports/pub061/#finding-out-about-digitized-collections"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/conway2/index/",
+		"new_url": "http://localhost:4000/reports/pub062/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub63/",
+		"new_url": "http://localhost:4000/reports/pub063/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub63watersgarrett.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7753121"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub64/",
+		"new_url": "http://localhost:4000/reports/pub064/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub64.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7753147"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub65/",
+		"new_url": "http://localhost:4000/reports/pub065/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub65.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7753652"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub67/",
+		"new_url": "http://localhost:4000/reports/pub067/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub68/",
+		"new_url": "http://localhost:4000/reports/pub068/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub68.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7753705"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/henchy/pub70/",
+		"new_url": "http://localhost:4000/reports/pub070"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/ostrow/pub71/",
+		"new_url": "http://localhost:4000/reports/pub071/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub72/",
+		"new_url": "http://localhost:4000/reports/pub072/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/case/",
+		"new_url": "http://localhost:4000/reports/pub073/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/case/contents/",
+		"new_url": "http://localhost:4000/reports/pub073/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/case/intro/",
+		"new_url": "http://localhost:4000/reports/pub073/#introduction-to-the-public-libraries-communities-and-technology-project"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/case/analysis/",
+		"new_url": "http://localhost:4000/reports/pub073/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/hazen/pub74/",
+		"new_url": "http://localhost:4000/reports/pub074/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub75/",
+		"new_url": "http://localhost:4000/reports/pub075/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/",
+		"new_url": "http://localhost:4000/reports/pub076"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/contents/",
+		"new_url": "http://localhost:4000/reports/pub076"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/foreword/",
+		"new_url": "http://localhost:4000/reports/pub076/#foreword"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/introduction/",
+		"new_url": "http://localhost:4000/reports/pub076/#introduction"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/background/",
+		"new_url": "http://localhost:4000/reports/pub076/#background"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/objectives/",
+		"new_url": "http://localhost:4000/reports/pub076/#project-objectives"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/architecture/",
+		"new_url": "http://localhost:4000/reports/pub076/#general-system-architecture"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/information/",
+		"new_url": "http://localhost:4000/reports/pub076/#information-and-reference-subsystem"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/digital/",
+		"new_url": "http://localhost:4000/reports/pub076/#digital-imagestorage-system"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/technical/",
+		"new_url": "http://localhost:4000/reports/pub076/#technical-aspects"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/prospects/",
+		"new_url": "http://localhost:4000/reports/pub076/#new-prospects-long-distance-access"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/conclusions/",
+		"new_url": "http://localhost:4000/reports/pub076/#conclusions"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/bibliography/",
+		"new_url": "http://localhost:4000/reports/pub076/#general-bibliography"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/appendix1/",
+		"new_url": "http://localhost:4000/reports/pub076/#appendix-1-analysis-of-conservation-results"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/appendix2/",
+		"new_url": "http://localhost:4000/reports/pub076/#appendix-2-analysis-of-consultation-results"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/appendix3/",
+		"new_url": "http://localhost:4000/reports/pub076/#appendix-3-supplemental-digitization-of-documents-from-other-archives-analysis-of-results"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub76/appendix4/",
+		"new_url": "http://localhost:4000/reports/pub076/#appendix-4-figures-for-cost-and-production"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub77.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7754010"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/contents/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/preface/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/introduction/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/scope/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/inadequacy/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/criteria/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/research/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/rothenberg/references/",
+		"new_url": "http://localhost:4000/reports/pub077/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub78.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7756532"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/preface/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#preface"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/synthesis",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#synthesis-of-proceedings"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/summaries/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#summaries-of-task-force-meetings"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/area/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#area-studies-task-force"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/audio/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#audio-materials-task-force"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/manuscript/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#manuscript-materials-task-force"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/monographs/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#monographs-and-journals-task-force"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/visual/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#visual-materials-task-force"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/plenary/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#summary-of-plenary-meeting-of-task-forces-june-30-1998"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/appendixa/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#appendix-a-task-force-participants"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/appendixb/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#appendix-b-task-force-recommendations"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/appendixc/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#appendix-c-acls-clir-program-initiatives"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub78/appendixd/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub078/#appendix-d-other-acls-clir-projects"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub79_57d70f709d4d7.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7756796"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/contents/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/summary/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/summary/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/activities/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/activities/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/invited/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/scenarios/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/acceptance/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/convenors/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/unanticipated/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/conclusions/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/appendixa/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/appendixb/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/appendixc/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub79/appendixd/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub079/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub80-smith/pub80-2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub080"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub81/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub081"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub81/pub81text/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub081"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub81.pdf",
+		"new_url": " https://doi.org/10.5281/zenodo.7757889"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub82/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub082/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub82.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7759906"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub82/fullreport/",
+		"new_url": "https://www.clir.org/pubs/reports/pub82/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub83.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7759925"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/background/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#background-and-project-description"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/data/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#the-data-track"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/documentation/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#the-documentation-track"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/findings/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#findings-and-recommendations"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/glossary/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#glossary"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/references/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#reference-list"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub96/appendix1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-1-conference-participants"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/appendix2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-2-sample-sas-input-and-recode-statements"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/appendix3/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-3-data-conversion-formats-and-storage-requirements"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/appendix4/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-4-programs-to-create-spread-ascii-datasets"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/appendix5/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-5-data-map-for-column-binary-spread-data"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/appendix6a/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-6"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/appendix6b/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-6"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/appendix6c/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#appendix-6"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/supplementary/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#preserving-the-whole-supplementary-materials"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/edited_version.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7760040"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/unedited_version.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7760040"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/image_only.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7760040"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/unedited_version_only.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7760040"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/200x200/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#200200html"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/300x300/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#300x300html"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/400x400/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#400400html"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub83/600x600/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub083/#600600html"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub84/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub084/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub84.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7760115"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub85/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub085/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub85.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7760137"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub86.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7764826"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/contents/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/introduction/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/blueprint1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/blueprint2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/lessons/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub127/conclusion/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/appendix1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/appendix2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub86/appendix3/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub086/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub87/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub87/contents/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub87/executive/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub87/part1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub87/part2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub103/part3/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub87/appendix/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub87/references/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub087/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub88.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7764925"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/contents/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/culture/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/technology/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/tech-response/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/audience/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/aud-response/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/collections/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/coll-museum/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/coll-response/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/concluding/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/next/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/appendix1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/appendix2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub88/appendix2-tables/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/contents/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/introduction/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/role/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/archival/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/utility/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/achieving/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub89/references/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub088/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub89.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7764944"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/contents/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/introduction/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/business/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/risk/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/long/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/appendix1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub90/references/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub090/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub90.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7764960"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub91/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub091/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub91.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7771949"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub92/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub092/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub92.pdf",
+		"new_url": "https://zenodo.org/badge/DOI/10.5281/zenodo.7772391"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub93/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub093/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub93.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7774826"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub94/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub094/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub94.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7774887"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub95/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub095/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub95_57d70f70b01a3.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7774896"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub96/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub096/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub96_57d70f70b0c3b.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7774920"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub97/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub097/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub97.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775411"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub98/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub098/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub98_57d70f70b208f.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775454"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub99/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub099/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub99_57d70f70b2b15.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775473"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub103/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub103/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub103_57d70f7019307.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775838"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub104/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub104/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub104_57d70f701a111.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775852"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub106/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub106/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub106.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775889"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub107/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub107/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub107.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775922"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub108/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub108/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub108_57d70f702672e.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7775941"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub110/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub110"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub110/introduction/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub110/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub111/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub111/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub111_57d70f702a0d4.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7776019"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub112/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub112/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub112_57d70f702af8b.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7778138"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub113/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub113/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub113english.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7778167"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub113spanish.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7778167"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub114/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub114/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub114.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7778368"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub115/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub115/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub115.pdf",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub115/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub116/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub116/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub116.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7778421"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub117",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub117/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub117.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7779236"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub118/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub118/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub118.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7779250"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub119/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub119/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub119.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7779268"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub120/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub120/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub120.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7779278"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub121.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7779396"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/contents/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/sec1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#1-introduction"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/sec2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#2-ensuring-that-your-digital-content-remains-available"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/sec3/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#3-disc-structure"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/sec4/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#4-how-long-can-you-store-cds-and-dvds-and-use-them-again"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/sec5/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#5-conditions-that-affect-cds-and-dvds"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/sec6/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#6-cleaning"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/append1/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#appendix-1-commercially-available-cddvd-disc-types"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/append2/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#appendix-2-optical-media-drive-types-and-how-they-handle-different-disc-types"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/glossary/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#glossary"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub121/biblio/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub121/#bibliography"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub122/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub122/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub122web.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7781225"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub123/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub123/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub123.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7781250"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub124/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub124/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub124.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7781272"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub125",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub125/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub125.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7781285"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub126/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub126/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub126.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7781345"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub127/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub127/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub127.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7781368"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub128/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub128/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub128.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7783275"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub129/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub129/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub129.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7783279"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub130/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub130/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub130.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7783296"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub130ch.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7783296"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub131/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub131/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub131.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785188"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub132/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub132/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub132.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785216"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub133/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub133/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub133_57d70f6ed2bf1.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785238"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub134/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub134/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub134col.pdf",
+		"new_url": "https://doi.org/10.5281/10.5281/zenodo.7785283"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub134grey.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785283"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub135/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub135/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub135.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785313"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub136/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub136/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub137/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub137/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub137.pdf",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub137/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub138/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub138/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub138.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785380"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub139/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub139/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub139.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785423"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/ACAall-rev.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785423"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/CLall.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785423"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/RWWLall.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785423"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub140/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub140/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub140.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7785448"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub141/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub141/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub141.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7796363"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub142/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub142/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub142.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7796368"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub142Arabic_part1.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7796368"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub142Chinese_part1.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7796368"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub143/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub143/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub143.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7796385"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub144/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub144/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub145/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub145/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub145.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7796401"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub146/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub146/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub146.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799592"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub147/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub147/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub147.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799610"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub148/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub148/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub148.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799627"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub149/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub149/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub149.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799634"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub150/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub150/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub150.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799650"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#introduction"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/dmci/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#using-zotero-and-tapor-on-the-old-bailey-proceedings-data-mining-with-criminal-intent-dmci"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/enlightenment/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#digging-into-the-enlightenment-mapping-the-republic-of-letters"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/dve/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#towards-dynamic-variorum-editions-dve"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/mining/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#mining-a-year-of-speech"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/harvesting/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#harvesting-speech-datasets-for-linguistic-research-on-the-web"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/salami/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#structural-analysis-of-large-amounts-of-music-information-salami"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/did-arq/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#digging-into-image-data-to-answer-authorship-related-questions-did-arq"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub151/case-studies/railroads/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub151/#railroads-and-the-making-of-modern-america"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub152/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub152/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/LinkedDataWorkshop.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799795"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub153/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub153/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub153.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799802"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub154/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub154/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub154.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799821"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub155/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub155/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub155.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7799833"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub156/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub156/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub156.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7802153"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub157/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub157/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub157.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7802162"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub158/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub158/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub158.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7802174"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub159/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub159/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub159.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7802189"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub160/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub160/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub160.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7802240"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub161/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub161/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub161.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7803548"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub162/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub162/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub162.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7803557"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub163/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub163/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub163.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7803577"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub164/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub164/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2015/05/ARSC-w-cover.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7803609"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub165/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub165/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub165/casestudy_msu/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub165/#case-study-montana-state-university-library-strategic-planning"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub166/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub166/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/PUB-166-9-29-1.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7803648"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub167/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub167/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pub167.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2015/09/foreword.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/about.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/history.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/pedagogy.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/survey.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/collaboration.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/expanding.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/RDM.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/trackless.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/next.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/appx1.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/appx2.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805460"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/authors.pdfhttps://doi.org/10.5281/zenodo.7805460",
+		"new_url": ""
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub168/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub168/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/11/pub168.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805495"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub169/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub169/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/msgfromeditor.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/luckoetal.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/henry.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/goldsby.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/malbinetal.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/shenetal.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/mcknightetal.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/harteral.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/addonizioetal.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/blacketal.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/piscitellietal.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Malcolm-Runge.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/spence.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/perry.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Banks-Fogel.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Tummino.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Peek.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Cariani-et-al.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/McShea.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Gustainis.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Gustainis-Letocha.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Fidler-et-al.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Gieringer-et-al.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/Greene-et-al.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/noel-conclusion.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/edson-Epilogue.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2015/11/Appendix-2.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/learningatwork.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805513"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub170/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub170/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/11/pub170.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805579"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub171/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub171/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/07/pub171.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805655"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub172/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub172/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2016/09/pub172.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805667"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub173/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub173/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2017/10/pub173.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805693"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2018/10/pub173addendum.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805693"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2020/01/MINK-NDSR-Art-Assessment-2017-2018-1.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805693"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2020/01/2019-NDSRArt-ProgramAssessment.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805693"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2020/01/2019-NDSRArt-CurriculumAssessment.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805693"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub174/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub174/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2017/10/pub174.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805875"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub175/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub175/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2018/08/CLIR-pub175.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805881"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub176/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub176/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2019/02/Pub-176.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805917"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub177/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub177/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/pub178/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub178/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2021/02/Symposium-Report-and-Recommendations_English.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805971"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2021/02/Rapport-du-Symposium-et-Recommendations_French.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805971"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2021/02/Rapo%CC%80-sou-Senpozyo%CC%80m-nan-ak-Reko%CC%80mandasyon_Haitian.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805971"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2021/02/Relato%CC%81rio-do-Simpo%CC%81sio-e-Recomendac%CC%A7o%CC%83es_Portuguese.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805971"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2021/02/Reporte-de-simposio-y-recomendaciones_Spanish.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7805971"
+	},
+	{
+		"current_url": "https://www.clir.org/curated-futures-project-a-third-library-is-possible/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub179/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/creating-access-to-hbcu-library-alliance-archives-needs-capacity-and-technical-planning/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub179/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2022/04/Creating-Access-to-HBCU-Library-Alliance-Archives.pdf",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub180/"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/accelerated-aging-of-polyester-based-legacy-audio-magnetic-tape-stock/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub181/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2022/08/Accelerated-Aging-of-Polyester-Based-Legacy-Audio-Magnetic-Tape-Stock-1.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7806067"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/supporting-software-preservation-services-in-research-and-memory-organizations/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub182/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2022/11/Supporting-Software-Preservation-Services.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7086618"
+	},
+	{
+		"current_url": "https://www.clir.org/pubs/reports/dhc-auv-assessment/",
+		"new_url": "http://localhost:4000/archives.clir.org/reports/pub183/"
+	},
+	{
+		"current_url": "https://www.clir.org/wp-content/uploads/sites/6/2023/02/Evaluating-Equity-and-Inclusion-in-Cultural-Heritage-Grantmaking-CLIR.pdf",
+		"new_url": "https://doi.org/10.5281/zenodo.7806124"
+	}
+]
