@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% if clir_id %}
-
 <!-- # see https://www.11ty.dev/docs/collections/#collection-item-data-structure # -->
 {%- assign thumbnail = clir_id | append: '.png' -%}
 {%- assign doi_link = doi | prepend: 'https://doi.org/' -%}
@@ -68,4 +66,11 @@ layout: default
     </p>
 </div>
 {% endif %}
-{% endif %}
+
+<div class="container">
+    {% assign previousPost = collections.reports | getPreviousCollectionItem %}
+    {% assign nextPost = collections.reports | getNextCollectionItem %}
+
+    {% if previousPost %}Previous Report: <a href="{{ previousPost.url | url}}">{{ previousPost.data.title }}</a>{% endif %}
+    {% if nextPost %}Next Report: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>{% endif %}
+</div>
