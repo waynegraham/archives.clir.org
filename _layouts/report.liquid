@@ -9,12 +9,10 @@ layout: default
 {%- assign doi_link = doi | prepend: 'https://doi.org/' -%}
 {%- assign thumb_path =  thumbnail | prepend: 'assets/images/reports/' | url -%}
 
-
 <div class="container py-5 px-3 lh-lg" id="metadata">
-    
+
     {% if doi %}
         <a href="{{ doi_link }}" target="_blank">
-            {%# image thumb_path, title, "100vw", "img-fluid img-thumbnail float-end" %}
             <img src="{{ thumbnail | prepend: '/assets/images/reports/' | url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ title}} Cover">
         </a>
     {% else %}
@@ -71,3 +69,10 @@ layout: default
 </div>
 {% endif %}
 {% endif %}
+
+{% assign previousReport = reports.posts | getPreviousCollectionItem %}
+{% assign nextReport= reports.posts | getNextCollectionItem %}
+
+{% if previousReport %}Previous Report: <a href="{{ previousReport.url }}">{{ previousReport.data.title }}</a>{% endif %}
+{% if nextReport %}Next Report: <a href="{{ nextReport.url }}">{{ nextReport.data.title }}</a>{% endif %}
+    
