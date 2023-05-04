@@ -125,7 +125,7 @@ p {
 }
 
 #header {
-  background-image: url("../images/mosaic-background.jpg");
+  background-image: url("../images/mosaic-background.webp");
   min-height: 270px;
 }
 #header .header-box {
