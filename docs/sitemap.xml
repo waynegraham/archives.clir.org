@@ -152,6 +152,11 @@
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf001/</loc>
+            <lastmod>1998-12-06T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub077/</loc>
             <lastmod>1999-01-01T00:00:00.000Z</lastmod>
         </url>
@@ -159,6 +164,11 @@
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub078/</loc>
             <lastmod>1999-01-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf002/</loc>
+            <lastmod>1999-01-29T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -182,13 +192,28 @@
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf003/</loc>
+            <lastmod>1999-06-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub083/</loc>
             <lastmod>1999-06-01T00:00:00.000Z</lastmod>
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf004/</loc>
+            <lastmod>1999-07-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub084/</loc>
             <lastmod>1999-07-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf005/</loc>
+            <lastmod>1999-08-01T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -207,6 +232,11 @@
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf006/</loc>
+            <lastmod>2000-01-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub088/</loc>
             <lastmod>2000-02-01T00:00:00.000Z</lastmod>
         </url>
@@ -214,6 +244,11 @@
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub089/</loc>
             <lastmod>2000-02-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf007/</loc>
+            <lastmod>2000-03-01T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -227,6 +262,26 @@
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf008/</loc>
+            <lastmod>2000-03-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf010/</loc>
+            <lastmod>2000-03-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf009/</loc>
+            <lastmod>2000-04-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf011/</loc>
+            <lastmod>2000-04-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub092/</loc>
             <lastmod>2000-05-01T00:00:00.000Z</lastmod>
         </url>
@@ -237,6 +292,21 @@
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf012/</loc>
+            <lastmod>2000-07-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf013/</loc>
+            <lastmod>2000-08-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf014/</loc>
+            <lastmod>2000-09-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub094/</loc>
             <lastmod>2000-10-01T00:00:00.000Z</lastmod>
         </url>
@@ -244,6 +314,61 @@
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub095/</loc>
             <lastmod>2000-10-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf015/</loc>
+            <lastmod>2000-12-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf016/</loc>
+            <lastmod>2000-12-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf017/</loc>
+            <lastmod>2001-01-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf018/</loc>
+            <lastmod>2001-01-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf019/</loc>
+            <lastmod>2001-01-03T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf020/</loc>
+            <lastmod>2001-01-04T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf021/</loc>
+            <lastmod>2001-02-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf022/</loc>
+            <lastmod>2001-03-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf023/</loc>
+            <lastmod>2001-04-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf024/</loc>
+            <lastmod>2001-04-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf025/</loc>
+            <lastmod>2001-05-01T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -262,8 +387,33 @@
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf026/</loc>
+            <lastmod>2001-07-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub099/</loc>
             <lastmod>2001-07-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf027/</loc>
+            <lastmod>2001-07-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf028/</loc>
+            <lastmod>2001-07-24T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf029/</loc>
+            <lastmod>2001-07-30T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf030/</loc>
+            <lastmod>2001-07-30T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -292,8 +442,28 @@
         </url>
     
         <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf031/</loc>
+            <lastmod>2002-01-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub105/</loc>
             <lastmod>2002-01-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf033/</loc>
+            <lastmod>2002-02-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf034/</loc>
+            <lastmod>2002-03-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf035/</loc>
+            <lastmod>2002-03-14T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -319,6 +489,11 @@
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/pub110/</loc>
             <lastmod>2002-08-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/dlf032/</loc>
+            <lastmod>2002-12-01T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -688,62 +863,67 @@
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/404.html</loc>
-            <lastmod>2023-05-02T19:18:53.817Z</lastmod>
+            <lastmod>2023-05-04T13:21:55.914Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/README/</loc>
-            <lastmod>2023-05-02T19:18:53.817Z</lastmod>
+            <lastmod>2023-05-04T13:21:55.915Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/annual-reports/</loc>
-            <lastmod>2023-05-02T19:18:53.821Z</lastmod>
+            <lastmod>2023-05-04T13:21:55.920Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/archives/</loc>
-            <lastmod>2023-05-02T19:18:53.821Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/resources/articles/</loc>
-            <lastmod>2023-05-02T19:18:53.821Z</lastmod>
+            <lastmod>2023-05-04T13:21:55.920Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/assets/js/search.json</loc>
-            <lastmod>2023-05-02T19:18:53.822Z</lastmod>
+            <lastmod>2023-05-04T13:21:55.924Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/</loc>
-            <lastmod>2023-05-02T19:18:54.789Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/</loc>
-            <lastmod>2023-05-02T19:18:54.798Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/search/</loc>
-            <lastmod>2023-05-02T19:18:54.833Z</lastmod>
+            <lastmod>2023-05-04T13:21:57.690Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/archives/podcasts</loc>
-            <lastmod>2023-05-02T19:19:01.372Z</lastmod>
+            <lastmod>2023-05-04T13:21:57.699Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/reports/</loc>
+            <lastmod>2023-05-04T13:21:57.699Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/resources/articles/</loc>
+            <lastmod>2023-05-04T13:21:57.834Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/ruminations/</loc>
-            <lastmod>2023-05-02T19:26:02.652Z</lastmod>
+            <lastmod>2023-05-04T13:21:57.834Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/search/</loc>
+            <lastmod>2023-05-04T13:21:57.835Z</lastmod>
         </url>
     
         <url>
             <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/archives/sustaining-public-media</loc>
-            <lastmod>2023-05-02T19:31:09.762Z</lastmod>
+            <lastmod>2023-05-04T13:21:57.835Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://waynegraham.github.io/archives.clir.org/archives.clir.org/scratch/</loc>
+            <lastmod>2023-05-04T13:39:45.854Z</lastmod>
         </url>
     
 </urlset>

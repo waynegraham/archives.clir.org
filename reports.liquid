@@ -23,7 +23,7 @@ title: CLIR Reports
 <div class="py-5">
     <h2 class="pb-4 mb-4 border-bottom fs-1">{{ title }}</h2>
 
-{% for report in collections.reports | reverse  %}
+{% for report in collections.reports | reverse %}
     <p>
         <a href="{{ report.url | url }}">{{ report.data.title }}</a> 
         {{ report.data.date | date: '%B %Y' }}. 

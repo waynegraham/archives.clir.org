@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+{% if clir_id %}
+
 <!-- # see https://www.11ty.dev/docs/collections/#collection-item-data-structure # -->
 {%- assign thumbnail = clir_id | append: '.png' -%}
 {%- assign doi_link = doi | prepend: 'https://doi.org/' -%}
@@ -66,4 +69,5 @@ layout: default
         <strong>{{ title }}</strong> is licensed under {% include 'licence_map.html' %}.
     </p>
 </div>
+{% endif %}
 {% endif %}

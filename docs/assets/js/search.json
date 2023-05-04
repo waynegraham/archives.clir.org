@@ -181,6 +181,12 @@
     },
 
     {
+        "title":"Developing a standard for recording contextual information for archival and manuscript materials",
+        "url":"/archives.clir.org/reports/dlf001/",
+        "description":""
+    },
+
+    {
         "title":"Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation",
         "url":"/archives.clir.org/reports/pub077/",
         "description":"The report follows up Dr. Rothenberg’s 1995 article in Scientific American, “Ensuring the Longevity of Digital Documents” by elaborating the author’s proposal for emulating obsolete software/hardware systems on future, unknown systems, as a means of preserving digital information far into the future. The report, and the research agenda it proposes, will be of interest to managers of digital information resources in libraries and archives, computer scientists, and to all those concerned about the preservation of intellectual resources and records in all formats-including government records, medical records, corporate data, and environmental and scientific data. In the author’s view, the emulation approach is not just a promising candidate for a solution to the problem of digital preservation, but the only approach offering a true solution to the problem. In the report, he explores the problem of long-term digital preservation, spells out the criteria for an ideal solution, and analyzes the shortcomings of other solutions (printing and preserving hard copy, translating digital documents so that they migrate into new systems, reading them on obsolete systems preserved in museums, or relying on standards to keep them readable). Then he describes how to encapsulate a document so that is can be decoded by an emulator, the sequence of events required to preserve the document and to read it on future systems, and the techniques that need to be developed in order to make emulation work."
@@ -190,6 +196,12 @@
         "title":"Scholarship, Instruction, and Libraries at the Turn of the Century",
         "url":"/archives.clir.org/reports/pub078/",
         "description":"To understand how technology is changing the nature of scholarship and teaching, the American Council of Learned Societies (ACLS) and the Council on Library and Information Resources (CLIR) joined forces to establish five task forces that examined these questions by looking at the special requirements posed by different types of information resources. The deliberations of these task forces are detailed in this report."
+    },
+
+    {
+        "title":"DIGITAL LIBRARY FEDERATION WORKSHOP ON SOCIAL SCIENCE DATA ARCHIVES",
+        "url":"/archives.clir.org/reports/dlf002/",
+        "description":""
     },
 
     {
@@ -217,15 +229,33 @@
     },
 
     {
+        "title":"Academic Image Cooperative",
+        "url":"/archives.clir.org/reports/dlf003/",
+        "description":""
+    },
+
+    {
         "title":"Preserving the Whole: A Two-Track Approach to Rescuing Social Science Data and Metadata",
         "url":"/archives.clir.org/reports/pub083/",
         "description":"Focusing on the experience of the Yale University (Connecticut) social science data preservation project, this document presents a case study of migration as a preservation strategy, exploring options for migrating data stored in a technically obsolete format and their associated documentation stored on paper. The first section provides background and a project description, an overview of the Yale Roper Collection of public opinion research data sets and paper records, and a summary of the literature search. The following nine steps of the data track are described in the second section: identify equipment; copy files from mainframe-based media to local hard disks; examine documentation; define the column binary format; develop standard variable-naming classifications; read in data with SAS (Statistical Analysis System) and SPSS (Statistical Package for the Social Sciences); identify migration formats; recode data files with SAS; and create spread ASCII data files without recoding. The next section addresses the documentation track, including software/equipment, TextBridge Pro optical character recognition software, PDF (portable document format) files from Adobe Capture, and HTML and SGML/XML marked-up files. Findings and recommendations are presented in the fourth section, including user evaluation, findings about data/documentation conversion, and recommendations to data producers. A glossary is included, and support documents are appended."
     },
 
     {
+        "title":"Supporting Access to Diverse and Distributed Finding Aids: A Final Report to the Digital Library Federation on the Distributed Finding Aid Server Project",
+        "url":"/archives.clir.org/reports/dlf004/",
+        "description":""
+    },
+
+    {
         "title":"Securing Our Dance Heritage: Issues in the Documentation and Preservation of Dance",
         "url":"/archives.clir.org/reports/pub084/",
         "description":"Securing Our Dance Heritage focuses on the documentation of, access to, and preservation of our dance heritage. It is coauthored by an eminent dance ethnologist and a leader in the field of dance librarianship. In the first chapter, Allegra Fuller Snyder discusses the cultural and intellectual value of dance and articulates what elements of dance should be recorded and made accessible so that scholars, performers, creators, and the public can grasp fully the rich history of human expression embodied in dance. In the following two chapters, Catherine Johnson explores the various strategies used for making those resources accessible and the problems we face in preserving the fragile media on which these often unique and valuable sources are recorded. This report addresses the full range of issues involved in evaluating, documenting, preserving, and making accessible the history of dance. It will be of interest not only to members of the international dance community, but also to libraries and archives that house dance materials, many of which are dispersed throughout collections of sport, anthropology, and religion. It will also interest historians and funders of the performing arts, scientists, and scholars of all types, who will find in dance documentation rich new resources for investigating this uniquely expressive human activity, and, more broadly, the managers of research institutions that hold or are acquiring collections in nonprint form."
+    },
+
+    {
+        "title":"Digital Certificate Infrastructure: Frequently Asked Questions",
+        "url":"/archives.clir.org/reports/dlf005/",
+        "description":"Providing secure, low cost, and easy access to distributed instructional and research resources is a growing problem for campus library and information technology professionals. This FAQ provides information on the use of digital certificates as a means of authentication for distributed access to resources. It is designed for two audiences: university librarians and staff responsible for licensed content contracts, and university administrators—presidents, provosts, and directors of campus information technology."
     },
 
     {
@@ -247,6 +277,12 @@
     },
 
     {
+        "title":"AIC Brochure",
+        "url":"/archives.clir.org/reports/dlf006/",
+        "description":"The AIC is led by the Digital Library Federation (DLF) with support from the College Art Association (CAA). Funded to July 2000 by The Andrew W. Mellon Foundation and the DLF, and with contributions from Yale and Carnegie Mellon Universities, the AIC is presently developing a prototype. The prototype is envisaged as a working system exemplifying what may be achieved in a networked environment by and for the visual arts community. It is a collection of images and a set of tools that may be implemented, configured, and extended locally to meet institutional needs. It is designed according to open source principles and in compliance with industry- wide standards and best practices. As importantly, during the prototype’s development, the AIC will investigate organizational, legal, and business issues and produce a set of recommendations about how best to secure the development of what we hope may emerge as a vital community resource. The prototype’s development is a collaborative effort that draws upon the expertise of art historians, visual resource specialists, leading computer technologists, and business and legal advisors. Its presentation to interested communities in venues such as the CAA Annual Meeting and the Art Libraries Society of North American Conference affords a crucial opportunity to solicit feedback from potential users and contributors— feedback that may be incorporated into its further development."
+    },
+
+    {
         "title":"Collections, Content, and the Web",
         "url":"/archives.clir.org/reports/pub088/",
         "description":"Thirty leaders of museums and libraries met at the Chicago Historical Society (October 5-7, 1999) to discuss common questions and concerns about digitization of collections and explore the ways that the World Wide Web is affecting their collection-based institutions. This report presents the papers, under the headings of “Technology,” “Audience,” and “Collections,” that were prepared in advance of the meeting and summaries, in each section, of the discussions they provoked. Following an introductory section by Abby Smith, papers include: “Mainstreaming Digitization into the Mission of Cultural Repositories” (Anne R. Kenney); “If You Build It and They Come, Will They Come Back?” (Katherine P. Spiess and Spencer R. Crew); “Library Collections Online” (Abby Smith); and “Museum Collections Online” (Bernard Reilly). The report ends with a concluding discussion and section outlining next steps. Appendices include a list of conference participants and a summary of the report, with tables and figures."
@@ -256,6 +292,12 @@
         "title":"Enduring Paradigm, New Opportunities: The Value of the Archival Perspective in the Digital Environment",
         "url":"/archives.clir.org/reports/pub089/",
         "description":"This report examines how the archival perspective can be useful in addressing problems faced by those who design, manage, disseminate, and preserve digital information. For years, archivists have grappled with many of the issues that are gaining broad attention in the digital environment. Since the 1960s, the archival community has worked closely with creators of records and record-keeping systems to develop means to identify and preserve digital records that have no paper counterpart. Emerging dialog about how to define and ensure authenticity in digital objects can also benefit from the archivist’s perspective. Archival institutions serve an important legal function in society, and concern for retaining the evidential value of records has placed the archival community at the forefront of research and development in digital authentication. The author reviews several recent and ongoing projects in which the archival community has provided leadership in setting the agenda or integrating the archival perspective."
+    },
+
+    {
+        "title":"Report of the Making of America II DTD DLF Workshop",
+        "url":"/archives.clir.org/reports/dlf007/",
+        "description":"The workshop opened with comments by J. McDonough (NYU) regarding the origins and purpose of the workshop. University research libraries that have begun to create digital collections have encountered some common problems surrounding metadata and encoding for digitized versions of primary source material, including: * inadequacy of traditional descriptive metadata schemes for describing digital objects; * the absence of standards for administrative metadata; and * the need for a flexible mechanism to express structural metadata regarding digitized versions of a wide range of materials in different formats (text, image, audio, video, etc.). The Making of America II project (MOA2), sponsored in part by the Digital Library Federation, attempted to address some of these issues, and created an XML DTD based on the research the project participants had done on descriptive, administrative and structural metadata schemes. This XML format provided a single document type that could encode descriptive, administrative and structural metadata for a wide range of materials. However, it was intentionally restricted to textual and image materials, and so does not adequately support the needs of those trying to create digital libraries of audio-visual materials. A variety of other shortcomings of the DTD have also been identified by those trying to employ the DTD. This workshop was intended to try to examine the use of MOA2 to date and see if a successor format could be created which would rectify the MOA2 DTD’s shortcomings."
     },
 
     {
@@ -271,6 +313,30 @@
     },
 
     {
+        "title":"Digital Library Authentication and Authorization Architecture",
+        "url":"/archives.clir.org/reports/dlf008/",
+        "description":""
+    },
+
+    {
+        "title":"The AIC Draft Collection Strategy and Development Framework",
+        "url":"/archives.clir.org/reports/dlf010/",
+        "description":""
+    },
+
+    {
+        "title":"Strategies for developing sustainable and scaleable digital library collections",
+        "url":"/archives.clir.org/reports/dlf009/",
+        "description":""
+    },
+
+    {
+        "title":"Minimum Criteria for an Archival Repository of Digital Scholarly Journals",
+        "url":"/archives.clir.org/reports/dlf011/",
+        "description":""
+    },
+
+    {
         "title":"Authenticity in a Digital Environment",
         "url":"/archives.clir.org/reports/pub092/",
         "description":"On January 24, 2000, CLIR convened a group of experts from different domains of the information resources community to address the question: What is an authentic digital object? To prepare for the discussion, five individuals were asked to write position papers that identify the attributes that define authentic digital data over time. These papers, together with a brief reflection on the workshop, are presented here. The authors of the papers are Charles T. Cullen, Peter B. Hirtle, David Levy, Clifford A. Lynch, and Jeff Rothenberg. Additional discussion is provided by Abby Smith."
@@ -283,6 +349,24 @@
     },
 
     {
+        "title":"A New Approach to Finding Research Materials on the Web",
+        "url":"/archives.clir.org/reports/dlf012/",
+        "description":""
+    },
+
+    {
+        "title":"Final report of a planning process for the Academic Image Exchange (now the Academic Image Cooperative) Prototype. A digital image resource for students, teachers, and scholars of The History of Art and related disciplines",
+        "url":"/archives.clir.org/reports/dlf013/",
+        "description":""
+    },
+
+    {
+        "title":"The Academic Image Co-operative",
+        "url":"/archives.clir.org/reports/dlf014/",
+        "description":""
+    },
+
+    {
         "title":"White Paper on Electronic Journal Usage Statistics",
         "url":"/archives.clir.org/reports/pub094/",
         "description":"This paper provides a snapshot of developments in the electronic journal industry. The first section identifies issues affecting librarians and publishers, including: (1) issues of common concern to both publishers and librarians, e.g., lack of comparable data, lack of context, incomplete usage data, marketing, content provided, interface affecting usage, economic model, and user privacy; (2) library issues, e.g., budget justification and impact on selection; and (3) a publisher issue, internal applications. Quantitative measures are discussed in the second section, including what data elements should be collected and data reliability. The third section suggests a meeting at which publishers who have already implemented statistical functionality can share what they have learned, including producing useful data and interpreting the data. Appendices include summaries of interviews with librarians and publishers, the ICOLC (International Coalition of Library Consortia) &quot;Guidelines for Statistical Measures of Usage of Web-Based Indexed, Abstracted, and Full Text Resources,&quot; and descriptions of related industry initiatives."
@@ -292,6 +376,72 @@
         "title":"Preservation Science Survey: An Overview of Recent Developments in Research on the Conservation of Selected Analog Library and Archival Materials",
         "url":"/archives.clir.org/reports/pub095/",
         "description":"This report presents an overview of recent research in the preservation of three information carriers: paper, film and photographic materials, and magnetic tape. It covers significant developments internationally over the last five years and concentrates on emerging technologies that have the potential for large-scale application. The review focuses on work being done in North America, Europe, and Australia. It is intended for those who make decisions about preservation as well as the foundations and other organizations that support such work. Recognizing that this survey cannot convey the full scope or detail of the research noted, the authors have provided contact information for the individuals and institutions mentioned in this survey and a list of references."
+    },
+
+    {
+        "title":"Structural, technical, and administrative metadata standards. A discussion document",
+        "url":"/archives.clir.org/reports/dlf015/",
+        "description":""
+    },
+
+    {
+        "title":"Towards a Shared Cataloguing Tool for VR Collections",
+        "url":"/archives.clir.org/reports/dlf016/",
+        "description":""
+    },
+
+    {
+        "title":"Digital Library Policies, Organizations, and Practices",
+        "url":"/archives.clir.org/reports/dlf017/",
+        "description":""
+    },
+
+    {
+        "title":"How and Why Libraries are Changing",
+        "url":"/archives.clir.org/reports/dlf018/",
+        "description":""
+    },
+
+    {
+        "title":"DLF evaluation of the Open Archives Initiative",
+        "url":"/archives.clir.org/reports/dlf019/",
+        "description":""
+    },
+
+    {
+        "title":"DLF evaluation of the Open Archives Initiative",
+        "url":"/archives.clir.org/reports/dlf020/",
+        "description":""
+    },
+
+    {
+        "title":"Website of The Andrew W. Mellon Foundation’s e-journal archiving program",
+        "url":"/archives.clir.org/reports/dlf021/",
+        "description":""
+    },
+
+    {
+        "title":"Tools for Academic Electronic Publishing",
+        "url":"/archives.clir.org/reports/dlf022/",
+        "description":""
+    },
+
+    {
+        "title":"Shared Cataloguing Tool for Visual Resources",
+        "url":"/archives.clir.org/reports/dlf023/",
+        "description":""
+    },
+
+    {
+        "title":"Registry of Digital Reproductions of Paper-based Books and Serials",
+        "url":"/archives.clir.org/reports/dlf024/",
+        "description":""
+    },
+
+    {
+        "title":"Report Imaging Practitioners Meeting on 30 March 2001",
+        "url":"/archives.clir.org/reports/dlf025/",
+        "description":""
     },
 
     {
@@ -313,9 +463,39 @@
     },
 
     {
+        "title":"Dimension and Use of the Scholarly Information Environment",
+        "url":"/archives.clir.org/reports/dlf026/",
+        "description":"The backdrop for this study is that the Digital Library Federation (DLF) has become increasingly concerned by the absence of reliable information with which to document and explain changing patterns of library use in universities and colleges. DLF repeatedly hears from academic library directors that such analyses are vital but missing ingredients of their strategic planning, and of the business case they make to faculty and senior administrators either to win or bolster support for the library and its changing directions."
+    },
+
+    {
         "title":"Selection and Presentation of Commercially Available Electronic Resources: Issues and Practices",
         "url":"/archives.clir.org/reports/pub099/",
         "description":"Author Timothy D. Jewell, head of collection management services at the University of Washington, provides an in-depth look at how several research libraries select, license, present, and support the use of commercial online materials. Uncovering a variety of practices, he identifies those that are proving to be most effective integrating commercial online materials into library collections. He includes a decision tool that emphasizes and supports strategic planning, and encourages careful consideration of how libraries’ functions and professional staff are organized. He also supplies a reference tool, citing working papers and operational guidelines that libraries rely on but rarely “publish.” Finally, the author frames an important and practical development agenda by encouraging libraries to collaborate in designing information systems capable of organizing the detailed and often dynamic information they need to maintain about their commercial holdings."
+    },
+
+    {
+        "title":"More Access at Less Cost: The Case for a Digital Registry",
+        "url":"/archives.clir.org/reports/dlf027/",
+        "description":""
+    },
+
+    {
+        "title":"Report of a meeting of the DLF on preservation reformatting practices",
+        "url":"/archives.clir.org/reports/dlf028/",
+        "description":""
+    },
+
+    {
+        "title":"Draft benchmark for digital reproductions of printed books and serial publications",
+        "url":"/archives.clir.org/reports/dlf029/",
+        "description":""
+    },
+
+    {
+        "title":"Registry of Archival Masters of Digital Monographs and Serials",
+        "url":"/archives.clir.org/reports/dlf030/",
+        "description":""
     },
 
     {
@@ -349,9 +529,33 @@
     },
 
     {
+        "title":"Evaluation of the Digital Library Federation, 1995-2001. Summary report",
+        "url":"/archives.clir.org/reports/dlf031/",
+        "description":""
+    },
+
+    {
         "title":"Usage and Usability Assessment: Library Practices and Concerns",
         "url":"/archives.clir.org/reports/pub105/",
         "description":"This report offers a survey of the methods that are being deployed at leading digital libraries to assess the use and usability of their online collections and services. Focusing on 24 Digital Library Federation member libraries, the study’s author, Distinguished DLF Fellow Denise Troll Covey, conducted numerous interviews with library professionals who are engaged in assessment. The report describes the application, strengths, and weaknesses of assessment techniques that include surveys, focus groups, user protocols, and transaction log analysis. Covey’s work is also an essential methodological guidebook. For each method that she covers, she is careful to supply a definition, explain why and how libraries use the method, what they do with the results, and what problems they encounter. The report includes an extensive bibliography on more detailed methodological information, and descriptions of assessment instruments that have proved particularly effective."
+    },
+
+    {
+        "title":"Assessing Shibboleth as a means of authenticating and authorizing access to electronic scholarly publications. A DLF/CNI workshop",
+        "url":"/archives.clir.org/reports/dlf033/",
+        "description":""
+    },
+
+    {
+        "title":"Draft benchmark functions of digital masters",
+        "url":"/archives.clir.org/reports/dlf034/",
+        "description":""
+    },
+
+    {
+        "title":"Summary report of a meeting held on February 4-5, 2002 to consider requirements for am archivists’ toolkit",
+        "url":"/archives.clir.org/reports/dlf035/",
+        "description":""
     },
 
     {
@@ -382,6 +586,12 @@
         "title":"Dimensions and Use of the Scholarly Information Environment: Introduction to a Data Set Assembled by the Digital Library Federation and Outsell, Inc.",
         "url":"/archives.clir.org/reports/pub110/",
         "description":"Users’ expectations of libraries are changing as they find and obtain more information directly from the Web. To better understand how usage patterns are changing, the Digital Library Federation (DLF) and Council on Library and Information Resources (CLIR) commissioned Outsell, Inc., to conduct a large-scale study of undergraduates, graduate students, and faculty members from a wide range of academic institutions."
+    },
+
+    {
+        "title":"Benchmark for digital reproductions of monographs and serials. As endorsed by the DLF",
+        "url":"/archives.clir.org/reports/dlf032/",
+        "description":""
     },
 
     {
