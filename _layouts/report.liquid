@@ -69,10 +69,3 @@ layout: default
 </div>
 {% endif %}
 {% endif %}
-
-{% assign previousReport = reports.posts | getPreviousCollectionItem %}
-{% assign nextReport= reports.posts | getNextCollectionItem %}
-
-{% if previousReport %}Previous Report: <a href="{{ previousReport.url }}">{{ previousReport.data.title }}</a>{% endif %}
-{% if nextReport %}Next Report: <a href="{{ nextReport.url }}">{{ nextReport.data.title }}</a>{% endif %}
-    
