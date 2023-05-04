@@ -5,9 +5,9 @@ layout: default
 <main role="main" class="container">
     <div class="px-3 py-3 pt-md-5 pb-md-4">
         {%- set latestReport = collections.reports | last -%}
-        {%- set thumbnail = ["/assets/images/reports/", latestReport.data.clir_id, ".png"] | join -%}
+        {%- set thumbnail = ["assets/images/reports/", latestReport.data.clir_id, ".png"] | join -%}
         <a href="{{ latestReport.url | url }}">
-            <img src="{{ thumbnail | url }}" class="float-end vh-50" alt="{{ latestReport.data.title }}">
+            {% image thumbnail, latestReport.data.title, '50vh', 'float-end img' %}
         </a>
         {{ content | safe }}
     </div>
