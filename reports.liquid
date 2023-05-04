@@ -32,7 +32,6 @@ pagination:
         <a href="{{ report.url | url }}">{{ report.data.title }}</a> 
         {{ report.data.date | date: '%B %Y' }}. 
         {% if report.data.clir_id %}{{ report.data.clir_id }}. {% endif %}
-        {% if report.data.org %}<strong>{{ report.data.org }}</strong>{% endif %}
     </p>
 {% endfor %}
 </div>
