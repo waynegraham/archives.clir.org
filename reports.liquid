@@ -1,6 +1,10 @@
 ---
 layout: page
 title: CLIR Reports
+pagination:
+    data: collections.reports
+    size: 25
+    alias: reports
 ---
 
 <div class="row flex-lg-row-reverse align-items-center rounded-3 border shadow-lg">
@@ -32,3 +36,5 @@ title: CLIR Reports
     </p>
 {% endfor %}
 </div>
+
+{%# include 'pagination_reports.njk' #%}

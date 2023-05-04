@@ -3,6 +3,19 @@ layout: page
 title: Search
 ---
 
-<h2>Search the content</h2>
+<h2>Results</h2>
 
-{% include 'search.njk' %}
+<form method="get" id="search" action="{{'/search/' | url }}" class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+    <div class="input-group">
+    <input class="form-control mr-sm-2" id="search-box" type="text" placeholder="Search" name="q" aria-label="Search" aria-described-by="search-button">
+    <button id="search-button" aria-label="Search button" type="submit" class="btn btn-danger">
+        <i class="bi bi-search"></i>
+    </button>
+    </div>
+</form>
+
+<div class="list-group" id="results"></div>
+
+
+<script defer type="text/javascript" src="{{ '/assets/js/search.js' | url }}"></script>
+

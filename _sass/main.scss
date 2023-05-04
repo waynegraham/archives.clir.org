@@ -4,6 +4,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&display=swap');
 
+// https://ashleemboyer.com/blog/accessible-smooth-scroll-to-top-buttons-with-little-code
+html {
+    @media (prefers-reduced-motion: no-preference) {
+        scroll-behavior: smooth;
+    }
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -21,8 +28,10 @@ p {
     line-height: 2rem;
 }
 
+// TODO: hack to control image sizes
 .img-thumbnail {
     max-height: 300px;
+    max-width: 234px;
 }
 
 .small-image {
@@ -55,6 +64,15 @@ p {
     display: none;
     background-color: $clir_burgundy;
     border-color: $clir_burgundy;
+}
+
+.btn-danger {
+    background-color: $clir_burgundy;
+    border-color:$clir_burgundy;
+
+    &:hover {
+        background-color: lighten($clir_burgundy, 5%);
+    }
 }
 
 .float-start, .float-end { margin: 1.6rem; }

@@ -11,11 +11,11 @@ layout: default
 
     {% if doi %}
         <a href="{{ doi_link }}" target="_blank">
-            <img src="{{ thumbnail | prepend: '/assets/images/reports/' | url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ title}} Cover">
+            {% image thumb_path, title, '50vh', 'img img-thumbnail float-end' %}
         </a>
     {% else %}
         {% unless html_only == true %}
-        <img src="{{ thumbnail | prepend: '/assets/images/reports/' | url }}" height="300px" class="img-thumbnail float-end" loading="lazy" alt="{{ title}} Cover">
+            {% image thumb_path, title, '50vh', 'img img-thumbnail float-end' %}
         {% endunless %}
     {% endif %}
 
