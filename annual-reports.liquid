@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Annual Reports
+pagination:
+    data: annual_reports
+    size: 12
 ---
 <div class="py-5">
     <div class="container">
@@ -12,7 +15,8 @@ title: Annual Reports
         </div>
 
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-            {% for report in annual_reports %}
+            {%# for report in annual_reports #%}
+            {% for report in pagination.items %}
                 {% assign path = 'assets/images/annual_reports/' %}
                 <div class="col">
                     <div class="card shadow-sm h-100">
@@ -37,5 +41,8 @@ title: Annual Reports
                 </div>
             {% endfor %}
         </div>
+
+        {% include 'pagination.njk' %}
+
     </div>
 </div>
