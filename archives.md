@@ -29,7 +29,7 @@ Published from March 1998 to June 2000, this newsletter reported on preservation
 
 Published occasionally from July 1997 to September 1998, these briefs described the findings of research projects supported by CLIR.
 
-## [Ruminations]({{ 'ruminations' | url }})
+## [Ruminations]({{ '/ruminations/' | url }})
 A series featuring short research papers and essays that bring new perspective to issues relevant to planning for and managing organizational and institutional change in the evolving digital environment for scholarship and teaching.
 
 
