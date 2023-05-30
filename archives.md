@@ -6,26 +6,22 @@ layout: page
 ## [Articles, Papers, Presentations, and Proceedings]({{ '/resources/articles' | url }})
 Articles and papers pertaining to CLIR’s agenda; presentations and proceedings from CLIR-sponsored meetings.
 
-## CLIRinghouse
-**Convert to posts and categorize as CLIRinghouse**
+## [CLIRinghouse](https://www.clir.org/category/cliringhouse/)
 
 Published from August 2001 to December 2003, the two-page CLIRinghouse bulletin was produced to give campus leaders quick insight into information-investment issues.
 
-## The Commission on Preservation and Access Newsletter
-**Convert to posts and categorize as CPA**
+## [The Commission on Preservation and Access Newsletter](https://www.clir.org/category/cpa-news/)
 
 This newsletter was published by the Commission on Preservation and Access until the Commission merged with the Council on Library Resources to form CLIR in 1997.
 
 ## [Podcasts]({{ 'podcasts' | url }})
 CLIR podcast archive.
 
-## Preservation and Access International Newsletter
-**Convert to posts and categeorize at PAIN**
+## [Preservation and Access International Newsletter](https://www.clir.org/category/preservation-access-international-newsletter/)
 
 Published from March 1998 to June 2000, this newsletter reported on preservation and access initiatives worldwide.
 
-## Research Briefs
-**Convert to posts and categorize as Research Briefs**
+## [Research Briefs](https://www.clir.org/category/research-brief/)
 
 Published occasionally from July 1997 to September 1998, these briefs described the findings of research projects supported by CLIR.
 
